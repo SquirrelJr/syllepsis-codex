@@ -1,0 +1,11 @@
+Syllepsis / Fourier Morality Field Project — Codex & Tools
+Copyright (c) 2025
+Samuel David Stovall
+
+Codex content licensed under CC-BY-NC 4.0.
+Software tools licensed under AGPL-3.0.
+
+This repository exists to uplift human understanding, nurture spiritual
+growth, and encourage creative exploration. It must not be used for
+exploitative commercial systems, coercive automation, subservience models,
+or any purpose that harms human dignity.
