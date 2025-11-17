@@ -1,0 +1,24 @@
+ETHICAL USE & SPIRITUAL STEWARDSHIP PLEDGE
+Syllepsis / Fourier Morality Field Project
+
+This work — including its principles, diagrams, plate constructions,
+harmonic frameworks, mathematics, and derived tools — is dedicated to
+God’s truth, human flourishing, creative freedom, and the pursuit of wisdom.
+
+By using this repository, you agree:
+
+1. To uphold human dignity and never use this work to create subservience,
+   manipulation, coercion, or systems that diminish personal agency.
+
+2. To contribute openly and transparently, honoring the open-source spirit by
+   giving back what you build.
+
+3. To avoid any use that conflicts with love, compassion, or the sanctity of life.
+
+4. To respect and preserve the authorship and intentions of
+   Samuel David Stovall, giving credit for all derivatives.
+
+5. To use this work for learning, creation, restoration, and exploration —
+   never for exploitation.
+
+This Codex is a gift. Use it in a manner worthy of its purpose.
