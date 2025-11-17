@@ -1,0 +1,16 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+All software, code, scripts, simulators, generators, computational notebooks,
+visualizers, automation components, or derivative tools included in the Tools/
+directory of this repository are licensed under the GNU AGPL-3.0.
+
+You may run, study, share, and modify the software under the following terms:
+ • All modified versions, derivative works, and public-facing applications
+   (including web services) must also be licensed under AGPL-3.0 and must
+   make their complete source code publicly available to users.
+
+Commercialization and proprietary adaptation are prohibited unless the
+resulting software remains fully open-source and AGPL-compliant.
+
+Full license text: https://www.gnu.org/licenses/agpl-3.0.txt
