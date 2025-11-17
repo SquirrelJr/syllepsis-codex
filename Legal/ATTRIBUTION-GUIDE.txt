@@ -1,0 +1,10 @@
+ATTRIBUTION GUIDE
+
+For Codex text, plates, diagrams, and conceptual works:
+"Adapted from the Syllepsis / Fourier Morality Field Codex by
+Samuel David Stovall (CC-BY-NC 4.0)."
+
+For software/tools:
+"Portions derived from the Syllepsis Project Tools by
+Samuel David Stovall (AGPL-3.0). Source:
+https://github.com/<your-repo>"
