@@ -1,4 +1,3 @@
-```markdown
 
 # Reflections — Scripture Resonance Layer  
 Part of the Syllepsis / Fourier Morality Field Codex  
@@ -132,4 +131,3 @@ Attribution:
 
 ---
 
-```
