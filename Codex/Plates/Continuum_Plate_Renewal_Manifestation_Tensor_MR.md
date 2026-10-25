@@ -36,8 +36,7 @@ The Renewal Manifestation Tensor is defined as:
 =
 \lambda_{1} \, \Pi^{R}(g^{R}_{int})
 +
-\lambda_{2} \, 
-abla \Phi^{R}_{int}
+\lambda_{2} \, \nabla \Phi^{R}_{int}
 +
 \lambda_{3} \, \gamma^{R}_{global} \, g^{R}_{int}
 +
@@ -89,9 +88,7 @@ Renewal manifests when two conditions are met:
 2. **Gradient Condition**
 
 ```math
-
-abla \Phi^{R}_{int} 
-eq 0
+\nabla \Phi^{R}_{int} \neq 0
 ```
 
 Interpretation:
@@ -132,8 +129,7 @@ Each mode arises from different components of 𝓜ᴿ.
 The divergence of the Manifestation Tensor produces the **Manifestation Current**:
 
 ```math
-
-abla \cdot \mathcal{M}^{R}
+\nabla \cdot \mathcal{M}^{R}
 =
 J^{R}_{manifested}
 ```

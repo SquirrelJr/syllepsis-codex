@@ -47,7 +47,7 @@ Meaning:
 
 ## III. Continuity of Coherence (Metric Interface)
 
-As \( x \rightarrow \infty \):
+As $ x \rightarrow \infty $:
 
 ```math
 \lim_{x \rightarrow \infty}

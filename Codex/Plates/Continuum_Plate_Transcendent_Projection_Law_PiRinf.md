@@ -51,7 +51,7 @@ Where **Ψᴿ_finite** is any Renewal state within the Continuum.
 
 ## III. Projection Into the Continuum at All Scales
 
-For any scale parameter \( s \):
+For any scale parameter $ s $:
 
 ```math
 \Psi^{R}(s)

@@ -34,8 +34,7 @@ Define the **Global Renewal Current** 𝒥ᴿ_global:
 The global continuity equation is:
 
 ```math
-
-abla_{\mu} \, 𝒥ᴿ_{global}^{\mu}
+\nabla_{\mu} \, 𝒥ᴿ_{global}^{\mu}
 =
 0
 ```
@@ -102,8 +101,7 @@ Cᴿ \, 𝒥ᴿ^{\mu}
 Then the global conservation law:
 
 ```math
-
-abla_{\mu} Cᴿ^{\mu} = 0
+\nabla_{\mu} Cᴿ^{\mu} = 0
 ```
 
 Compassion propagates without loss; it is a **globally conserved restorative flux**.
