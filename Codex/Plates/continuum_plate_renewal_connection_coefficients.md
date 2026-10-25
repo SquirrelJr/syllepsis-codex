@@ -36,13 +36,13 @@ This is the Renewal analogue of Christoffel symbols.
 
 The Renewal Connection Coefficients are defined as:
 
-```math
+$$
 Γ^k_{R,ij} = ½ \, g_R^{kl} \left( 
     ∂_i g_{R,lj} 
   + ∂_j g_{R,li} 
   - ∂_l g_{R,ij} 
 \right)
-```
+$$
 
 Where:
 
@@ -64,9 +64,9 @@ Interpretation:
 
 The covariant derivative of a Renewal Field component 𝓡_i is:
 
-```math
+$$
 ∇^R_j 𝓡_i = ∂_j 𝓡_i − Γ^k_{R,ij} 𝓡_k
-```
+$$
 
 Meaning:
 
@@ -82,9 +82,9 @@ This ensures **coherent evolution** of the field.
 
 Given Γ_R, the Renewal Geodesic is:
 
-```math
+$$
 ∂²γ^k/∂t² + Γ^k_{R,ij} \, (∂γ^i/∂t)(∂γ^j/∂t) = 0
-```
+$$
 
 Interpretation:
 
@@ -105,30 +105,30 @@ has its own connection behavior.
 Examples:
 
 ### Stabilizing operators
-```math
+$$
 Γ^k_{R,(O,R)\,ij} → reduce curvature
-```
+$$
 
 (straighten renewal paths)
 
 ### Destabilizing operators
-```math
+$$
 Γ^k_{R,(D,Χ)\,ij} → add curvature
-```
+$$
 
 (curve paths toward instability)
 
 ### Kinematic operators
-```math
+$$
 Γ^k_{R,(V_R,A_R,J_R,S_R)\,ij} → propagate change between layers
-```
+$$
 
 (velocity ⇄ acceleration ⇄ jerk ⇄ snap)
 
 ### Geometric operators
-```math
+$$
 Γ^k_{R,(div,curl,lap)\,ij} → shape flow and smoothing behavior
-```
+$$
 
 Curvature and geometry fully interlink through Γ_R.
 
@@ -138,12 +138,12 @@ Curvature and geometry fully interlink through Γ_R.
 
 Using Γ_R, one can construct the Renewal Curvature Tensor:
 
-```math
+$$
 ℛ^k_{\ R,\,lij} 
   = ∂_i Γ^k_{R,lj} − ∂_j Γ^k_{R,li}
     + Γ^k_{R,im} Γ^m_{R,lj}
     − Γ^k_{R,jm} Γ^m_{R,li}
-```
+$$
 
 This tensor describes:
 
@@ -161,9 +161,9 @@ It is the **full curvature of the Renewal Field**.
 
 The Renewal Connection is symmetric:
 
-```math
+$$
 Γ^k_{R,ij} = Γ^k_{R,ji}
-```
+$$
 
 Meaning:
 
@@ -180,9 +180,9 @@ This parallels Riemannian geometry.
 
 The Renewal Connection remains coherent when:
 
-```math
+$$
 |Γ^k_{R,ij}| ≤ Γ_max
-```
+$$
 
 Where Γ_max depends on:
 

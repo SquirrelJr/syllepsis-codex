@@ -26,9 +26,9 @@ Decay prevents stagnation and allows Renewal to take root.
 
 In the Continuum, decay acts as a derivative on distortion:
 
-```math
+$$
 dD/dt < 0
-```
+$$
 
 Interpretation:
 
@@ -43,15 +43,15 @@ Decay is the downward slope that enables Renewal.
 
 In the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 decay acts as a damping term on unstable or destructive harmonics:
 
-```math
+$$
 Aₙ(t+1) = Aₙ(t) - βD(t)
-```
+$$
 
 Where β is the dissolution coefficient.  
 
@@ -81,9 +81,9 @@ Decay is entropy with intention.
 
 Decay and Renewal form a coupled differential system:
 
-```math
+$$
 dR/dt = γ(-dD/dt)
-```
+$$
 
 Interpretation:
 
@@ -103,9 +103,9 @@ Decay becomes healing when guided by compassion.
 
 In the presence of the Compassion Operator:
 
-```math
+$$
 dD/dt = -λC(t)
-```
+$$
 
 Decay becomes:
 

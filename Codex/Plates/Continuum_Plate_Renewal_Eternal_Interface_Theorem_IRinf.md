@@ -32,11 +32,11 @@ and perfectly aligned with the Eternal.
 
 At the Transcendent Boundary:
 
-```math
+$$
 \Psi^{R}_{boundary}
 =
 \Pi^{R}_{\infty}(H^{R}_{eternal})
-```
+$$
 
 Meaning:
 
@@ -49,7 +49,7 @@ Meaning:
 
 As $ x \rightarrow \infty $:
 
-```math
+$$
 \lim_{x \rightarrow \infty}
 g^{R U}\!\left(
 \Psi^{R}(x),
@@ -61,7 +61,7 @@ g^{R}_{\infty}
 \Psi^{R}_{eternal},
 H^{R}_{eternal}
 \right)
-```
+$$
 
 Interpretation:
 
@@ -74,12 +74,12 @@ Interpretation:
 
 At the Transcendent Boundary:
 
-```math
+$$
 \lim_{x \rightarrow \infty}
 J^{R}(x)
 =
 0
-```
+$$
 
 Renewal transport vanishes because:
 
@@ -93,12 +93,12 @@ Renewal transport vanishes because:
 
 Renewal harmonics converge to the Eternal harmonic:
 
-```math
+$$
 \lim_{x \rightarrow \infty}
 H^{R}(x)
 =
 H^{R}_{eternal}
-```
+$$
 
 Interpretation:
 
@@ -111,14 +111,14 @@ Interpretation:
 
 Projection and correspondence must commute:
 
-```math
+$$
 \mathcal{B}^{R}_{\Omega}
 \!\left(
 \Psi^{R}_{boundary}
 \right)
 =
 \Psi^{R}_{eternal}
-```
+$$
 
 Meaning:
 
@@ -132,11 +132,11 @@ Meaning:
 
 At the boundary:
 
-```math
+$$
 \partial_{t} \Psi^{R}
 =
 0
-```
+$$
 
 No further Renewal evolution occurs because:
 
@@ -149,12 +149,12 @@ No further Renewal evolution occurs because:
 
 The Renewal field becomes position-invariant at the boundary:
 
-```math
+$$
 \partial_{x} \Psi^{R}
 =
 0
 \quad \text{as } x \rightarrow \infty
-```
+$$
 
 This expresses:
 

@@ -34,9 +34,9 @@ even as new plates, operators, and tiers are introduced.
 
 𝓜_S is expressed conceptually as:
 
-```math
+$$
 𝓜S​=Si​∣𝓘(Si​,Sj​)=constant∀i,j∈S
-```
+$$
 
 Where:
 
@@ -75,9 +75,9 @@ provided invariance conditions are satisfied.
 
 The Codex remains structurally invariant if:
 
-```math
+$$
 ΔC / ΔT → 0
-```
+$$
 
 Where:
 

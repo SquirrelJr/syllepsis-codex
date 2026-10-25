@@ -27,9 +27,9 @@ Let **𝓕_R** denote the Renewal Field equipped with its operators, metrics, an
 
 We assert the **Systemic Closure Principle (SCP)**:
 
-```math
+$$
 SCP: dim(𝓕_R) → constant and complete
-```
+$$
 
 Formally:
 

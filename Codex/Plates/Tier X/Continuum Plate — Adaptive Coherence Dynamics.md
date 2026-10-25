@@ -25,15 +25,15 @@ Tier X studies adaptive recursive evolution.
 
 Define the **Adaptive Coherence Dynamics**
 
-```math
+$$
 \mathcal{A}_D
-```
+$$
 
 as the recursive dynamical process governing adaptive refinement of coherent recursive organization within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 Adaptive Coherence Dynamics regulate how recursive systems modify organizational behavior under recursive interaction, perturbation, and environmental coupling.
 
@@ -43,19 +43,19 @@ Adaptive Coherence Dynamics regulate how recursive systems modify organizational
 
 A recursively coherent system exhibits adaptive refinement if recursive evolution satisfies:
 
-```math
+$$
 \frac{d\mathcal{R}_C}{dt}
 >
 0
-```
+$$
 
 under admissible recursive interaction,
 
 where
 
-```math
+$$
 \mathcal{R}_C
-```
+$$
 
 denotes recursive coherence resilience.
 
@@ -78,7 +78,7 @@ The Continuum therefore develops evolving adaptive recursive organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, adaptive dynamics correspond to recursive modification of developmental landscapes and organizational pathways under sustained recursive interaction.
+Within $\mathfrak{G}_R$, adaptive dynamics correspond to recursive modification of developmental landscapes and organizational pathways under sustained recursive interaction.
 
 Stable recursive trajectories reinforce adaptive geometry.  
 Perturbation reshapes recursive accessibility.  

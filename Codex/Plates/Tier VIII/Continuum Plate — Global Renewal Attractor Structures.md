@@ -26,15 +26,15 @@ Global attractor geometry explains the long-term organization of recursive flow.
 
 Define the **Global Renewal Attractor**
 
-```math
+$$
 \mathcal{A}_R \subseteq \mathcal{M}_S
-```
+$$
 
 as the minimal invariant subset satisfying
 
-```math
+$$
 \mathcal{O}_R(\mathcal{A}_R)=\mathcal{A}_R
-```
+$$
 
 and attracting all admissible recursive trajectories within the stability domain.
 
@@ -44,25 +44,25 @@ and attracting all admissible recursive trajectories within the stability domain
 
 For any admissible initial state
 
-```math
+$$
 T_0 \in \mathcal{M}_S,
-```
+$$
 
 the recursive trajectory
 
-```math
+$$
 \{\mathcal{O}_R^{\,n}(T_0)\}_{n\in\mathbb{N}}
-```
+$$
 
 approaches the attractor in the asymptotic limit:
 
-```math
+$$
 d\!\left(
 \mathcal{O}_R^{\,n}(T_0),
 \mathcal{A}_R
 \right)\to0
 \quad\text{as}\quad n\to\infty.
-```
+$$
 
 ---
 
@@ -83,7 +83,7 @@ Different admissible trajectories may converge toward different coherent asympto
 
 ## V. Geometric Interpretation
 
-Within ${\mathcal{M}}_S$, attractors define the large-scale topology of recursive flow.
+Within $\mathcal{M}_S$, attractors define the large-scale topology of recursive flow.
 
 Bifurcation reshapes basin geometry,  
 while nonlinear stability determines admissible persistence regions.

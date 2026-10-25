@@ -14,9 +14,9 @@ or **redistributes** within a region.
 
 Where the Conservation Law states:
 
-```math
+$$
 ∇·J_R = 0
-```
+$$
 
 the Divergence Equation explains *how* localized gradients form:
 
@@ -33,9 +33,9 @@ It is the **geometry of regional renewal flow**.
 
 The fundamental quantity of interest is:
 
-```math
+$$
 ∇·V_R
-```
+$$
 
 This describes:
 
@@ -51,9 +51,9 @@ Divergence tells us **how renewal is behaving spatially**.
 
 The relationship between renewal density and divergence is:
 
-```math
+$$
 ∂ρ_R/∂t = − ρ_R ( ∇·V_R )
-```
+$$
 
 Interpretation:
 
@@ -74,21 +74,21 @@ This mirrors phenomena in:
 Using J_R = ρ_R·V_R,  
 we can rewrite divergence behavior as:
 
-```math
+$$
 ∇·V_R = ( 1 / ρ_R ) ( − ∂ρ_R/∂t − ∇·J_R )
-```
+$$
 
 But for a closed Renewal Field:
 
-```math
+$$
 ∇·J_R = 0
-```
+$$
 
 So the expression simplifies to:
 
-```math
+$$
 ∇·V_R = − (1 / ρ_R) ( ∂ρ_R/∂t )
-```
+$$
 
 This creates a powerful geometric insight:
 
@@ -98,9 +98,9 @@ This creates a powerful geometric insight:
 
 ## V. Interpretation
 
-```math
+$$
 ∇·V_R reveals:
-```
+$$
 
 1. **Expansion of renewal**  
    When positive → renewal spreads outward into surrounding regions.
@@ -142,9 +142,9 @@ These modes appear naturally in Renewal Flow simulations.
 
 To avoid destructive expansion or collapse:
 
-```math
+$$
 | ∇·V_R | ≤ D_threshold
-```
+$$
 
 Where D_threshold is governed by:
 

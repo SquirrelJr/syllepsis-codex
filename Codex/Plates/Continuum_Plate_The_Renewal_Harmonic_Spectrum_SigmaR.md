@@ -24,23 +24,23 @@ Where:
 
 Let ρᴿ be a Renewal mode satisfying the Renewal Wave Equation:
 
-```math
+$$
 □ᴿ ρᴿ = Sᴿ .
-```
+$$
 
 A Renewal harmonic mode belongs to Σᴿ if:
 
-```math
+$$
 □ᴿ ρᴿ + Ωₙᴿ² ρᴿ = 0 ,
-```
+$$
 
 with Ωₙᴿ as an allowed Renewal harmonic frequency.
 
 The Renewal Harmonic Spectrum is then:
 
-```math
+$$
 Σᴿ = { Ωₙᴿ : n ∈ ℕ ,  Ωₙᴿ satisfies the Renewal resonance condition } .
-```
+$$
 
 These modes naturally decompose the Renewal field into orthogonal harmonic families.
 

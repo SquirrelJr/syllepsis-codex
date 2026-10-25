@@ -24,15 +24,15 @@ We now examine how recursively reflective systems generate higher-order developm
 
 Define the **Reflective Generative Architecture**
 
-```math
+$$
 \mathcal{A}_G
-```
+$$
 
 as the higher-order recursive organizational framework governing generative construction of abstraction hierarchies, interpretive systems, and developmental coherence structures within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Reflective Generative Architectures regulate how recursively reflective systems construct recursively generative developmental organization.
 
@@ -42,23 +42,23 @@ Reflective Generative Architectures regulate how recursively reflective systems 
 
 A reflective generative structure
 
-```math
+$$
 G_R
-```
+$$
 
 exhibits recursive architectural generation if reflective recursive evolution satisfies:
 
-```math
+$$
 \Pi_G(G_R,t+\Delta t)
 >
 \Pi_G(G_R,t),
-```
+$$
 
 where
 
-```math
+$$
 \Pi_G
-```
+$$
 
 denotes recursive generative architectural accessibility.
 
@@ -81,7 +81,7 @@ The Continuum therefore develops reflective generative developmental organizatio
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, reflective generative architectures correspond to recursive developmental geometries capable of constructing new abstraction systems and organizational structures across reflective recursive evolution.
+Within $\mathfrak{G}_R$, reflective generative architectures correspond to recursive developmental geometries capable of constructing new abstraction systems and organizational structures across reflective recursive evolution.
 
 Interpretive systems become generatively constructive.  
 Abstraction architectures reorganize recursively.  

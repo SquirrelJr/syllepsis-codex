@@ -19,9 +19,9 @@ merely describable in the time or experiential domain.
 
 There exists a decomposition of the Renewal Field of the form:
 
-```math
+$$
 \mathcal{F}_R = \sum_{k} a_k(\tau)\, \phi_k
-```
+$$
 
 where:
 
@@ -33,9 +33,9 @@ Under Renewal evolution:
 τ → τ + 1
 
 
-```math
+$$
 \phi_k(\tau+1) = \phi_k(\tau)
-```
+$$
 
 and thus:
 

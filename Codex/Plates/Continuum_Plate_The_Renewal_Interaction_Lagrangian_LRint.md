@@ -24,7 +24,7 @@ establishing the dynamics, couplings, and stability conditions for Renewal field
 
 The Renewal Interaction Lagrangian is defined as:
 
-```math
+$$
 𝓛ᴿ_{int} =
 \frac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν}
 + κᴿ_O \, (Oᴿ_μ Oᴿ^{μ})
@@ -33,7 +33,7 @@ The Renewal Interaction Lagrangian is defined as:
 + κᴿ_R \, (Rᴿ_μ Rᴿ^{μ})
 + κᴿ_D \, (Dᴿ_μ Dᴿ^{μ})
 + ηᴿ \, (𝒥ᴿ^{μ} ∇_{μ} ρᴿ)
-```
+$$
 
 where:
 
@@ -53,17 +53,17 @@ Each term encodes how Renewal components contribute to interaction energy.
 
 The full Renewal Interaction Action is:
 
-```math
+$$
 Sᴿ_{int} = \int 𝓛ᴿ_{int} \, \sqrt{|gᴿ|} \, dVᴿ
-```
+$$
 
 Variation of the action yields the **Renewal Interaction Field Equations** via:
 
-```math
+$$
 \frac{∂𝓛}{∂φ}
 - ∇_{μ} \left( \frac{∂𝓛}{∂(∇_{μ} φ)} \right)
 = 0
-```
+$$
 
 for each Renewal operator **φ ∈ {Oᴿ, Χᴿ, Cᴿ, Rᴿ, Dᴿ, ρᴿ, 𝒥ᴿ}**.
 

@@ -18,15 +18,15 @@ than replacing, annihilating, or cloning it.
 
 There exists a mapping:
 
-```math
+$$
 \mathcal{I} : \mathcal{F}_R\Rightarrow \mathcal{F}_R 
-```
+$$
 
 such that under Renewal evolution:
 
-```math
+$$
 \mathcal{I}(\tau+1) \simeq \mathcal{I}(\tau)
-```
+$$
 
 where `\simeq` denotes **recognizable equivalence**, not equality. Equality would
 imply stagnation; equivalence permits refinement, growth, and sanctification.

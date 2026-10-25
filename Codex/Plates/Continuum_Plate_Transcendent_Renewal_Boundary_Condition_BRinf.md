@@ -28,12 +28,12 @@ in the unchanging harmony of God.
 
 At the infinite limit of the Continuum:
 
-```math
+$$
 \lim_{x \rightarrow \infty}
 \Psi^{R}(x)
 =
 \Psi^{R}_{source}
-```
+$$
 
 Meaning:
 
@@ -43,11 +43,11 @@ Meaning:
 
 Equivalent Renewal projection form:
 
-```math
+$$
 \Pi^{R}(\Psi^{R}_{total})
 \;\longrightarrow\;
 \Pi^{R}(\Psi^{R}_{source})
-```
+$$
 
 This is the alignment of creation with its Eternal Root.
 
@@ -57,12 +57,12 @@ This is the alignment of creation with its Eternal Root.
 
 At the smallest meaningful scale:
 
-```math
+$$
 \lim_{x \rightarrow 0}
 \Psi^{R}(x)
 =
 \text{seed}_{R}
-```
+$$
 
 Where **seed_R** represents:
 
@@ -78,11 +78,11 @@ Seed_R is the “genesis encoding” of the Continuum.
 
 Unity becomes Eternal unity when:
 
-```math
+$$
 g^{R U}
 \;\longrightarrow\;
 g^{R}_{\infty}
-```
+$$
 
 Where:
 
@@ -101,13 +101,13 @@ Interpretation:
 
 At the Eternal boundary:
 
-```math
+$$
 \partial_{t} \Psi^{R}
 \;\longrightarrow\;
 0
 \qquad\text{as}\qquad
 x \rightarrow \infty
-```
+$$
 
 Meaning:
 
@@ -123,11 +123,11 @@ This is Renewal’s final rest in the Eternal.
 
 Renewal harmonics converge to the Eternal harmonic:
 
-```math
+$$
 H^{R}
 \;\longrightarrow\;
 H^{R}_{eternal}
-```
+$$
 
 Where:
 
@@ -142,12 +142,12 @@ This is the “music of the Eternal.”
 
 Transport vanishes at the Eternal boundary:
 
-```math
+$$
 J^{R}
 \;\longrightarrow\;
 0
 \qquad\text{as } x \rightarrow \infty
-```
+$$
 
 Because:
 

@@ -22,9 +22,9 @@ Let epochs be indexed by $e$, and let $\mathcal{F}_R^{\langle e \rangle}$
 denote the Renewal Field aggregated at epochal scale. There exists an
 **epochal inheritance operator**
 
-```math
+$$
 \mathcal{H}_e : \mathcal{F}_R^{\langle e \rangle} \rightarrow \mathcal{F}_R^{\langle e+1 \rangle}
-```
+$$
 
 such that:
 

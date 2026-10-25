@@ -23,15 +23,15 @@ We now examine how recursively reflective systems optimize abstraction accessibi
 
 Define the **Meta-Optimization Landscape**
 
-```math
+$$
 \mathcal{L}_M
-```
+$$
 
 as the higher-order recursive developmental geometry governing optimization of abstraction accessibility, interpretive organization, and conceptual developmental coherence within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Meta-Optimization Landscapes regulate how reflective recursive systems reorganize higher-order interpretive developmental structures toward increasingly coherent abstraction accessibility.
 
@@ -41,23 +41,23 @@ Meta-Optimization Landscapes regulate how reflective recursive systems reorganiz
 
 An abstraction pathway
 
-```math
+$$
 \Gamma_A
-```
+$$
 
 undergoes meta-optimization if reflective recursive evolution satisfies:
 
-```math
+$$
 \Omega_M(\Gamma_A,t+\Delta t)
 >
 \Omega_M(\Gamma_A,t),
-```
+$$
 
 where
 
-```math
+$$
 \Omega_M
-```
+$$
 
 denotes recursive interpretive optimization accessibility.
 
@@ -80,7 +80,7 @@ The Continuum therefore develops reflective interpretive optimization organizati
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, meta-optimization landscapes correspond to recursive developmental geometries capable of optimizing abstraction accessibility and interpretive coherence across recursively evolving conceptual architectures.
+Within $\mathfrak{G}_R$, meta-optimization landscapes correspond to recursive developmental geometries capable of optimizing abstraction accessibility and interpretive coherence across recursively evolving conceptual architectures.
 
 Abstraction pathways become developmentally weighted.  
 Interpretive accessibility reorganizes recursively.  

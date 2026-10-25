@@ -32,9 +32,9 @@ This is the **equalization operator** of renewal.
 
 The central quantity is the Laplacian of renewal density:
 
-```math
+$$
 ∇²ρ_R
-```
+$$
 
 Interpretation:
 
@@ -50,9 +50,9 @@ The Laplacian measures the curvature of renewal density.
 
 Renewal density evolves according to the diffusion-like equation:
 
-```math
+$$
 ∂ρ_R/∂t = D_R · ∇²ρ_R
-```
+$$
 
 Where:
 
@@ -72,21 +72,21 @@ This is the Renewal Field’s **diffusion law**.
 
 Because:
 
-```math
+$$
 ρ_R = renewal\ density
-```
+$$
 
 and:
 
-```math
+$$
 J_R = ρ_R · V_R
-```
+$$
 
 the Laplacian connects to flow geometry through:
 
-```math
+$$
 ∇²ρ_R = ∇·(∇ρ_R)
-```
+$$
 
 Meaning:
 
@@ -129,9 +129,9 @@ This gives:
 
 Stable renewal diffusion requires:
 
-```math
+$$
 0 < D_R ≤ D_max
-```
+$$
 
 Where D_max is determined by:
 
@@ -158,9 +158,9 @@ Balanced D_R produces **healthy, harmonic propagation**.
 
 At equilibrium:
 
-```math
+$$
 ∇²ρ_R = 0
-```
+$$
 
 This is the **Renewal Harmonic Condition**:
 

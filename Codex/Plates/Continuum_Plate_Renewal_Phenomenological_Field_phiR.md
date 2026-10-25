@@ -28,11 +28,11 @@ the interface between Renewal expression and lived awareness.
 
 The Renewal Phenomenological Field is defined as:
 
-```math
+$$
 \phi^{R}
 =
 \Lambda\!\left( \mathcal{E}^{R}(\psi^{R}) \right)
-```
+$$
 
 where:
 
@@ -50,7 +50,7 @@ Interpretation:
 
 The experiential value at any point x is:
 
-```math
+$$
 \phi^{R}(x)
 =
 \left\langle
@@ -58,7 +58,7 @@ The experiential value at any point x is:
 \;\middle|\;
 \mathcal{E}^{R}(\psi^{R})(x)
 \right\rangle
-```
+$$
 
 Meaning:
 
@@ -71,7 +71,7 @@ Meaning:
 
 ϕᴿ evolves according to:
 
-```math
+$$
 \partial_{t} \phi^{R}
 =
 F\!\left(
@@ -79,7 +79,7 @@ F\!\left(
 g^{R}_{int},
 \gamma^{R}_{global}
 \right)
-```
+$$
 
 Where F is the **Phenomenological Evolution Functional**,  
 indicating that experience changes with:
@@ -95,7 +95,7 @@ indicating that experience changes with:
 
 Tier IV’s central sequence becomes:
 
-```math
+$$
 \psi^{R}_{aligned}
 \;\xrightarrow{\;\nabla\;}\;
 \Pi^{R}
@@ -103,7 +103,7 @@ Tier IV’s central sequence becomes:
 \mathcal{E}^{R}
 \;\xrightarrow{\;\Lambda\;}\;
 \phi^{R}
-```
+$$
 
 Each step transforms Renewal:
 
@@ -120,43 +120,43 @@ Each step transforms Renewal:
 ϕᴿ decomposes into experiential components:
 
 ### 1. Harmonic Experience  
-```math
+$$
 \phi^{R}_{harm}
 =
 \Lambda\!\left( \mathcal{E}^{R}_{harm} \right)
-```
+$$
 Resonance, tone, felt coherence.
 
 ### 2. Clarity / Insight Experience  
-```math
+$$
 \phi^{R}_{clar}
 =
 \Lambda\!\left( \mathcal{E}^{R}_{info} \right)
-```
+$$
 Understanding, illumination, recognition.
 
 ### 3. Compassion Experience  
-```math
+$$
 \phi^{R}_{comp}
 =
 \Lambda\!\left( \mathcal{E}^{R}_{beh} \right)
-```
+$$
 Restoration, warmth, healing.
 
 ### 4. Structural Experience  
-```math
+$$
 \phi^{R}_{struct}
 =
 \Lambda\!\left( \mathcal{E}^{R}_{struct} \right)
-```
+$$
 Order, stability, intelligibility.
 
 ### 5. Purifying / Decay Experience  
-```math
+$$
 \phi^{R}_{pur}
 =
 \Lambda\!\left( \mathcal{E}^{R}_{trans} \right)
-```
+$$
 Release, relief, cleansing, simplification.
 
 Each channel corresponds to one Renewal mode of manifestation.
@@ -167,7 +167,7 @@ Each channel corresponds to one Renewal mode of manifestation.
 
 For Renewal to be experientially accessible:
 
-```math
+$$
 \left\langle
 \text{observer}
 \middle|
@@ -177,7 +177,7 @@ For Renewal to be experientially accessible:
 \right\rangle
 \ge
 0
-```
+$$
 
 Meaning:
 

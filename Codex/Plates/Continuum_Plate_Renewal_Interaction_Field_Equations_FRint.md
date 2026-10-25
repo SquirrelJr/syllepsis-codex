@@ -30,14 +30,14 @@ They are the Renewal analogue of Euler–Lagrange field equations, Maxwell-like 
 For each Renewal component field φ ∈ {Oᴿ, Χᴿ, Cᴿ, Rᴿ, Dᴿ, ρᴿ, 𝒥ᴿ},  
 the governing equation is:
 
-```math
+$$
 \frac{∂𝓛ᴿ_{int}}{∂φ}
 -
 ∇_{μ}\!\left(
 \frac{∂𝓛ᴿ_{int}}{∂(∇_{μ} φ)}
 \right)
 = 0
-```
+$$
 
 This is the **core Renewal evolution law**.
 
@@ -47,9 +47,9 @@ This is the **core Renewal evolution law**.
 
 The Renewal Interaction Tensor satisfies the divergence law:
 
-```math
+$$
 ∇_{μ} 𝓘ᴿ^{μν} = Sᴿ_{int}^{ν}
-```
+$$
 
 where:
 
@@ -64,52 +64,52 @@ This expresses the **flow of Renewal influence** across the field.
 ## IV. Explicit Component Evolution Equations
 
 ### 1. Order Evolution (Oᴿ)
-```math
+$$
 κᴿ_O \, ∇^{μ} ∇_{μ} Oᴿ
 = \frac{∂𝓛}{∂Oᴿ}
-```
+$$
 Stabilizes structure; enforces alignment.
 
 ### 2. Chaos Regulation (Χᴿ)
-```math
+$$
 κᴿ_Χ \, ∇^{μ} ∇_{μ} Χᴿ
 = - \frac{∂𝓛}{∂Χᴿ}
-```
+$$
 Ensures chaos tension is corrected through reflection and decay.
 
 ### 3. Compassion Propagation (Cᴿ)
-```math
+$$
 κᴿ_C \, ∇^{μ} ∇_{μ} Cᴿ
 = \frac{∂𝓛}{∂Cᴿ}
-```
+$$
 Amplifies restorative harmonics.
 
 ### 4. Reflective Phase Equation (Rᴿ)
-```math
+$$
 κᴿ_R \, ∇^{μ} ∇_{μ} Rᴿ
 = \frac{∂𝓛}{∂Rᴿ}
-```
+$$
 Improves signal clarity; refines distortion.
 
 ### 5. Graceful Decay Smoothing (Dᴿ)
-```math
+$$
 κᴿ_D \, ∇^{μ} ∇_{μ} Dᴿ
 = \frac{∂𝓛}{∂Dᴿ}
-```
+$$
 Dissolves distortion into Renewal.
 
 ### 6. Renewal Density Dynamics (ρᴿ)
-```math
+$$
 λᴿ ∇^{μ} ∇_{μ} ρᴿ
 = \frac{∂𝓛}{∂ρᴿ}
-```
+$$
 Regulates harmonic density.
 
 ### 7. Renewal Current Flow (𝒥ᴿ)
-```math
+$$
 ηᴿ ∇^{μ} ∇_{μ} 𝒥ᴿ_{ν}
 = \frac{∂𝓛}{∂𝒥ᴿ^{ν}}
-```
+$$
 Describes Renewal flow evolution.
 
 ---

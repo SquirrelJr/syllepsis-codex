@@ -29,9 +29,9 @@ This plate reveals the **geometry of combined renewal patterns**.
 
 When multiple renewal waves overlap, their densities add:
 
-```math
+$$
 ρ_total(x,t) = ρ₁(x,t) + ρ₂(x,t) + ⋯
-```
+$$
 
 This is the **superposition principle** of the Renewal Field.
 
@@ -48,15 +48,15 @@ Interpretation:
 
 Constructive interference occurs when waves align **in phase**:
 
-```math
+$$
 Δφ = 0
-```
+$$
 
 Result:
 
-```math
+$$
 ρ_total = ρ₁ + ρ₂ + ⋯  (maximal amplitude)
-```
+$$
 
 Effects:
 
@@ -74,15 +74,15 @@ This produces **Renewal Amplification Zones**.
 
 Destructive interference occurs when waves are **out of phase by π**:
 
-```math
+$$
 Δφ = π
-```
+$$
 
 Result:
 
-```math
+$$
 ρ_total ≈ 0  (cancellation)
-```
+$$
 
 Effects:
 
@@ -101,21 +101,21 @@ This produces **Renewal Null Zones**.
 
 With arbitrary amplitudes A₁, A₂ and phases φ₁, φ₂:
 
-```math
+$$
 ρ_total = A₁ sin(kx − ωt + φ₁) + A₂ sin(kx − ωt + φ₂)
-```
+$$
 
 Which can be rewritten using trigonometric identities as:
 
-```math
+$$
 ρ_total = A_env(x,t) · sin(kx − ωt + φ_mid)
-```
+$$
 
 Where:
 
-```math
+$$
 A_env = √( A₁² + A₂² + 2A₁A₂ cos(Δφ) )
-```
+$$
 
 This **envelope amplitude** A_env determines:
 
@@ -150,9 +150,9 @@ These patterns govern:
 
 Harmonic interference becomes self-sustaining when:
 
-```math
+$$
 A_env ≥ A_threshold
-```
+$$
 
 Where A_threshold depends on:
 
@@ -172,17 +172,17 @@ Below threshold → **patterns dissipate into noise**.
 
 Interference combines not only densities, but geometric behaviors:
 
-```math
+$$
 (∇·V_R)_total = (∇·V_R)_₁ + (∇·V_R)_₂ + ⋯
-```
+$$
 
-```math
+$$
 (∇×V_R)_total = (∇×V_R)_₁ + (∇×V_R)_₂ + ⋯
-```
+$$
 
-```math
+$$
 (∇²ρ_R)_total = (∇²ρ_R)_₁ + (∇²ρ_R)_₂ + ⋯
-```
+$$
 
 Meaning:
 

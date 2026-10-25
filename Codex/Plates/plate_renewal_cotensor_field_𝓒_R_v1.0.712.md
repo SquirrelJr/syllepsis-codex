@@ -34,9 +34,9 @@ the Cotensor Field provides the **operator-lowering map**, enabling:
 
 The Renewal Cotensor Field is defined as:
 
-```math
+$$
 𝓒_{R,\,i} = g_{R,ij} 𝓡^j
-```
+$$
 
 Where:
 
@@ -56,15 +56,15 @@ i.e., how renewal curvature and geometry influence each operator.
 
 ## III. Renewal Duality Transformation
 
-```math
+$$
 𝓒_R = g_R · 𝓕_R
-```
+$$
 
 and the inverse:
 
-```math
+$$
 𝓕_R = g_R^{-1} · 𝓒_R
-```
+$$
 
 This creates:
 
@@ -77,9 +77,9 @@ This creates:
 
 ## IV. Cotensor Contraction with Curvature
 
-```math
+$$
 𝓚_{R,i} = ℛ_{R,ij} 𝓡^j
-```
+$$
 
 This reveals:
 
@@ -93,15 +93,15 @@ This reveals:
 
 Stabilizing projection:
 
-```math
+$$
 𝓒_{R}^{(stab)} = g_R · (O + R)
-```
+$$
 
 Destabilizing projection:
 
-```math
+$$
 𝓒_{R}^{(dest)} = g_R · (D + Χ)
-```
+$$
 
 These describe the **inner harmonic structure** of renewal.
 
@@ -109,9 +109,9 @@ These describe the **inner harmonic structure** of renewal.
 
 ## VI. Cotensor Flow Equation
 
-```math
+$$
 ∂𝓒_R/∂t = g_R · ∂𝓕_R/∂t  +  (∂g_R/∂t) · 𝓕_R
-```
+$$
 
 This describes how renewal “feels” the evolving geometry.
 
@@ -136,9 +136,9 @@ It is the **inner response surface** of the Renewal Field.
 
 ## VIII. Stability Condition
 
-```math
+$$
 ‖𝓒_R‖ ≤ C_max
-```
+$$
 
 Exceeding this threshold indicates:
 

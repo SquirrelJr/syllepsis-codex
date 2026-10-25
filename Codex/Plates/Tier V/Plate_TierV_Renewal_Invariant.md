@@ -20,9 +20,9 @@ ensuring identity across cycles.
 Let **𝓕_R** denote the Renewal Field under its operators. There exists a scalar
 **I_R ∈ ℝ** such that for every Renewal cycle **τ**:
 
-```math
+$$
 I_R(τ + 1) = I_R(τ)
-```
+$$
 
 Equivalently:
 

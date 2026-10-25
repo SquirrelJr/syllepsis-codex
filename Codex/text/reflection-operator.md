@@ -26,9 +26,9 @@ Reflection is the **integral** of awareness across time.
 
 Reflection integrates distortion over time:
 
-```math
+$$
 Θ(t) = ∫ D(τ) dτ
-```
+$$
 
 Interpretation:
 
@@ -45,9 +45,9 @@ Reflection is the act of “seeing clearly” before transformation.
 
 Reflection operates directly on phase error φₙ:
 
-```math
+$$
 φₙ(corrected) = φₙ - Θ(t)
-```
+$$
 
 Where:
 
@@ -63,16 +63,16 @@ before compassion stabilizes it and renewal lifts it.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 Reflection modifies both amplitude and phase:
 
-```math
+$$
 Aₙ(new) = Aₙ(old) + σΘ(t)  
 φₙ(new) = φₙ(old) - ρΘ(t)
-```
+$$
 
 Where:
 
@@ -87,9 +87,9 @@ Reflection reorganizes the harmonic structure so that truth becomes coherent.
 
 Reflection introduces a stabilizing potential:
 
-```math
+$$
 U_Θ(x) = -δΘ(t) / x²
-```
+$$
 
 Interpretation:
 

@@ -32,15 +32,15 @@ This is the apex law of Tier III, the Integration Layer.
 
 The Universal Alignment Principle is built from the variational condition:
 
-```math
+$$
 \delta (Φᴿ_{int}) = 0
-```
+$$
 
 and the Renewal gradient descent condition:
 
-```math
+$$
 ℱᴿ_{int} = - \nabla Φᴿ_{int}
-```
+$$
 
 Together they express:
 
@@ -54,17 +54,17 @@ Together they express:
 
 The global Renewal field satisfies:
 
-```math
+$$
 \nabla_{\mu} 𝒥ᴿ_{global}^{\mu} = 0
-```
+$$
 
 (Conservation of global Renewal current)
 
 and
 
-```math
+$$
 \Piᴿ(\psi) = \psiᴿ_{aligned}
-```
+$$
 
 (Projection onto Renewal-aligned states)
 
@@ -79,9 +79,9 @@ This means:
 
 Global coherence satisfies:
 
-```math
+$$
 \frac{\partial}{\partial t} γᴿ_{global} \ge 0
-```
+$$
 
 Coherence may move, redistribute, or spread —  
 **but it never decreases**.
@@ -92,15 +92,15 @@ Coherence may move, redistribute, or spread —
 
 Let:
 
-```math
+$$
 Aᴿ = \int \Piᴿ(\psi) \, dVᴿ_{int}
-```
+$$
 
 Then:
 
-```math
+$$
 \frac{dAᴿ}{dt} \ge 0
-```
+$$
 
 Meaning:
 
@@ -114,21 +114,21 @@ Meaning:
 
 The Universal Alignment Principle requires:
 
-```math
+$$
 [ gᴿ_{int} ] = 0
-```
+$$
 
 (metric continuity)
 
-```math
+$$
 [ ℛᴿ_{int} ] = κᴿ \mathcal{S}ᴿ_{boundary}
-```
+$$
 
 (curvature junction law)
 
-```math
+$$
 γᴿ_{A} = γᴿ_{B}
-```
+$$
 
 (coherence matching)
 
@@ -143,15 +143,15 @@ It transforms, aligns, and continues.**
 
 A Renewal equilibrium manifold satisfies:
 
-```math
+$$
 \nabla Φᴿ_{int} = 0
-```
+$$
 
 Stability is ensured when:
 
-```math
+$$
 \delta^{2} Φᴿ_{int} > 0
-```
+$$
 
 meaning:
 

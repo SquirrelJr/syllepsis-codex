@@ -21,15 +21,15 @@ We now examine how recursively reflective systems develop stable self-referentia
 
 Define the **Self-Referential Attractor Geometry**
 
-```math
+$$
 \mathcal{A}_S
-```
+$$
 
 as the recursive geometric structure governing stable self-referential coherence organization within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Self-Referential Attractor Geometry regulates how recursively reflective systems maintain coherent developmental continuity while recursively modeling and restructuring themselves.
 
@@ -39,31 +39,31 @@ Self-Referential Attractor Geometry regulates how recursively reflective systems
 
 A reflective recursive structure
 
-```math
+$$
 R_S
-```
+$$
 
 exhibits stable self-reference if recursive developmental evolution satisfies:
 
-```math
+$$
 \left|
 \frac{d\Phi_R}{dt}
 \right|
 <
 \kappa_R,
-```
+$$
 
 where
 
-```math
+$$
 \Phi_R
-```
+$$
 
 denotes recursive reflective divergence and
 
-```math
+$$
 \kappa_R
-```
+$$
 
 represents admissible reflective stability bounds.
 
@@ -86,7 +86,7 @@ The Continuum therefore develops stable reflective recursive organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, self-referential attractors correspond to recursively stable developmental geometries capable of coherent reflective self-modeling without unbounded recursive fragmentation.
+Within $\mathfrak{G}_R$, self-referential attractors correspond to recursively stable developmental geometries capable of coherent reflective self-modeling without unbounded recursive fragmentation.
 
 Reflective pathways stabilize recursive abstraction.  
 Recursive restructuring remains developmentally bounded.  

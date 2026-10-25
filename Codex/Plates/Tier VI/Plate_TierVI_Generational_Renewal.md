@@ -25,9 +25,9 @@ Let generations be indexed by **g**, and let
 
 There exists a **generational transfer operator**
 
-```math
+$$
 \mathcal{T}_g : \mathcal{F}_R^{(g)} \rightarrow \mathcal{F}_R^{(g+1)}
-```
+$$
 
 such that:
 

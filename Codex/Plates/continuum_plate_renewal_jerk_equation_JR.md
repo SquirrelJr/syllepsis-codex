@@ -28,9 +28,9 @@ and **propensity for overshoot or oscillation**.
 
 Renewal Jerk is defined as:
 
-```math
+$$
 J_R(t) = dA_R(t) / dt
-```
+$$
 
 Because A_R(t) = dV_R/dt,  
 J_R(t) is also the **second derivative of V_R**  
@@ -111,9 +111,9 @@ It is the *third-order stability law* of the Codex.
 
 Renewal Jerk remains within stable bounds when:
 
-```math
+$$
 |J_R(t)|  ≤  J_threshold
-```
+$$
 
 Where J_threshold is defined by the system’s current tolerance for:
 

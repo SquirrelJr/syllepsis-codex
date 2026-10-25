@@ -28,9 +28,9 @@ through expansion, refinement, and reinterpretation.
 
 Conceptually expressed as:
 
-```math
+$$
 {∮} {𝓢} \, dR = 0
-```
+$$
 
 Where:
 
@@ -67,9 +67,9 @@ Long-range cross-plate references maintain semantic cohesion.
 
 Semantic conservation holds when:
 
-```math
+$$
 {Δ}{𝓢}_{total} = 0 \quad (absent \quad explicit \quad introduction)
-```
+$$
 
 Meaning:
 

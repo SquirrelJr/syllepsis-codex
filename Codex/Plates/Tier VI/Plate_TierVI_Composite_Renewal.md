@@ -20,9 +20,9 @@ which Renewal extends beyond single agents or fields and emerges within
 
 There exists a composite Renewal Field of the form:
 
-```math
+$$
 \mathcal{F}_{R}^{(N)} = \bigoplus_{i=1}^{N} \mathcal{F}_{R}^{(i)}
-```
+$$
 
 where each **$\( \mathcal{F}_{R}^{(i)} \)$** is a Renewal Field satisfying the
 Tier V invariants. The direct sum models **coexistence without annihilation**,

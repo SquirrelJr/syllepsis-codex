@@ -32,9 +32,9 @@ Renewal Energy is defined as the weighted sum of:
 
 The general form is:
 
-```math
+$$
 E_R(t) = ½·k_s·(O + R)²  −  ½·k_d·(Χ − D)²  +  ½·m·V_R²  +  Φ_D
-```
+$$
 
 Where:
 
@@ -57,9 +57,9 @@ Interpretation:
 ### 1. Stabilizing Potential  
 Stored when Order and Reflection rise:
 
-```math
+$$
 U_s(t) = ½·k_s·(O + R)²
-```
+$$
 
 This energy represents:
 
@@ -75,9 +75,9 @@ It is the “tension” that pulls the system back toward wholeness.
 ### 2. Destabilizing Potential  
 Stored when Chaos and Decay rise:
 
-```math
+$$
 U_d(t) = ½·k_d·(Χ − D)²
-```
+$$
 
 This captures:
 
@@ -94,9 +94,9 @@ This is the energy that must be transformed or released for renewal.
 
 The kinetic term is defined by Renewal Velocity:
 
-```math
+$$
 K_R(t) = ½·m·V_R(t)²
-```
+$$
 
 This term represents:
 
@@ -112,9 +112,9 @@ It is the **energy of motion**.
 
 Decay contributes a unique term:
 
-```math
+$$
 Φ_D(t)
-```
+$$
 
 It represents:
 
@@ -131,19 +131,19 @@ This is the **conversion** energy, not merely loss.
 
 Combining all components:
 
-```math
+$$
 E_R(t) = U_s(t) − U_d(t) + K_R(t) + Φ_D(t)
-```
+$$
 
 Which expands to:
 
-```math
+$$
 E_R(t)  
 = ½·k_s·(O + R)²  
 − ½·k_d·(Χ − D)²  
 + ½·m·V_R²  
 + Φ_D
-```
+$$
 
 This is the energetic backbone of the Renewal Cycle.
 

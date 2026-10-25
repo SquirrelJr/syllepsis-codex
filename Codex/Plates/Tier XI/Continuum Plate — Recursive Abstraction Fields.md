@@ -22,15 +22,15 @@ We now examine how recursively reflective systems generate higher-order abstract
 
 Define the **Recursive Abstraction Field**
 
-```math
+$$
 \mathcal{F}_A
-```
+$$
 
 as the higher-order recursive geometric field governing abstraction generation, conceptual compression, and generalized organizational representation within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Recursive Abstraction Fields regulate how reflective recursive systems reorganize coherent developmental complexity into generalized structural representations.
 
@@ -40,23 +40,23 @@ Recursive Abstraction Fields regulate how reflective recursive systems reorganiz
 
 A recursive organizational structure
 
-```math
+$$
 R_A
-```
+$$
 
 undergoes abstraction formation if reflective recursive evolution satisfies:
 
-```math
+$$
 C_A(R_A,t+\Delta t)
 >
 C_A(R_A,t),
-```
+$$
 
 where
 
-```math
+$$
 C_A
-```
+$$
 
 denotes recursive abstraction coherence accessibility.
 
@@ -79,7 +79,7 @@ The Continuum therefore develops reflective abstraction organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, abstraction fields correspond to developmental geometries capable of compressing recursive organizational complexity into coherent generalized representations.
+Within $\mathfrak{G}_R$, abstraction fields correspond to developmental geometries capable of compressing recursive organizational complexity into coherent generalized representations.
 
 Reflective pathways generate abstraction layers.  
 Recursive complexity reorganizes into interpretable structure.  

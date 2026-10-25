@@ -24,9 +24,9 @@ This is the Renewal analogue of dispersion relations in wave physics, quantum me
 
 A Renewal harmonic mode ρᴿ satisfies the dispersion relation:
 
-```math
+$$
 𝜔ᴿ² = cᴿ² |kᴿ|² + Ωᴿ² ,
-```
+$$
 
 where:
 
@@ -39,9 +39,9 @@ This expresses how Renewal waves disperse based on curvature, alignment, and res
 
 More generally, in curved Renewal geometry:
 
-```math
+$$
 gᴿ^{μν} k_μ k_ν = -Ωᴿ² .
-```
+$$
 
 This geometric form makes the dispersion law compatible with the Renewal Wave Equation and the Renewal Resonance Condition.
 

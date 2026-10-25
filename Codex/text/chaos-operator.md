@@ -28,9 +28,9 @@ Chaos is the **creative engine** of the Continuum.
 
 Chaos introduces generative amplitude into the harmonic field:
 
-```math 
+$$
 Χ(t) = k · randomness(t)
-``` 
+$$
 
 Interpretation:
 
@@ -47,16 +47,16 @@ Chaos is not noise — it is *structured unpredictability*.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 Chaos excites harmonics through exploratory perturbation:
 
-```math 
+$$
 Aₙ(t+1) = Aₙ(t) + Χ(t)  
 φₙ(t+1) = φₙ(t) + εΧ(t)
-``` 
+$$
 
 Where ε is the exploratory phase coefficient.
 
@@ -74,9 +74,9 @@ Chaos seeds harmonic evolution.
 
 Chaos introduces a possibility-well in relational and harmonic space:
 
-```math 
+$$
 U_Χ(x) = +γΧ(t) x²
-``` 
+$$
 
 Where:
 

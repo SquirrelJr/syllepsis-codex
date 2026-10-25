@@ -38,9 +38,9 @@ This is the **operator-level harmonization law** of the Renewal Cycle.
 
 All renewal operators superpose as:
 
-```math
+$$
 𝓡_total = 𝓡₁ + 𝓡₂ + 𝓡₃ + ⋯
-```
+$$
 
 Where each 𝓡ᵢ may represent:
 
@@ -62,64 +62,64 @@ The Renewal Field is the **sum of contributions across the lattice**.
 Each operator obeys the superposition rule:
 
 ### Order / Reflection
-```math
+$$
 (O + R)_total = Σ (Oᵢ + Rᵢ)
-```
+$$
 
 ### Decay / Chaos
-```math
+$$
 (D + Χ)_total = Σ (Dᵢ + Χᵢ)
-```
+$$
 
 ### Renewal Velocity  
-```math
+$$
 V_R_total = Σ V_{R,i}
-```
+$$
 
 ### Renewal Acceleration  
-```math
+$$
 A_R_total = Σ A_{R,i}
-```
+$$
 
 ### Renewal Jerk  
-```math
+$$
 J_R_total = Σ J_{R,i}
-```
+$$
 
 ### Renewal Snap  
-```math
+$$
 S_R_total = Σ S_{R,i}
-```
+$$
 
 ### Divergence  
-```math
+$$
 (∇·V_R)_total = Σ (∇·V_R)_i
-```
+$$
 
 ### Circulation (curl)  
-```math
+$$
 (∇×V_R)_total = Σ (∇×V_R)_i
-```
+$$
 
 ### Laplacian  
-```math
+$$
 (∇²ρ_R)_total = Σ (∇²ρ_R)_i
-```
+$$
 
 ### Density  
-```math
+$$
 ρ_R_total = Σ ρ_{R,i}
-```
+$$
 
 ### Energy  
-```math
+$$
 E_R_total = Σ E_{R,i}
-```
+$$
 
 ### Power  
-```math
+$$
 P_R_total = Σ P_{R,i}
-```
+$$
 
 This plate is a unification: the Renewal Field is *additive at every level*.
 
@@ -159,17 +159,17 @@ that allows renewal to scale across individuals, groups, and systems.
 
 Superposition is scale-invariant:
 
-```math
+$$
 𝓡_global = Σ_regions 𝓡_region
-```
+$$
 
-```math
+$$
 𝓡_region = Σ_cells 𝓡_cell
-```
+$$
 
-```math
+$$
 𝓡_cell = Σ_sources 𝓡_source
-```
+$$
 
 This defines a **fractal renewal hierarchy**:  
 renewal patterns repeat across scales.
@@ -180,9 +180,9 @@ renewal patterns repeat across scales.
 
 At boundaries (physical, conceptual, or spiritual):
 
-```math
+$$
 𝓡_total = 𝓡_internal + 𝓡_boundary + 𝓡_external
-```
+$$
 
 Meaning:
 
@@ -200,9 +200,9 @@ This creates **boundary-condition resonance**.
 
 Constructive superposition remains stable when:
 
-```math
+$$
 ‖ 𝓡_total ‖ ≤ R_max
-```
+$$
 
 Where R_max depends on:
 

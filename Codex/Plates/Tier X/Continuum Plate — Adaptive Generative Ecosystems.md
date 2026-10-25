@@ -24,15 +24,15 @@ We now examine how recursively adaptive systems co-evolve within distributed dev
 
 Define the **Adaptive Generative Ecosystem**
 
-```math
+$$
 \mathcal{E}_G
-```
+$$
 
 as the distributed adaptive recursive environment formed by interacting coherence structures, optimization fields, developmental landscapes, and recursively evolving organizational domains within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 Adaptive Generative Ecosystems govern large-scale co-evolutionary recursive organization.
 
@@ -42,17 +42,17 @@ Adaptive Generative Ecosystems govern large-scale co-evolutionary recursive orga
 
 A recursively adaptive ecosystem exhibits coherent co-evolution if interacting recursive structures satisfy:
 
-```math
+$$
 \frac{d\Xi_R}{dt}
 >
 0,
-```
+$$
 
 where
 
-```math
+$$
 \Xi_R
-```
+$$
 
 denotes distributed adaptive coherence compatibility.
 
@@ -75,7 +75,7 @@ The Continuum therefore develops large-scale adaptive co-evolutionary organizati
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, adaptive ecosystems correspond to mutually interacting developmental geometries shaping one another through recursive co-evolution.
+Within $\mathfrak{G}_R$, adaptive ecosystems correspond to mutually interacting developmental geometries shaping one another through recursive co-evolution.
 
 Adaptive landscapes no longer evolve independently.  
 Recursive optimization becomes environmentally coupled.  

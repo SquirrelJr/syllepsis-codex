@@ -31,7 +31,7 @@ and its embodied, visible expression in the world.
 
 The Renewal Manifestation Tensor is defined as:
 
-```math
+$$
 \mathcal{M}^{R}
 =
 \lambda_{1} \, \Pi^{R}(g^{R}_{int})
@@ -43,7 +43,7 @@ The Renewal Manifestation Tensor is defined as:
 \lambda_{4} \, (C^{R} \otimes C^{R})
 +
 \lambda_{5} \, (D^{R} \otimes \Chi^{R})
-```
+$$
 
 where:
 
@@ -61,11 +61,11 @@ Each λₖ is a **Manifestation Weight Coefficient** controlling expression stre
 
 The manifestation map is:
 
-```math
+$$
 	ext{Phenomena}
 =
 \mathcal{M}^{R}(\psi^{R})
-```
+$$
 
 Meaning:
 
@@ -81,15 +81,15 @@ Renewal manifests when two conditions are met:
 
 1. **Alignment Condition**
 
-```math
+$$
 \Pi^{R}(\psi) = \psi^{R}_{aligned}
-```
+$$
 
 2. **Gradient Condition**
 
-```math
+$$
 \nabla \Phi^{R}_{int} \neq 0
-```
+$$
 
 Interpretation:
 
@@ -128,19 +128,19 @@ Each mode arises from different components of 𝓜ᴿ.
 
 The divergence of the Manifestation Tensor produces the **Manifestation Current**:
 
-```math
+$$
 \nabla \cdot \mathcal{M}^{R}
 =
 J^{R}_{manifested}
-```
+$$
 
 Where:
 
-```math
+$$
 J^{R}_{manifested}
 =
 	ext{the Renewal expression current}
-```
+$$
 
 This describes how Renewal expresses itself through form and action.
 

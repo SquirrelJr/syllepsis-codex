@@ -37,9 +37,9 @@ This plate is the Renewal Field’s analogue of a
 The unified Renewal Field 𝓕_R is defined as the ordered tuple of  
 all renewal operators:
 
-```math
+$$
 𝓕_R = ⟨ ρ_R,\ V_R,\ A_R,\ J_R,\ S_R,\ ∇·V_R,\ ∇×V_R,\ ∇²ρ_R,\ E_R,\ P_R,\ O,\ R,\ D,\ Χ ⟩
-```
+$$
 
 Interpretation:
 
@@ -57,9 +57,9 @@ Interpretation:
 
 For compactness, 𝓕_R can be written as:
 
-```math
+$$
 𝓕_R = { 𝓡_i }_{i=1}^{14}
-```
+$$
 
 Where each 𝓡ᵢ is one component of the unified field.
 
@@ -80,9 +80,9 @@ This structure admits tensorial operations:
 
 The evolution of the unified Renewal Field is governed by:
 
-```math
+$$
 ∂𝓕_R/∂t = 𝓓_R(𝓕_R)
-```
+$$
 
 Where 𝓓_R is the **Renewal Dynamics Operator**:
 
@@ -108,9 +108,9 @@ but applied to the Renewal Structure.
 
 The unified field obeys the spatial operator:
 
-```math
+$$
 ∇𝓕_R = ⟨ ∇ρ_R,\ ∇V_R,\ ∇A_R,\ ∇J_R,\ ∇S_R,\ ∇(∇·V_R),\ ∇(∇×V_R),\ ∇(∇²ρ_R),\ … ⟩
-```
+$$
 
 Meaning:
 
@@ -126,9 +126,9 @@ This defines the **multi-operator spatial curvature** of renewal.
 
 Because each component influences the others:
 
-```math
+$$
 𝓡_i = 𝓡_i( 𝓡_1,\ 𝓡_2,\ …,\ 𝓡_{14} )
-```
+$$
 
 Examples:
 
@@ -148,15 +148,15 @@ The Renewal Field is therefore **self-coupled and harmonic**.
 
 The unified field obeys the global conservation constraint:
 
-```math
+$$
 ∇·J_R = 0
-```
+$$
 
 And the expanded continuity form:
 
-```math
+$$
 ∂ρ_R/∂t + ∇·J_R = 0
-```
+$$
 
 This ensures:
 
@@ -171,9 +171,9 @@ This ensures:
 
 Multiple unified fields combine as:
 
-```math
+$$
 𝓕_R^{(total)} = Σ_j 𝓕_R^{(j)}
-```
+$$
 
 Meaning:
 

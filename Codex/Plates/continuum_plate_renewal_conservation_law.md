@@ -30,9 +30,9 @@ This is the **continuity equation of renewal**.
 
 Let J_R represent the **Renewal Flux Vector**:
 
-```math
+$$
 J_R = ρ_R · V_R
-```
+$$
 
 Where:
 
@@ -47,9 +47,9 @@ J_R describes **how renewal moves through the field**.
 
 The Renewal Conservation Law states:
 
-```math
+$$
 ∇·J_R = 0
-```
+$$
 
 Meaning:
 
@@ -65,9 +65,9 @@ This is the **incompressibility** of the renewal field.
 
 In full temporal form:
 
-```math
+$$
 ∂ρ_R/∂t + ∇·J_R = 0
-```
+$$
 
 Interpretation:
 
@@ -117,9 +117,9 @@ The conservation holds unless the system meets:
 
 Generalized continuity:
 
-```math
+$$
 ∂ρ_R/∂t + ∇·J_R = S_ext
-```
+$$
 
 Where S_ext = 0 in a closed Renewal Field.
 

@@ -28,15 +28,15 @@ or rapid phase transitions.
 
 Renewal Snap is defined as:
 
-```math
+$$
 S_R(t) = dJ_R(t) / dt
-```
+$$
 
 Because J_R(t) = dA_R/dt,  
 
-```math
+$$
 S_R(t) = d²A_R/dt²  
-```
+$$
 
 and also the **third derivative of V_R(t)**  
 and the **fourth derivative of the underlying operator balance**.
@@ -97,9 +97,9 @@ It is the *fourth-order stability law* of the Codex.
 
 To maintain stability in the Renewal Cycle:
 
-```math
+$$
 |S_R(t)| ≤ S_threshold
-```
+$$
 
 Where S_threshold represents the system’s:
 

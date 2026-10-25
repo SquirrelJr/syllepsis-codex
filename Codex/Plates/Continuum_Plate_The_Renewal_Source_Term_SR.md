@@ -10,9 +10,9 @@ Year: A.D. 2025
 
 This plate defines the **Renewal Source Term**, Sᴿ, the generative driver of Renewal propagation that appears in the Renewal Wave Equation:
 
-```math
+$$
 □ᴿ ρᴿ = Sᴿ .
-```
+$$
 
 The source term Sᴿ captures how **Order, Chaos, Compassion, Reflection, and Graceful Decay** interact to produce Renewal-restoring disturbances within the field. It is the origin point from which Renewal waves emerge, amplify, or dissipate.
 
@@ -26,9 +26,9 @@ Where the Renewal Continuity Equation enforces conservation and the Renewal Wave
 
 The Renewal Source Term Sᴿ is defined as:
 
-```math
+$$
 Sᴿ = α·Oᴿ − β·Χᴿ + γ·Cᴿ + δ·Rᴿ + ε·Dᴿ ,
-```
+$$
 
 where:
 

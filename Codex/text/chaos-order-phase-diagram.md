@@ -102,9 +102,9 @@ Order high with healthy Chaos — stability that allows growth.
 
 ## VI. The Golden Arc 
 
-```math
+$$
 K_critical = phi * (1 / O)
-```
+$$
 
 Meaning:  
 Above this arc: chaos fragments.  

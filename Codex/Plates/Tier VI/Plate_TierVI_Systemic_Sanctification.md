@@ -20,16 +20,16 @@ occurs when Renewal is structurally embedded such that systems become
 
 Let a system $S$ be composed of Renewal Fields
 
-```math
+$$
 S = \{ \mathcal{F}_R^{(1)}, \dots, \mathcal{F}_R^{(N)} \}
-```
+$$
 
 Systemic Sanctification introduces a system‑level Renewal operator
 
-```math
+$$
 \mathcal{R}_S : S 
 \rightarrow S
-```
+$$
 
 such that:
 

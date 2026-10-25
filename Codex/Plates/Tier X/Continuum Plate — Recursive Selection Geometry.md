@@ -22,15 +22,15 @@ We now examine how recursive evolutionary systems selectively reinforce, preserv
 
 Define the **Recursive Selection Geometry**
 
-```math
+$$
 \mathcal{G}_S
-```
+$$
 
 as the adaptive geometric structure governing selective persistence, reinforcement, and attenuation of recursive organizational pathways within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 Recursive Selection Geometry determines which recursive structures remain developmentally accessible across recursive evolution.
 
@@ -40,23 +40,23 @@ Recursive Selection Geometry determines which recursive structures remain develo
 
 A recursive structure
 
-```math
+$$
 R_i
-```
+$$
 
 is selectively reinforced if adaptive recursive evolution satisfies:
 
-```math
+$$
 P(R_i,t+\Delta t)
 >
 P(R_i,t),
-```
+$$
 
 where
 
-```math
+$$
 P
-```
+$$
 
 denotes recursive persistence weighting.
 
@@ -79,7 +79,7 @@ The Continuum therefore develops adaptive evolutionary filtering.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, Recursive Selection Geometry reshapes developmental accessibility through adaptive reinforcement and coherence persistence weighting.
+Within $\mathfrak{G}_R$, Recursive Selection Geometry reshapes developmental accessibility through adaptive reinforcement and coherence persistence weighting.
 
 Stable recursive structures deepen accessibility valleys.  
 Unstable trajectories lose developmental accessibility.  

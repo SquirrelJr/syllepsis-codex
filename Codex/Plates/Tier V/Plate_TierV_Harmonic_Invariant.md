@@ -19,16 +19,16 @@ remains invariant.
 
 Let **𝓕_R** be expanded in a harmonic basis:
 
-```math
+$$
 𝓕_R = Σ_k a_k · φ_k
-```
+$$
 
 Under Renewal evolution **τ → τ + 1**, the coefficients **a_k** may evolve,
 but the functions **φ_k** remain fixed:
 
-```math
+$$
 φ_k(τ + 1) = φ_k(τ)
-```
+$$
 
 Equivalently:
 

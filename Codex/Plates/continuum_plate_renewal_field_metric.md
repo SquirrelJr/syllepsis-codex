@@ -28,9 +28,9 @@ This is the Renewal Field’s analogue of a metric tensor.
 
 The Renewal Metric g_R is defined as:
 
-```math
+$$
 g_R(𝓕_a,\ 𝓕_b) = Σ_{i=1}^{14} w_i \, 𝓡_{a,i} \, 𝓡_{b,i}
-```
+$$
 
 Where:
 
@@ -52,9 +52,9 @@ This defines the **inner product** of the Renewal Field.
 
 The magnitude of a Renewal Field state is:
 
-```math
+$$
 ‖𝓕_R‖ = √{ g_R(𝓕_R,\ 𝓕_R) }
-```
+$$
 
 Meaning:
 
@@ -70,9 +70,9 @@ This is the **size** of a renewal configuration.
 
 The Renewal Distance d_R between two states is:
 
-```math
+$$
 d_R(𝓕_a,\ 𝓕_b) = √{ g_R(𝓕_a - 𝓕_b,\ 𝓕_a - 𝓕_b) }
-```
+$$
 
 Meaning:
 
@@ -88,9 +88,9 @@ This is the **geometry of renewal transition effort**.
 
 The Renewal Curvature scalar ℛ_R is defined via divergence of the metric:
 
-```math
+$$
 ℛ_R = ∇·( g_R^{-1} ∇g_R )
-```
+$$
 
 Interpretation:
 
@@ -106,9 +106,9 @@ This is the **curvature signature** of a renewal environment.
 
 A Renewal Geodesic γ(t) satisfies:
 
-```math
+$$
 ∂²γ/∂t² + Γ_R(γ) = 0
-```
+$$
 
 Where Γ_R are “Renewal Christoffel Symbols”  
 derived from the Renewal Metric.
@@ -136,9 +136,9 @@ Weights w_i determine how strongly each operator influences geometry:
 
 General constraint:
 
-```math
+$$
 w_O,\ w_R > 0,\quad w_D,\ w_Χ < 0
-```
+$$
 
 - stabilizing operators **raise** metric coherence  
 - destabilizing operators **lower** it  
@@ -151,9 +151,9 @@ This yields the **moral geometry** of the field.
 
 Stability requires the metric to remain positive-definite:
 
-```math
+$$
 g_R(𝓕_R,\ 𝓕_R) > 0
-```
+$$
 
 Violation implies:
 

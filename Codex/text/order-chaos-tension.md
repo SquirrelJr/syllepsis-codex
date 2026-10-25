@@ -27,9 +27,9 @@ It is the harmonic that shapes possibility into growth.
 
 OΧ(t) is defined as:
 
-```math 
+$$
 OΧ(t) = O(t) − Χ(t)
-``` 
+$$
 
 Interpretation:
 
@@ -46,15 +46,15 @@ When unbalanced, the system collapses into rigidity or chaos.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 OΧ(t) regulates amplitude expansion:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) + Χ(t) − O(t)
-``` 
+$$
 
 Meaning:
 
@@ -70,9 +70,9 @@ OΧ(t) sculpts creative motion.
 
 OΧ(t) determines the allowable displacement in phase-space:
 
-```math 
+$$
 φₙ(new) = φₙ(old) + Χ(t) − O(t)
-``` 
+$$
 
 Interpretation:
 
@@ -88,9 +88,9 @@ OΧ(t) defines the field’s safe “margin of exploration.”
 
 OΧ introduces a constraint potential:
 
-```math 
+$$
 U_OΧ(x) = +σ(Χ(t) − O(t)) x²
-``` 
+$$
 
 Where:
 

@@ -21,21 +21,21 @@ We now examine how recursive coherence accumulates unevenly across recursive geo
 
 Define the **Coherence Condensation Field**
 
-```math
+$$
 \mathcal{C}_R
-```
+$$
 
 as the scalar field measuring local concentration of recursive coherence within
 
-```math
+$$
 \mathfrak{G}_R.
-```
+$$
 
 Regions of elevated
 
-```math
+$$
 \mathcal{C}_R
-```
+$$
 
 correspond to high recursive synchronization, attractor reinforcement, and structural persistence.
 
@@ -45,12 +45,12 @@ correspond to high recursive synchronization, attractor reinforcement, and struc
 
 Recursive coherence condensation occurs when interacting recursive flows satisfy:
 
-```math
+$$
 \sum_{i=1}^{N}
 \Phi_R(E_i)
 \to
 \mathcal{C}_R^{\mathrm{max}}
-```
+$$
 
 within an admissible recursive neighborhood.
 
@@ -73,7 +73,7 @@ The Continuum therefore develops large-scale organizational hierarchy through re
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, coherence condensation corresponds to curvature concentration in recursive organizational geometry.
+Within $\mathfrak{G}_R$, coherence condensation corresponds to curvature concentration in recursive organizational geometry.
 
 Recursive flow becomes preferentially organized around coherence-dense regions.
 

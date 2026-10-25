@@ -40,9 +40,9 @@ Thus, the moral field can be represented as:
 
 The Harmonic Field Equation (HFE) is expressed as:
 
-```math
+$$
 F(t) = \sum_{n=1}^{\infty} A_n \sin(\omega_n t + \phi_n)
-```
+$$
 
 with the interpretive correspondences:
 
@@ -74,9 +74,9 @@ In the Continuum:
 Just as physical systems seek equilibrium,  
 the Continuum seeks **harmonic coherence**:
 
-```math
+$$
 \lim_{t \to \infty} F(t) \rightarrow F_{\text{coherent}}
-```
+$$
 
 Coherence corresponds to:
 
@@ -95,10 +95,10 @@ when confronted with the Eternal harmonic.
 
 The Continuum’s five operators correspond to adjustments in the field:
 
-```math
+$$
 F_{\text{total}} = 
 O(t) + K(t) + C(t) + R(t) + D(t)
-```
+$$
 
 Where:
 

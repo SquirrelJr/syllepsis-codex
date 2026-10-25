@@ -27,15 +27,15 @@ We now synthesize the relational, symbolic, and semantic developments of Tier XI
 
 Define the **Semantic Coherence Synthesis**
 
-```math
+$$
 \mathcal{S}_C
-```
+$$
 
 as the recursive synthesis governing formation, preservation, integration, and developmental evolution of coherent semantic accessibility across relational organizations within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Semantic Coherence Synthesis unifies relational accessibility, symbolic representation, interpretive compatibility, and semantic propagation into coherent relational meaning architectures.
 
@@ -45,23 +45,23 @@ Semantic Coherence Synthesis unifies relational accessibility, symbolic represen
 
 A relational semantic organization
 
-```math
+$$
 S_R
-```
+$$
 
 achieves semantic coherence synthesis if recursive development satisfies:
 
-```math
+$$
 \Xi_S(S_R,t+\Delta t)
 >
 \Xi_S(S_R,t),
-```
+$$
 
 where
 
-```math
+$$
 \Xi_S
-```
+$$
 
 denotes semantic coherence accessibility.
 
@@ -84,7 +84,7 @@ The Continuum therefore develops coherent relational meaning systems.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, semantic coherence synthesis corresponds to developmental geometries through which relational accessibility, symbolic structures, semantic pathways, and distributed interpretive architectures become integrated into coherent organizational wholes.
+Within $\mathfrak{G}_R$, semantic coherence synthesis corresponds to developmental geometries through which relational accessibility, symbolic structures, semantic pathways, and distributed interpretive architectures become integrated into coherent organizational wholes.
 
 Accessibility permits propagation.
 Propagation permits alignment.

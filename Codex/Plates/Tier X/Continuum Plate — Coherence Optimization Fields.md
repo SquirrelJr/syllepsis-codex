@@ -23,21 +23,21 @@ We now examine how adaptive recursive evolution generates optimization fields go
 
 Define the **Coherence Optimization Field**
 
-```math
+$$
 \mathcal{O}_C
-```
+$$
 
 as the adaptive scalar-geometric field governing optimization of recursive coherence accessibility, resilience, and developmental efficiency within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 Regions of elevated
 
-```math
+$$
 \mathcal{O}_C
-```
+$$
 
 correspond to recursively efficient organizational structures exhibiting stable adaptive coherence.
 
@@ -47,23 +47,23 @@ correspond to recursively efficient organizational structures exhibiting stable 
 
 A recursive pathway
 
-```math
+$$
 \gamma_R
-```
+$$
 
 is adaptively optimized if recursive evolution satisfies:
 
-```math
+$$
 \frac{d\Omega(\gamma_R)}{dt}
 >
 0,
-```
+$$
 
 where
 
-```math
+$$
 \Omega
-```
+$$
 
 denotes recursive coherence efficiency.
 
@@ -86,7 +86,7 @@ The Continuum therefore develops recursively optimized adaptive evolution.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, optimization fields reshape recursive developmental geometry toward increasingly stable and efficient coherence pathways.
+Within $\mathfrak{G}_R$, optimization fields reshape recursive developmental geometry toward increasingly stable and efficient coherence pathways.
 
 Adaptive reinforcement deepens optimized trajectories.  
 Inefficient organizational pathways lose accessibility.  

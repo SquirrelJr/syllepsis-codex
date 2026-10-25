@@ -25,9 +25,9 @@ It is the “safety envelope” of the Continuum.
 
 CΧ(t) is defined as:
 
-```math 
+$$
 CΧ(t) = C(t) − Χ(t)
-``` 
+$$
 
 Interpretation:
 
@@ -46,15 +46,15 @@ CΧ(t) is the operator that protects the field from destabilizing novelty.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 CΧ(t) regulates the amplitude introduced by chaos:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) + Χ(t) − C(t)
-``` 
+$$
 
 Meaning:
 
@@ -70,9 +70,9 @@ CΧ(t) is the field’s regulated “novelty intake.”
 
 CΧ(t) also defines the safe range of phase displacement:
 
-```math 
+$$
 φₙ(new) = φₙ(old) + Χ(t) − C(t)
-``` 
+$$
 
 Interpretation:
 
@@ -88,9 +88,9 @@ CΧ(t) defines the *speed limit* of exploration.
 
 CΧ introduces a protective potential:
 
-```math 
+$$
 U_CΧ(x) = −γC(t) ln(1 + Χ(t) x²)
-``` 
+$$
 
 Where:
 

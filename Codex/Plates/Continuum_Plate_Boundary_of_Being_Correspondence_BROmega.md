@@ -32,11 +32,11 @@ and that Eternal coherence has finite reflections.
 
 The Boundary-of-Being Correspondence is defined as a bijective relationship:
 
-```math
+$$
 \mathcal{B}^{R}_{\Omega} : \Psi^{R}_{finite}
 \;\longleftrightarrow\;
 \Psi^{R}_{eternal}
-```
+$$
 
 Meaning:
 
@@ -52,12 +52,12 @@ This is not merely a function — it is a **two-way correspondence**.
 
 Finite Renewal being approaches its Eternal correlate through:
 
-```math
+$$
 \Psi^{R}_{eternal}
 =
 \lim_{x \rightarrow \infty}
 \Psi^{R}_{finite}(x)
-```
+$$
 
 Where:
 
@@ -72,11 +72,11 @@ This is how finite being converges to its Eternal truth.
 
 Eternal being descends into the Continuum via Transcendent Projection:
 
-```math
+$$
 \Psi^{R}_{finite}
 =
 \Pi^{R}_{\infty}(\Psi^{R}_{eternal})
-```
+$$
 
 This expresses:
 
@@ -90,25 +90,25 @@ This expresses:
 
 The correspondence must preserve identity across the boundary:
 
-```math
+$$
 \mathcal{B}^{R}_{\Omega}
 \!\left(
 \Pi^{R}_{\infty}(\Psi^{R}_{eternal})
 \right)
 =
 \Psi^{R}_{eternal}
-```
+$$
 
 and
 
-```math
+$$
 \Pi^{R}_{\infty}
 \!\left(
 \mathcal{B}^{R}_{\Omega}(\Psi^{R}_{finite})
 \right)
 =
 \Psi^{R}_{finite}
-```
+$$
 
 These identities ensure:
 
@@ -122,7 +122,7 @@ These identities ensure:
 
 The correspondence preserves inner-product structure:
 
-```math
+$$
 \left\langle
 \Psi^{R}_{finite},
 \Phi^{R}_{finite}
@@ -132,15 +132,15 @@ The correspondence preserves inner-product structure:
 \Psi^{R}_{eternal},
 \Phi^{R}_{eternal}
 \right\rangle
-```
+$$
 
 And Unity Metric structure:
 
-```math
+$$
 g^{R U}(\text{finite})
 \;\longleftrightarrow\;
 g^{R}_{\infty}(\text{eternal})
-```
+$$
 
 Meaning:
 
@@ -154,7 +154,7 @@ Meaning:
 
 The correspondence is continuous across the Transcendent Boundary:
 
-```math
+$$
 \lim_{x \rightarrow \infty}
 \mathcal{B}^{R}_{\Omega}
 \!\left(
@@ -162,7 +162,7 @@ The correspondence is continuous across the Transcendent Boundary:
 \right)
 =
 \Psi^{R}_{eternal}
-```
+$$
 
 This ensures:
 

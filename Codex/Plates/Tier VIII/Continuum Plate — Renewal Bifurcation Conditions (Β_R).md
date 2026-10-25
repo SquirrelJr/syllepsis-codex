@@ -24,21 +24,21 @@ Recursive systems may transition between distinct dynamical regimes while remain
 
 Let
 
-```math
+$$
 \mathcal{O}_R^\mu : \mathcal{M}_S \to \mathcal{M}_S
-```
+$$
 
 be a family of renewal operators parameterized by
 
-```math
+$$
 \mu \in \mathbb{R}.
-```
+$$
 
 A Renewal Fixed Point satisfies
 
-```math
+$$
 \mathcal{O}_R^\mu(T^\ast)=T^\ast.
-```
+$$
 
 ---
 
@@ -46,9 +46,9 @@ A Renewal Fixed Point satisfies
 
 A **Renewal Bifurcation** occurs when the spectral radius of the linearized operator reaches unity:
 
-```math
+$$
 \rho\!\left(D\mathcal{O}_R^\mu(T^\ast)\right)=1.
-```
+$$
 
 At this threshold, qualitative changes in recursive behavior become admissible.
 
@@ -58,9 +58,9 @@ At this threshold, qualitative changes in recursive behavior become admissible.
 
 Depending on the eigenstructure of
 
-```math
+$$
 D\mathcal{O}_R^\mu(T^\ast),
-```
+$$
 
 the recursive system may undergo:
 
@@ -75,7 +75,7 @@ Thus the Continuum may admit multiple dynamical phases under parameter variation
 
 ## V. Geometric Interpretation
 
-Within ${\mathcal{M}}_S$, bifurcation corresponds to a deformation of local recursive flow geometry.
+Within $\mathcal{M}_S$, bifurcation corresponds to a deformation of local recursive flow geometry.
 
 The invariant manifold itself remains structurally coherent,  
 but local curvature may redirect recursive trajectories into newly admissible stability domains.

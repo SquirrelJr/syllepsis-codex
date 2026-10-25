@@ -25,9 +25,9 @@ across all tiers simultaneously.
 
 Conceptually expressed as:
 
-```math
+$$
 𝓣_I = ∇_T (𝓘_S)
-```
+$$
 
 Where:
 
@@ -66,9 +66,9 @@ it **guides alignment**, not enforcement.
 
 Structural integrity is preserved when:
 
-```math
+$$
 ∂𝓘 / ∂T = 0
-```
+$$
 
 Meaning:
 

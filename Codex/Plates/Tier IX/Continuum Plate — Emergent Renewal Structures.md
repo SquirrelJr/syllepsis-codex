@@ -25,15 +25,15 @@ Tier IX studies the emergence of structure from recursive coherence itself.
 
 Define the set of **Emergent Renewal Structures**
 
-```math
+$$
 \mathcal{E}_R
-```
+$$
 
 as recursively generated coherent organizations arising within the Recursive Coherence Geometry
 
-```math
+$$
 \mathfrak{G}_R.
-```
+$$
 
 These structures are not externally imposed.
 
@@ -45,34 +45,34 @@ They arise through recursive interaction, stability accumulation, and coherent a
 
 An emergent structure
 
-```math
+$$
 E\in\mathcal{E}_R
-```
+$$
 
 is admissible if there exists a recursively coherent trajectory family
 
-```math
+$$
 \{\gamma_i\}_{i\in I}
-```
+$$
 
 whose collective recursive interaction produces stable higher-order organization.
 
 Formally,
 
-```math
+$$
 \lim_{n\to\infty}
 \Phi_R\!\left(
 \mathcal{O}_R^{\,n}(\gamma_i)
 \right)
 =
 E,
-```
+$$
 
 where
 
-```math
+$$
 \Phi_R
-```
+$$
 
 denotes the recursive coherence aggregation operator.
 
@@ -95,7 +95,7 @@ Thus recursive coherence may amplify structural complexity through interaction.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, emergence corresponds to the formation of stable higher-order geometric organization from interacting recursive flows.
+Within $\mathfrak{G}_R$, emergence corresponds to the formation of stable higher-order geometric organization from interacting recursive flows.
 
 Attractors no longer organize only trajectories.
 

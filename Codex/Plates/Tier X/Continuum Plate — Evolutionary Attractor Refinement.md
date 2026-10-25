@@ -21,15 +21,15 @@ We now examine how adaptive recursive systems refine, reshape, and stabilize att
 
 Define **Evolutionary Attractor Refinement**
 
-```math
+$$
 \mathcal{A}_E
-```
+$$
 
 as the adaptive recursive process through which attractor structures evolve under recursive learning, environmental interaction, and coherence reinforcement within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 Attractors are therefore no longer static asymptotic structures.
 
@@ -41,23 +41,23 @@ They become adaptively developmental.
 
 An attractor
 
-```math
+$$
 A_R
-```
+$$
 
 undergoes adaptive refinement if recursive evolution satisfies:
 
-```math
+$$
 \frac{d\Sigma(A_R)}{dt}
 >
 0,
-```
+$$
 
 where
 
-```math
+$$
 \Sigma(A_R)
-```
+$$
 
 denotes attractor coherence stability.
 
@@ -80,7 +80,7 @@ The Continuum therefore develops evolving asymptotic organizational intelligence
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, adaptive recursive evolution reshapes the topology of attractor accessibility and coherence persistence.
+Within $\mathfrak{G}_R$, adaptive recursive evolution reshapes the topology of attractor accessibility and coherence persistence.
 
 Stable recursive pathways deepen attractor basins.  
 Unstable organizational trajectories diminish over recursive time.  

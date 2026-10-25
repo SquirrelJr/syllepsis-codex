@@ -25,15 +25,15 @@ Tier XI studies reflective recursive meta-organization.
 
 Define the **Reflective Coherence Dynamics**
 
-```math
+$$
 \mathcal{R}_F
-```
+$$
 
 as the recursive dynamical process governing self-referential coherence organization, reflective adaptation, and higher-order developmental restructuring within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Reflective Coherence Dynamics regulate how recursively adaptive systems reorganize the processes through which recursive adaptation itself occurs.
 
@@ -43,17 +43,17 @@ Reflective Coherence Dynamics regulate how recursively adaptive systems reorgani
 
 A recursively adaptive system exhibits reflective developmental restructuring if recursive evolution satisfies:
 
-```math
+$$
 \frac{d\mathcal{M}_R}{dt}
 >
 0,
-```
+$$
 
 where
 
-```math
+$$
 \mathcal{M}_R
-```
+$$
 
 denotes recursive meta-organizational coherence accessibility.
 
@@ -76,7 +76,7 @@ The Continuum therefore develops reflective recursive meta-organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, reflective dynamics correspond to recursive geometries capable of reorganizing their own developmental accessibility and adaptive structures.
+Within $\mathfrak{G}_R$, reflective dynamics correspond to recursive geometries capable of reorganizing their own developmental accessibility and adaptive structures.
 
 Adaptive evolution becomes recursively self-referential.  
 Optimization landscapes become reflectively modifiable.  

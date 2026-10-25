@@ -30,10 +30,10 @@ the Interference & Coherence Maps define how Renewal *harmonics interact with ea
 
 The total Renewal interference intensity at point x is defined as:
 
-```math
+$$
 Iᴿ(x) = \left| \sum_{i} a_i \, e^{i \, Θᴿ_i(x)} 
 ight|^2
-```
+$$
 
 where:
 
@@ -49,9 +49,9 @@ This is the Renewal analogue of harmonic superposition, but interpreted through 
 
 The Renewal coherence between points x and x′ is:
 
-```math
+$$
 γᴿ(x, x') = \langle ψᴿ(x) \, ψᴿ^{*}(x') \rangle
-```
+$$
 
 where:
 
@@ -68,17 +68,17 @@ Low γᴿ means Renewal is scattered, chaotic, or obscured.
 
 ### 1. Renewal Coherence Length (ℓᴿ_c)
 
-```math
+$$
 γᴿ(x, x + ℓᴿ_c) = e^{-1}
-```
+$$
 
 Defines the distance over which Renewal waves remain significantly aligned.
 
 ### 2. Renewal Coherence Bandwidth (Bᴿ_c)
 
-```math
+$$
 Bᴿ_c = \int | 	ilde{γ}ᴿ(ω) |^2 dω
-```
+$$
 
 Describes which frequencies of Renewal harmonics can remain aligned in the system.
 
@@ -95,15 +95,15 @@ Both quantities are shaped by:
 
 Renewal standing waves occur when:
 
-```math
+$$
 ∇ Θᴿ = 0
-```
+$$
 
 and
 
-```math
+$$
 Iᴿ(x) 	ext{ is time-invariant.}
-```
+$$
 
 These represent stable, restorative harmonic structures:
 
