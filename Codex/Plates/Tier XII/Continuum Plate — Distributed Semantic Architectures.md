@@ -49,11 +49,9 @@ $$
 
 develops distributed semantic architecture if recursive interaction satisfies:
 
-$$
-\Delta_A(S_R,t+\Delta t)
->
-\Delta_A(S_R,t),
-$$
+$
+\Delta_A(S_R,t+\Delta t) > \Delta_A(S_R,t),
+$
 
 where
 
