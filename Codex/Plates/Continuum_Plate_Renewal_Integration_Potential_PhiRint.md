@@ -126,7 +126,7 @@ Such manifolds exhibit:
 A Renewal-equilibrium manifold is **stable** if:
 
 ```math
-rac{\partial^{2} Φᴿ_{int}}{\partial g^{2}} \; > \; 0
+\frac{\partial^{2} Φᴿ_{int}}{\partial g^{2}} \; > \; 0
 ```
 
 This ensures:
