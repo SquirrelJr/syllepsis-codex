@@ -49,9 +49,7 @@ $$
 exhibits recursive architectural generation if reflective recursive evolution satisfies:
 
 $$
-\Pi_G(G_R,t+\Delta t)
->
-\Pi_G(G_R,t),
+\Pi_G(G_R,t+\Delta t) > \Pi_G(G_R,t),
 $$
 
 where
