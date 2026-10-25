@@ -18,15 +18,15 @@ We now examine how reflective recursive systems refine, reorganize, and optimize
 
 Define the set of **Recursive Meta-Learning Structures**
 
-```math
+$$
 \mathcal{M}_L
-```
+$$
 
 as higher-order recursive organizational pathways governing adaptive refinement of recursive learning processes within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Recursive Meta-Learning Structures regulate how recursively reflective systems modify the mechanisms governing future adaptive development.
 
@@ -36,23 +36,23 @@ Recursive Meta-Learning Structures regulate how recursively reflective systems m
 
 A recursive learning process
 
-```math
+$$
 \Lambda_R
-```
+$$
 
 undergoes meta-learning refinement if reflective recursive evolution satisfies:
 
-```math
+$$
 W_M(\Lambda_R,t+\Delta t)
 >
 W_M(\Lambda_R,t),
-```
+$$
 
 where
 
-```math
+$$
 W_M
-```
+$$
 
 denotes recursive meta-learning accessibility weighting.
 
@@ -75,7 +75,7 @@ The Continuum therefore develops reflective recursive learning evolution.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, Recursive Meta-Learning Structures correspond to developmental geometries capable of reorganizing the accessibility and efficiency of recursive learning pathways themselves.
+Within $\mathfrak{G}_R$, Recursive Meta-Learning Structures correspond to developmental geometries capable of reorganizing the accessibility and efficiency of recursive learning pathways themselves.
 
 Learning landscapes become recursively modifiable.  
 Adaptive refinement reorganizes future adaptive refinement.  

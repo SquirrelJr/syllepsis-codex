@@ -25,19 +25,19 @@ We now unify these adaptive recursive structures into a coherent large-scale syn
 
 Define the **Evolutionary Coherence Synthesis**
 
-```math
+$$
 \mathfrak{E}_R
-```
+$$
 
 as the unified adaptive recursive evolutionary organization arising from recursive learning, attractor refinement, optimization fields, selection geometry, and co-evolving adaptive ecosystems within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 Formally,
 
-```math
+$$
 \mathfrak{E}_R
 =
 (
@@ -48,7 +48,7 @@ Formally,
 \mathcal{O}_C,
 \mathcal{E}_G
 ).
-```
+$$
 
 ---
 
@@ -56,18 +56,18 @@ Formally,
 
 A recursively adaptive system exhibits Evolutionary Coherence Synthesis if recursive developmental evolution satisfies:
 
-```math
+$$
 \lim_{n\to\infty}
 \Upsilon_R^{\,n}
 \to
 \mathfrak{E}_R,
-```
+$$
 
 where
 
-```math
+$$
 \Upsilon_R
-```
+$$
 
 denotes the recursive evolutionary synthesis operator.
 
@@ -90,7 +90,7 @@ The Continuum therefore develops globally adaptive recursive evolutionary cohere
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, Evolutionary Coherence Synthesis represents the large-scale integration of adaptive recursive evolution, optimization geometry, learning structures, and co-evolutionary developmental organization.
+Within $\mathfrak{G}_R$, Evolutionary Coherence Synthesis represents the large-scale integration of adaptive recursive evolution, optimization geometry, learning structures, and co-evolutionary developmental organization.
 
 Adaptive recursive evolution no longer operates as isolated refinement processes.
 

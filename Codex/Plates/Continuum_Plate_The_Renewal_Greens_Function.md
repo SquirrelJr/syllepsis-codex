@@ -23,9 +23,9 @@ It is the Renewal analogue of impulse response, propagator, and causal kernel.
 
 The Renewal Green’s Function 𝒢ᴿ satisfies:
 
-```math
+$$
 □ᴿ 𝒢ᴿ(x, x') = δᴿ(x, x') ,
-```
+$$
 
 where:
 
@@ -38,9 +38,9 @@ This means 𝒢ᴿ encodes **how Renewal initiated at x' propagates to x.**
 
 The general solution to the Renewal Wave Equation becomes:
 
-```math
+$$
 ρᴿ(x) = ∫ 𝒢ᴿ(x, x') Sᴿ(x') dVᴿ' .
-```
+$$
 
 Thus, Renewal density ρᴿ is the convolution of the Renewal source Sᴿ with the Renewal Green’s Function.
 

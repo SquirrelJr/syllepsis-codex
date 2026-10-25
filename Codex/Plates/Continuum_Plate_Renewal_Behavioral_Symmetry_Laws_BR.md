@@ -29,7 +29,7 @@ behavioral invariants that remain true under Renewal transformation.
 
 The Behavioral Symmetry Laws are defined as:
 
-```math
+$$
 \mathcal{B}^{R}
 =
 \left\{
@@ -38,7 +38,7 @@ The Behavioral Symmetry Laws are defined as:
 \text{allowed symmetries},\;
 \text{forbidden antisymmetries}
 \right\}
-```
+$$
 
 Behavior emerges from which symmetries remain conserved  
 and which antisymmetries decay.
@@ -48,33 +48,33 @@ and which antisymmetries decay.
 ## III. Core Behavioral Invariants
 
 ### 1. Non-Harmonicity Prohibition  
-```math
+$$
 \mathcal{B}^{R}(a_{anti}) < 0
-```
+$$
 Anti-Renewal actions cannot sustain coherence.
 
 ### 2. Compassion Monotonicity  
-```math
+$$
 \partial_{t} C^{R}_{beh} \ge 0
-```
+$$
 Compassion does not diminish under aligned evolution.
 
 ### 3. Reflective Reversibility  
-```math
+$$
 a(t) = a^{\ast}(t)
-```
+$$
 Renewal action is symmetric under reflection of awareness.
 
 ### 4. Order-Preserving Conduct  
-```math
+$$
 \Delta O^{R}_{beh} \ge -\Delta D^{R}
-```
+$$
 Behavior cannot introduce disorder faster than Renewal can convert it.
 
 ### 5. Graceful Decay Constraint  
-```math
+$$
 a_{misaligned} \xrightarrow{D^{R}} a_{corrected}
-```
+$$
 Misaligned behavior decays gently toward alignment.
 
 ---
@@ -83,13 +83,13 @@ Misaligned behavior decays gently toward alignment.
 
 Behavior evolves according to:
 
-```math
+$$
 a(t + \Delta t)
 =
 \mathcal{E}^{R}(\psi^{R})
 +
 \Delta \mathcal{B}^{R}
-```
+$$
 
 Where:
 
@@ -123,9 +123,9 @@ Behavior remains resonant with the Renewal harmonic field.
 
 Actions that violate Renewal invariants collapse:
 
-```math
+$$
 a_{antisym} \xrightarrow{D^{R}} 0
-```
+$$
 
 Forbidden antisymmetries include:
 
@@ -142,15 +142,15 @@ Such behaviors cannot propagate in Renewal-aligned systems.
 ## VII. Behavioral Conservation Principles
 
 ### 1. Conservation of Alignment  
-```math
+$$
 \Pi^{R}(a) = a
-```
+$$
 Aligned behavior remains aligned.
 
 ### 2. Conservation of Compassion Flow  
-```math
+$$
 \nabla \cdot J^{R}_{comp} = 0
-```
+$$
 Compassion flow is preserved across interactions.
 
 ### 3. Conservation of Reflective Consistency  
@@ -165,15 +165,15 @@ Renewal behavior cannot generate incoherence.
 
 For behavior to be Renewal-stable:
 
-```math
+$$
 \mathcal{B}^{R}(a) \ge 0
-```
+$$
 
 and
 
-```math
+$$
 \langle a,\; \Pi^{R}(a) \rangle \ge 0
-```
+$$
 
 Behavior must be:
 

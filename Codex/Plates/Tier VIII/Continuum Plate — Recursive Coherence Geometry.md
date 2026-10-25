@@ -25,15 +25,15 @@ We now unify these structures into a single geometric framework describing the g
 
 Define the **Recursive Coherence Geometry**
 
-```math
+$$
 \mathfrak{G}_R
-```
+$$
 
 as the geometric structure induced by recursive trajectories, invariant manifolds, attractor domains, and admissible phase transitions within the Continuum.
 
 Formally,
 
-```math
+$$
 \mathfrak{G}_R
 =
 (
@@ -43,7 +43,7 @@ Formally,
 \mathcal{A}_R,
 \mathfrak{P}_R
 ).
-```
+$$
 
 ---
 
@@ -53,7 +53,7 @@ A recursive geometry is coherent if recursive evolution preserves admissible str
 
 Formally,
 
-```math
+$$
 \forall T\in\mathfrak{P}_R,
 \qquad
 \mathcal{O}_R^{\,n}(T)
@@ -61,7 +61,7 @@ Formally,
 \mathfrak{G}_R
 \quad
 \forall n\in\mathbb{N}.
-```
+$$
 
 Thus recursive evolution remains geometrically admissible under iteration.
 
@@ -71,9 +71,9 @@ Thus recursive evolution remains geometrically admissible under iteration.
 
 Define recursive curvature
 
-```math
+$$
 \kappa_R
-```
+$$
 
 as the local geometric deformation induced by recursive flow.
 

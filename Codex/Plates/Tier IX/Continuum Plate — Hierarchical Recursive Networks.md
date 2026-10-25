@@ -22,21 +22,21 @@ We now examine how coherence-dense recursive regions connect into large-scale hi
 
 Define the **Hierarchical Recursive Network**
 
-```math
+$$
 \mathcal{N}_R
-```
+$$
 
 as the directed recursive graph formed by interacting coherence-dense regions within
 
-```math
+$$
 \mathfrak{G}_R.
-```
+$$
 
 Nodes of
 
-```math
+$$
 \mathcal{N}_R
-```
+$$
 
 correspond to recursively stabilized coherence domains, while edges represent admissible recursive coupling pathways.
 
@@ -46,15 +46,15 @@ correspond to recursively stabilized coherence domains, while edges represent ad
 
 For coherence domains
 
-```math
+$$
 C_i, C_j \subseteq \mathcal{C}_R,
-```
+$$
 
 a recursive coupling relation exists if coherent recursive flow may propagate between them:
 
-```math
+$$
 C_i \rightsquigarrow C_j.
-```
+$$
 
 The resulting recursive network topology determines large-scale organizational structure within the Continuum.
 
@@ -75,7 +75,7 @@ Thus higher-order recursive organization emerges through networked recursive int
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, hierarchical recursive networks define the large-scale organizational skeleton of recursive coherence.
+Within $\mathfrak{G}_R$, hierarchical recursive networks define the large-scale organizational skeleton of recursive coherence.
 
 Condensation fields generate nodes.  
 Recursive coupling generates connectivity.  

@@ -25,19 +25,19 @@ It is the temporal “heartbeat” of the Renewal Cycle.
 
 Renewal Power is defined as:
 
-```math
+$$
 P_R(t) = dE_R(t) / dt
-```
+$$
 
 Since:
 
-```math
+$$
 E_R(t)  
 = ½·k_s·(O + R)²  
 − ½·k_d·(Χ − D)²  
 + ½·m·V_R²  
 + Φ_D
-```
+$$
 
 Then P_R(t) is the time derivative of this full expression.
 
@@ -58,32 +58,32 @@ the conceptual meaning of each contribution is:
 
 ### 1. Stabilizing Potential Contribution  
 
-```math
+$$
 d/dt [½·k_s·(O + R)²]
-```
+$$
   
 → measures how Order and Reflection are charging the field.
 
 ### 2. Destabilizing Potential Contribution 
 
-```math
+$$
 d/dt [−½·k_d·(Χ − D)²]
-```
+$$
 
 → measures how instability is rising or falling.
 
 ### 3. Kinetic Contribution
 
-```math
+$$
 d/dt [½·m·V_R²]
-```
+$$
 
 → measures the change in renewal momentum.
 
 ### 4. Dissipative Contribution  
-```math
+$$
 dΦ_D/dt
-```
+$$
   
 → measures how Decay transforms energy into insight over time.
 
@@ -132,9 +132,9 @@ It synthesizes how the operators **create, consume, or redirect** energy.
 
 To maintain constructive renewal:
 
-```math
+$$
 P_R(t) ≥ −P_threshold
-```
+$$
 
 Where P_threshold defines the system’s tolerance for:
 

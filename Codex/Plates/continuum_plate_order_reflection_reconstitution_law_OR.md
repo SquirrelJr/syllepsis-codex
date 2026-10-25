@@ -24,9 +24,9 @@ It is the harmonic of **reconstitution with understanding**.
 
 ΟR(t) is expressed as:
 
-```math
+$$
 O + R
-```
+$$
 
 Interpretation:
 

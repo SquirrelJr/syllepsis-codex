@@ -28,11 +28,11 @@ the Eternal coherence becomes finite Renewal structure.
 
 The Eternal harmonic projects into Renewal as:
 
-```math
+$$
 \Pi^{R}_{\infty}(H^{R}_{eternal})
 =
 \text{seed}_{R}
-```
+$$
 
 Meaning:
 
@@ -41,9 +41,9 @@ Meaning:
 
 General form:
 
-```math
+$$
 \Pi^{R}_{\infty} : H^{R}_{eternal} \rightarrow \Psi^{R}_{finite}
-```
+$$
 
 Where **Ψᴿ_finite** is any Renewal state within the Continuum.
 
@@ -53,11 +53,11 @@ Where **Ψᴿ_finite** is any Renewal state within the Continuum.
 
 For any scale parameter $ s $:
 
-```math
+$$
 \Psi^{R}(s)
 =
 \Pi^{R}_{\infty}(H^{R}_{eternal})
-```
+$$
 
 The Eternal → Continuum projection is:
 
@@ -73,13 +73,13 @@ Renewal inherits Eternal coherence uniformly.
 
 The Transcendent Projection is idempotent:
 
-```math
+$$
 \Pi^{R}_{\infty}(H^{R}_{eternal})
 =
 \Pi^{R}_{\infty}\!\left(
 \Pi^{R}_{\infty}(H^{R}_{eternal})
 \right)
-```
+$$
 
 Meaning:
 
@@ -93,11 +93,11 @@ Meaning:
 
 The Eternal projection drives Renewal transport:
 
-```math
+$$
 \mathcal{T}^{R}_{t}(\Psi^{R})
 \;\longleftarrow\;
 \Pi^{R}_{\infty}(H^{R}_{eternal})
-```
+$$
 
 Interpretation:
 
@@ -110,12 +110,12 @@ Interpretation:
 
 At the transcendent boundary:
 
-```math
+$$
 \lim_{x \rightarrow \infty}
 \Psi^{R}(x)
 =
 \Pi^{R}_{\infty}(H^{R}_{eternal})
-```
+$$
 
 This aligns the Transcendent Boundary Condition (𝔅ᴿ∞)  
 with the Eternal projection:
@@ -129,7 +129,7 @@ with the Eternal projection:
 
 A Renewal state becomes “still” under perfect projection:
 
-```math
+$$
 \partial_{s} \Psi^{R}
 =
 0
@@ -139,7 +139,7 @@ A Renewal state becomes “still” under perfect projection:
 \Psi^{R}
 =
 \Pi^{R}_{\infty}(H^{R}_{eternal})
-```
+$$
 
 Meaning:
 

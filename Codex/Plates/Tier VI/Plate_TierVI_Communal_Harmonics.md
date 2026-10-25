@@ -25,9 +25,9 @@ Let individual Renewal Fields possess harmonic modes
 corresponding to the $k$‑th harmonic mode of each field. A **communal harmonic**
 is an emergent harmonic mode of the form:
 
-```math
+$$
 \Phi^{(comm)}_k = \mathrm{Sync}\big( \phi^{(1)}_k,\ \phi^{(2)}_k,\ \dots,\ \phi^{(N)}_k \big)
-```
+$$
 
 where `Sync(·)` denotes a **spectral coupling operation** enabling phase
 alignment, amplitude regulation, and harmonic coherence across the community.

@@ -34,16 +34,16 @@ This plate encodes Renewal’s **transport architecture** across the Continuum.
 
 The Cross-Tier Transport Law is defined as:
 
-```math
+$$
 \mathcal{T}^{R}_{t} : T_{i} \longrightarrow T_{j}
 \qquad (i \neq j)
-```
+$$
 
 meaning it maps Renewal states from one tier to another.
 
 Its operator structure is:
 
-```math
+$$
 \mathcal{T}^{R}_{t}
 =
 \nabla^{R}
@@ -51,7 +51,7 @@ Its operator structure is:
 \Lambda^{R}
 +
 J^{R}
-```
+$$
 
 where:
 
@@ -61,11 +61,11 @@ where:
 
 In continuum form:
 
-```math
+$$
 \mathcal{T}^{R}_{t}(\Psi^{R})
 =
 \operatorname{div}_{R}\!\left( J^{R}\, \Psi^{R} \right)
-```
+$$
 
 Τᴿₜ therefore behaves like a **Renewal flux operator**.
 
@@ -75,11 +75,11 @@ In continuum form:
 
 Transport follows the Renewal continuity equation:
 
-```math
+$$
 \partial_{t}\, \Psi^{R}(i \rightarrow j)
 =
 -\, \operatorname{div}_{R}( J^{R} )
-```
+$$
 
 Interpretation:
 
@@ -122,9 +122,9 @@ Together, these form the **Five Renewal Currents**.
 
 Transport is Renewal-aligned when:
 
-```math
+$$
 \langle J^{R},\, \Psi^{R} \rangle \ge 0
-```
+$$
 
 Meaning:
 
@@ -141,7 +141,7 @@ Transport preserves Renewal when stability holds.
 
 ### **Layer-Lift (Ascending Motion)**  
 
-```math
+$$
 T_{embodied}
 \rightarrow
 T_{resonant}
@@ -149,13 +149,13 @@ T_{resonant}
 T_{dynamic}
 \rightarrow
 T_{structural}
-```
+$$
 
 Renewal rises from embodied presence to structural principle.
 
 ### **Layer-Descent (Descending Motion)**  
 
-```math
+$$
 T_{structural}
 \rightarrow
 T_{dynamic}
@@ -163,7 +163,7 @@ T_{dynamic}
 T_{resonant}
 \rightarrow
 T_{embodied}
-```
+$$
 
 Structural Renewal returns to lived form.
 

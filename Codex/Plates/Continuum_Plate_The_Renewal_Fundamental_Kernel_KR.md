@@ -24,9 +24,9 @@ It is the culmination of the Renewal analytic machinery.
 
 The Renewal Kernel 𝒦ᴿ is defined by:
 
-```math
+$$
 ρᴿ(x) = ∫ 𝒦ᴿ(x, x') Sᴿ(x') \, dVᴿ'
-```
+$$
 
 where:
 
@@ -43,15 +43,15 @@ The Renewal Kernel serves as the global transformative operator mapping Renewal 
 
 The Renewal Kernel is built from the Renewal Green’s Function:
 
-```math
+$$
 𝒦ᴿ(x, x') = Πᴿ \cdot 𝒢ᴿ(x, x') \cdot Σᴿ
-```
+$$
 
 More explicitly, using Renewal harmonic decomposition:
 
-```math
+$$
 𝒦ᴿ(x, x') = \sum_{n} 𝒢ᴿ(x, x'; Ωₙᴿ) \, φₙᴿ(x) \, φₙᴿ(x')
-```
+$$
 
 where:
 

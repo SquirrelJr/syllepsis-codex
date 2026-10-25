@@ -20,19 +20,19 @@ Stability must be analyzed locally.
 
 Let a perturbed tier-state be defined by:
 
-```math
+$$
 T = T^\ast + \varepsilon V,
-```
+$$
 
 where $\varepsilon$ is small and $V$ is a perturbation direction.
 
 Applying the renewal operator yields the first-order approximation:
 
-```math
+$$
 \mathcal{O}_R(T^\ast + \varepsilon V)
 \approx
 T^\ast + \varepsilon D\mathcal{O}_R(T^\ast)[V],
-```
+$$
 
 where $D\mathcal{O}_R(T^\ast)$ denotes the Fréchet derivative of the operator at $T^\ast$.
 
@@ -42,15 +42,15 @@ where $D\mathcal{O}_R(T^\ast)$ denotes the Fréchet derivative of the operator a
 
 Let $\lambda$ be an eigenvalue of the linearized operator
 
-```math
+$$
 D\mathcal{O}_R(T^\ast).
-```
+$$
 
 The **Renewal Stability Spectrum**, denoted $\Sigma_R$, is defined as:
 
-```math
+$$
 \Sigma_R := \mathrm{Spec}\!\left(D\mathcal{O}_R(T^\ast)\right).
-```
+$$
 
 ---
 
@@ -64,25 +64,25 @@ Stability of the fixed point is determined by the magnitude of eigenvalues:
 
 Equivalently, stability is governed by the spectral radius:
 
-```math
+$$
 \rho\!\left(D\mathcal{O}_R(T^\ast)\right).
-```
+$$
 
 The fixed point is locally stable if:
 
-```math
+$$
 \rho\!\left(D\mathcal{O}_R(T^\ast)\right) < 1.
-```
+$$
 
 ---
 
 ## V. Geometric Interpretation
 
-Within ${\mathcal{M}}_S$:
+Within $\mathcal{M}_S$:
 
-- ${\mathcal{O}}_R$ acts as a self-map on admissible structure.  
-- ${\mathcal{T}}_I$ constrains invariant directions.  
-- ${\mathcal{L}}_S$ preserves semantic coherence.  
+- $\mathcal{O}_R$ acts as a self-map on admissible structure.  
+- $\mathcal{T}_I$ constrains invariant directions.  
+- $\mathcal{L}_S$ preserves semantic coherence.  
 
 The Renewal Stability Spectrum measures how curvature within the invariant manifold amplifies or suppresses deviation near equilibrium.
 

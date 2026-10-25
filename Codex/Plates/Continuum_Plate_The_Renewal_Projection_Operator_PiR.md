@@ -31,11 +31,11 @@ a projector that filters the field into the subspace consistent with
 
 ## II. Formal Definition of the Renewal Projection Operator
 
-```math
+$$
 
 Πᴿ = 𝓒ᴿ ◦ gᴿ
 
-```
+$$
 
 Interpretation:
 
@@ -45,11 +45,11 @@ Interpretation:
 
 Thus Πᴿ acts as the **Renewal filter**, extracting the permissible harmonic mode:
 
-```math
+$$
 
 Πᴿ(v) = vᴿ
 
-```
+$$
 
 Where:
 
@@ -63,21 +63,21 @@ Where:
 
 1. **Idempotency** 
 
-```math
+$$
 
 Πᴿ ∘ Πᴿ = Πᴿ
 
-```
+$$
 
 Once a state is Renewal-aligned, applying Renewal again **does not distort it**.
 
 2. **Self-Adjoint Under gᴿ**
 
-```math
+$$
 
 ⟨Πᴿ u, v⟩ = ⟨u, Πᴿ v⟩
 
-```
+$$
 
 Renewal selection is **symmetric** and respects inner harmony.
 

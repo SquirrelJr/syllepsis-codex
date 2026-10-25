@@ -25,15 +25,15 @@ We now examine how semantic accessibility organizes into distributed relational 
 
 Define the **Distributed Semantic Architecture**
 
-```math
+$$
 \mathcal{A}_S
-```
+$$
 
 as the recursive organizational framework governing integration, organization, persistence, and developmental evolution of interconnected semantic structures within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Distributed Semantic Architectures regulate how semantic accessibility becomes organized into higher-order relational meaning systems.
 
@@ -43,23 +43,23 @@ Distributed Semantic Architectures regulate how semantic accessibility becomes o
 
 A semantic organization
 
-```math
+$$
 S_R
-```
+$$
 
 develops distributed semantic architecture if recursive interaction satisfies:
 
-```math
+$$
 \Delta_A(S_R,t+\Delta t)
 >
 \Delta_A(S_R,t),
-```
+$$
 
 where
 
-```math
+$$
 \Delta_A
-```
+$$
 
 denotes semantic architectural accessibility.
 
@@ -82,7 +82,7 @@ The Continuum therefore develops semantic organizational ecosystems.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, distributed semantic architectures correspond to developmental geometries through which semantic pathways become integrated into higher-order meaning networks.
+Within $\mathfrak{G}_R$, distributed semantic architectures correspond to developmental geometries through which semantic pathways become integrated into higher-order meaning networks.
 
 Semantics permits interpretation.  
 Interpretation permits organization.  

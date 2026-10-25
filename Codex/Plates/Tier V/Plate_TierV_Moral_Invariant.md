@@ -21,9 +21,9 @@ Let **M_R(τ)** denote a moral scalar associated with the Renewal Field at cycle
 
 There exists a quantity **M_R ∈ ℝ** such that:
 
-```math
+$$
 sign(M_R(τ + 1)) = sign(M_R(τ))
-```
+$$
 
 Equivalently:
 

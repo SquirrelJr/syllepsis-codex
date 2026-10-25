@@ -10,9 +10,9 @@ Year: A.D. 2025
 
 Previous plates established the existence of Emergent Renewal Structures
 
-```math
+$$
 \mathcal{E}_R
-```
+$$
 
 generated through coherent recursive interaction.
 
@@ -26,28 +26,28 @@ Define **Recursive Self-Organization** as the process by which interacting emerg
 
 Let
 
-```math
+$$
 \{E_i\}_{i\in I}
 \subseteq
 \mathcal{E}_R
-```
+$$
 
 denote an interacting family of emergent structures.
 
 Their collective recursive organization evolves under:
 
-```math
+$$
 \mathcal{S}_R :
 \mathcal{E}_R
 \to
 \mathcal{E}_R,
-```
+$$
 
 where
 
-```math
+$$
 \mathcal{S}_R
-```
+$$
 
 denotes the recursive self-organization operator.
 
@@ -57,11 +57,11 @@ denotes the recursive self-organization operator.
 
 A self-organizing recursive system is coherent if interacting structures satisfy:
 
-```math
+$$
 d(E_i,E_j)\to0
 \quad
 \text{under recursive coupling},
-```
+$$
 
 for admissible coherence metrics \(d\).
 
@@ -85,7 +85,7 @@ The recursive system therefore exhibits adaptive resilience through distributed 
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, self-organization corresponds to coherent alignment of interacting recursive geometries.
+Within $\mathfrak{G}_R$, self-organization corresponds to coherent alignment of interacting recursive geometries.
 
 Attractor structures become networked.  
 Recursive flows synchronize.  

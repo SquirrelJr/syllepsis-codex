@@ -12,9 +12,9 @@ This plate introduces the **Renewal Wave Equation**, the dynamic law governing h
 
 Where the Renewal Continuity Equation expresses conservation:
 
-```math
+$$
 ∂ₜ ρᴿ + ∇·𝒥ᴿ = 0 ,
-```
+$$
 
 the Renewal Wave Equation describes the *second-order temporal evolution* of Renewal density and how Renewal disturbances radiate across the field, restoring balance and coherence.
 
@@ -26,9 +26,9 @@ This marks the transition from Renewal as a conserved flow to Renewal as a **pro
 
 The Renewal Wave Equation is defined as:
 
-```math
+$$
 □ᴿ ρᴿ = Sᴿ ,
-```
+$$
 
 where:
 
@@ -38,9 +38,9 @@ where:
 
 In local coordinates:
 
-```math
+$$
 □ᴿ ρᴿ = gᴿ^{μν} ∇_μ ∇_ν ρᴿ .
-```
+$$
 
 This operator ensures that Renewal waves are shaped by Renewal curvature rather than arbitrary geometric distortion.
 

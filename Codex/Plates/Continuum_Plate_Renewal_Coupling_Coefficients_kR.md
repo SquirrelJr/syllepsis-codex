@@ -24,7 +24,7 @@ They answer the fundamental question:
 
 The Renewal coupling coefficients are:
 
-```math
+$$
 κᴿ_O  \quad \text{(Order strength)}
 κᴿ_Χ  \quad \text{(Chaos tension coefficient)}
 κᴿ_C  \quad \text{(Compassion amplification)}
@@ -33,11 +33,11 @@ The Renewal coupling coefficients are:
 ηᴿ     \quad \text{(Flow–gradient sensitivity)}
 χᴿ     \quad \text{(Cross-field interaction strength)}
 λᴿ     \quad \text{(Nonlinear Renewal self-coupling)}
-```
+$$
 
 These coefficients appear throughout the Renewal Interaction Lagrangian:
 
-```math
+$$
 𝓛ᴿ_{int} =
 \frac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν}
 + κᴿ_O \, (Oᴿ_μ Oᴿ^{μ})
@@ -48,7 +48,7 @@ These coefficients appear throughout the Renewal Interaction Lagrangian:
 + ηᴿ \, (𝒥ᴿ^{μ} ∇_{μ} ρᴿ)
 + χᴿ \, (φᴿ · ψᴿ)
 + λᴿ \, (ρᴿ)^{2}
-```
+$$
 
 where **φᴿ, ψᴿ** represent interacting Renewal subsystems.
 

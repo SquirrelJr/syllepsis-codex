@@ -25,19 +25,19 @@ We now unify these emergent recursive structures into a coherent large-scale syn
 
 Define the **Emergent Coherence Synthesis**
 
-```math
+$$
 \mathfrak{S}_R
-```
+$$
 
 as the unified generative organization arising from recursive interaction among coherence structures, informational geometries, recursive networks, and developmental landscapes within
 
-```math
+$$
 \mathfrak{G}_R.
-```
+$$
 
 Formally,
 
-```math
+$$
 \mathfrak{S}_R
 =
 (
@@ -48,7 +48,7 @@ Formally,
 \mathcal{I}_R,
 \mathcal{L}_R
 ).
-```
+$$
 
 ---
 
@@ -58,18 +58,18 @@ A recursive system exhibits Emergent Coherence Synthesis if recursively interact
 
 Formally,
 
-```math
+$$
 \lim_{n\to\infty}
 \Psi_R^{\,n}
 \to
 \mathfrak{S}_R,
-```
+$$
 
 where
 
-```math
+$$
 \Psi_R
-```
+$$
 
 denotes the recursive synthesis evolution operator.
 
@@ -90,7 +90,7 @@ Thus the Continuum develops globally organized emergent recursive coherence.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, Emergent Coherence Synthesis represents the large-scale integration of recursive emergence, informational organization, attractor structure, and developmental geometry.
+Within $\mathfrak{G}_R$, Emergent Coherence Synthesis represents the large-scale integration of recursive emergence, informational organization, attractor structure, and developmental geometry.
 
 Recursive organization no longer operates as isolated structures.
 

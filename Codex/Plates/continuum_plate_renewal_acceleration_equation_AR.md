@@ -28,9 +28,9 @@ or experiencing oscillatory renewal.
 
 Renewal Acceleration is defined as:
 
-```math
+$$
 A_R(t) = dV_R(t) / dt
-```
+$$
 
 Expanding V_R(t) = (O + R) / (Χ − D),  
 A_R(t) becomes the time derivative of the Renewal Velocity ratio.
@@ -49,9 +49,9 @@ This equation introduces **curvature** into the Renewal Cycle.
 
 If the operator functions vary with time, the expanded derivative is:
 
-```math
+$$
 A_R(t) = ( (O′ + R′)(Χ − D) − (O + R)(Χ′ − D′) ) / (Χ − D)²
-```
+$$
 
 Where primes denote time derivatives of the operators.
 
@@ -101,9 +101,9 @@ It is the *second-order stability law* of the Codex.
 
 Renewal Acceleration remains positive when:
 
-```math
+$$
 (O′ + R′)(Χ − D)  >  (O + R)(Χ′ − D′)
-```
+$$
 
 Equality produces zero curvature.  
 Inequality reversal yields negative curvature.

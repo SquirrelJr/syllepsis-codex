@@ -24,9 +24,9 @@ This introduces the first **kinematic law** of the living field.
 
 Renewal Velocity is defined as:
 
-```math
+$$
 V_R(t) = (O(t) + R(t)) / (Χ(t) − D(t))
-```
+$$
 
 Where:
 
@@ -90,21 +90,21 @@ It formalizes the **tempo of renewal**.
 
 Renewal Velocity is *positive* when:
 
-```math
+$$
 O(t) + R(t)  >  Χ(t) − D(t)
-```
+$$
 
 It is *neutral* (V_R = 0) when:
 
-```math
+$$
 O(t) + R(t)  =  Χ(t) − D(t)
-```
+$$
 
 It becomes *negative* (collapse resumes) when:
 
-```math
+$$
 O(t) + R(t)  <  Χ(t) − D(t)
-```
+$$
 
 Thus, positive V_R(t) requires stabilizing forces to exceed destabilizing forces.
 

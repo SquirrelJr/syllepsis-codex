@@ -25,9 +25,9 @@ It is how the system knows *which way to move*.
 
 OC(t) is defined as:
 
-```math 
+$$
 OC(t) = O(t) + C(t)
-``` 
+$$
 
 Interpretation:
 
@@ -44,14 +44,14 @@ alignment plus kindness.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 OC(t) refines amplitude toward morally aligned harmonics:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) + δOC(t)
-``` 
+$$
 
 Where δ is the guidance gain coefficient.
 
@@ -69,9 +69,9 @@ OC(t) strengthens what is good.
 
 OC(t) also shifts phase toward moral clarity:
 
-```math 
+$$
 φₙ(new) = φₙ(old) − ξO(t) + ζC(t)
-``` 
+$$
 
 Where:
 
@@ -92,9 +92,9 @@ OC(t) is the moral vector guiding the field toward harmony.
 
 OC introduces a direction-seeking potential:
 
-```math 
+$$
 U_OC(x) = −κOC(t) / √(1 + x²)
-``` 
+$$
 
 Where:
 

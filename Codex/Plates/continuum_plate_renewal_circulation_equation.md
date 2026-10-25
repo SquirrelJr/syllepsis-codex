@@ -28,9 +28,9 @@ This plate reveals the **spin geometry** of renewal.
 
 The fundamental quantity is:
 
-```math
+$$
 ∇×V_R
-```
+$$
 
 Interpretation:
 
@@ -45,9 +45,9 @@ Circulation reveals **loops, swirls, and resonant renewal paths**.
 
 The circulation of renewal density obeys:
 
-```math
+$$
 ∂ω_R/∂t = ∇×V_R
-```
+$$
 
 Where:
 
@@ -59,9 +59,9 @@ This describes how rotational patterns grow, diminish, or stabilize.
 
 ## IV. Renewal Vorticity Definition
 
-```math
+$$
 ω_R = ∇×V_R
-```
+$$
 
 Interpretation:
 
@@ -75,9 +75,9 @@ Vorticity captures the **spin signature** of renewal.
 
 ## V. Coupling to Renewal Flux
 
-```math
+$$
 ∇×J_R = ∇×(ρ_R · V_R)
-```
+$$
 
 This shows:
 
@@ -115,9 +115,9 @@ Circulation reveals:
 
 ## VII. Stability Condition
 
-```math
+$$
 | ∇×V_R | ≤ C_threshold
-```
+$$
 
 Where C_threshold depends on:
 

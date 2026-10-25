@@ -28,9 +28,9 @@ allowing recursion to strengthen rather than destabilize the framework.
 
 Conceptually expressed as:
 
-```math
+$$
 {𝓞}_R(F) = F ∘ 𝓒(F)
-```
+$$
 
 Where:
 
@@ -67,9 +67,9 @@ Recursion does not inherently increase complexity unless new information is intr
 
 Structural recursion remains stable when:
 
-```math
+$$
 lim (n → ∞) 𝓞_Rⁿ(F) = F*
-```
+$$
 
 Where:
 

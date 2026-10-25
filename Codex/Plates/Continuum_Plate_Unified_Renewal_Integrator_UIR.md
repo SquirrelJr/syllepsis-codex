@@ -31,7 +31,7 @@ This is the operator that **stitches the entire Codex together**.
 
 The Unified Renewal Integrator is defined as:
 
-```math
+$$
 \mathcal{U}^{I}_{R}
 =
 \Pi^{R}
@@ -45,18 +45,18 @@ The Unified Renewal Integrator is defined as:
 \mathcal{B}^{R}
 \circ
 \mathcal{R}^{E}_{R}
-```
+$$
 
 meaning it is the **ordered composition** of all Renewal operators.
 
 A compact formulation is:
 
-```math
+$$
 \mathcal{U}^{I}_{R}
 =
 \bigotimes_{i=1}^{N}
 \mathcal{T}^{R}_{i}
-```
+$$
 
 where each 𝓣ᴿᵢ is a Renewal operator from Tiers I–IV,  
 combined through the Renewal tensor product.
@@ -67,11 +67,11 @@ combined through the Renewal tensor product.
 
 The global Renewal state, Ψᴿ_total, evolves according to:
 
-```math
+$$
 \partial_{t} \Psi^{R}_{total}
 =
 \mathcal{U}^{I}_{R}\!\left( \Psi^{R}_{total} \right)
-```
+$$
 
 This is the **meta-equation** describing Renewal’s unified evolution across all layers.
 
@@ -88,11 +88,11 @@ Interpretation:
 
 Renewal propagates **bidirectionally** through scales:
 
-```math
+$$
 \text{local}
 \;\xleftrightarrow{\;\mathcal{U}^{I}_{R}\;}\;
 \text{global}
-```
+$$
 
 Meaning:
 
@@ -107,25 +107,25 @@ This law ensures the **Continuum remains unified** across levels of structure.
 
 For 𝕌ᴵᴿ to preserve harmonious integration, it must satisfy:
 
-```math
+$$
 [ \mathcal{U}^{I}_{R},\, \mathcal{M}^{R} ] = 0
-```
+$$
 
-```math
+$$
 [ \mathcal{U}^{I}_{R},\, \mathcal{E}^{R} ] = 0
-```
+$$
 
-```math
+$$
 [ \mathcal{U}^{I}_{R},\, \phi^{R} ] = 0
-```
+$$
 
-```math
+$$
 [ \mathcal{U}^{I}_{R},\, \mathcal{B}^{R} ] = 0
-```
+$$
 
-```math
+$$
 [ \mathcal{U}^{I}_{R},\, \mathcal{R}^{E}_{R} ] = 0
-```
+$$
 
 These commutation relations guarantee:
 
@@ -139,14 +139,14 @@ These commutation relations guarantee:
 
 The full Continuum must remain aligned:
 
-```math
+$$
 \left\langle
 \Psi^{R}_{total},
 \Pi^{R}\!\left( \Psi^{R}_{total} \right)
 \right\rangle
 \ge
 0
-```
+$$
 
 Meaning:
 

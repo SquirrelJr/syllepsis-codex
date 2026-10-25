@@ -19,9 +19,9 @@ Where the Renewal Projection Operator (Πᴿ) isolates Renewal-aligned component
 
 The Renewal Continuity Equation is given by:
 
-```math
+$$
 ∂ₜ ρᴿ + ∇ · 𝒥ᴿ = 0
-```
+$$
 
 Where:
 

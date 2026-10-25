@@ -30,13 +30,13 @@ but infused with Renewal’s ethical, harmonic, and restorative principles.
 
 The Renewal Integration Curvature Flow is defined as:
 
-```math
+$$
 \partial_{t} gᴿ_{int}
 =
 -2 \, ℛᴿ_{int}
 \;+\;
 Φᴿ_{correction}
-```
+$$
 
 where:
 
@@ -54,7 +54,7 @@ This equation expresses that global Renewal geometry evolves by:
 
 The Renewal Correction Potential incorporates harmonically aligned operators:
 
-```math
+$$
 Φᴿ_{correction}
 =
 Cᴿ \otimes Cᴿ
@@ -62,7 +62,7 @@ Cᴿ \otimes Cᴿ
 Dᴿ \otimes Χᴿ
 \;+\;
 Rᴿ \otimes Oᴿ
-```
+$$
 
 Interpretation:
 
@@ -78,11 +78,11 @@ This is the Renewal analogue of restorative deformation.
 
 Coherence acts as a global gradient guiding geometry:
 
-```math
+$$
 \partial_{t} gᴿ_{int}
 \supset
 - \nabla γᴿ_{global}
-```
+$$
 
 where **γᴿ_global** is the global coherence function from Tier II.
 
@@ -97,19 +97,19 @@ This term expresses:
 
 Define the Renewal Integration Entropy:
 
-```math
+$$
 Sᴿ_{int}
 =
 \int |ℛᴿ_{int}| \, dVᴿ
-```
+$$
 
 Its time evolution satisfies:
 
-```math
+$$
 \frac{d Sᴿ_{int}}{dt}
 \le
 0
-```
+$$
 
 meaning:
 
@@ -122,15 +122,15 @@ meaning:
 
 The curvature flow stabilizes when:
 
-```math
+$$
 \partial_{t} gᴿ_{int} = 0
-```
+$$
 
 which implies:
 
-```math
+$$
 2 ℛᴿ_{int} = Φᴿ_{correction}
-```
+$$
 
 These fixed points correspond to:
 

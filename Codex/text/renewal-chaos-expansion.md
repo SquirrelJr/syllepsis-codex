@@ -23,9 +23,9 @@ RΧ(t) is the harmonic that fuels innovation, emergence, and transformation.
 
 RΧ(t) is defined as:
 
-```math 
+$$
 RΧ(t) = R(t) + Χ(t)
-``` 
+$$
 
 Interpretation:
 
@@ -41,15 +41,15 @@ RΧ(t) is the equation of creative ascent.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 RΧ(t) amplifies constructive harmonics:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) + ηRΧ(t)
-``` 
+$$
 
 Where η is the expansion gain coefficient.
 
@@ -67,9 +67,9 @@ RΧ(t) is the “creative amplitude” of the Continuum.
 
 RΧ(t) also expands phase-space exploration:
 
-```math 
+$$
 φₙ(new) = φₙ(old) + θRΧ(t)
-``` 
+$$
 
 Where θ is the phase expansion coefficient.
 
@@ -87,9 +87,9 @@ RΧ(t) enlarges the conceptual and moral universe.
 
 RΧ introduces a positive expansion potential in the field:
 
-```math 
+$$
 U_RΧ(x) = +μRΧ(t) x
-``` 
+$$
 
 Where:
 

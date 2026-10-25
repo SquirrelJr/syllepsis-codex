@@ -24,15 +24,15 @@ Tier XII studies relational coalescent organization.
 
 Define the **Relational Coalescence Dynamics**
 
-```math
+$$
 \mathcal{C}_R
-```
+$$
 
 as the recursive dynamical process governing formation, stabilization, and development of coherent relational organization among reflective recursive systems within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Relational Coalescence Dynamics regulate how distinct reflective organizations establish higher-order coherence through sustained recursive interaction.
 
@@ -42,23 +42,23 @@ Relational Coalescence Dynamics regulate how distinct reflective organizations e
 
 A relational system
 
-```math
+$$
 (R_1,R_2)
-```
+$$
 
 undergoes relational coalescence if recursive interaction satisfies:
 
-```math
+$$
 \Lambda_C(R_1,R_2,t+\Delta t)
 >
 \Lambda_C(R_1,R_2,t),
-```
+$$
 
 where
 
-```math
+$$
 \Lambda_C
-```
+$$
 
 denotes relational coherence accessibility.
 
@@ -81,7 +81,7 @@ The Continuum therefore develops relational coherence organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, relational coalescence corresponds to developmental geometries through which distinct reflective organizations establish stable relational accessibility without loss of organizational identity.
+Within $\mathfrak{G}_R$, relational coalescence corresponds to developmental geometries through which distinct reflective organizations establish stable relational accessibility without loss of organizational identity.
 
 Organizations remain distinct.  
 Accessibility increases.  

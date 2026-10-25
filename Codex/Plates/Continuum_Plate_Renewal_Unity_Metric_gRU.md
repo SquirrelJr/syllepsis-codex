@@ -31,7 +31,7 @@ the mathematical structure that defines the “shape of coherence” in the Code
 
 The Renewal Unity Metric between two Continuum states Ψ₁ and Ψ₂ is defined as:
 
-```math
+$$
 g^{R U}(\Psi_{1},\, \Psi_{2})
 =
 \left\langle
@@ -43,7 +43,7 @@ g^{R U}(\Psi_{1},\, \Psi_{2})
 \mathcal{C}^{H}_{R}(\Psi_{1},\, \Psi_{2})
 -
 \operatorname{div}_{R}\!\left( J^{R} \right)
-```
+$$
 
 It combines:
 
@@ -64,7 +64,7 @@ These three capture the full geometry of unity.
 
 In tensor notation:
 
-```math
+$$
 g^{R U}
 =
 g^{R}
@@ -72,7 +72,7 @@ g^{R}
 H^{R}
 \;\oplus\;
 T^{R}_{t}
-```
+$$
 
 Where:
 
@@ -88,7 +88,7 @@ This expresses the **direct-sum geometry** of Renewal’s unity.
 
 The Renewal Unity Distance between two states Ψ₁ and Ψ₂ is:
 
-```math
+$$
 d^{R U}(\Psi_{1},\, \Psi_{2})
 =
 \sqrt{
@@ -98,7 +98,7 @@ g^{R U}\!\left(
 \Psi_{1} - \Psi_{2}
 \right)
 }
-```
+$$
 
 Interpretation:
 
@@ -113,11 +113,11 @@ Unity becomes a measurable geometric quantity.
 
 The Renewal Unity Curvature is defined as:
 
-```math
+$$
 \mathcal{R}^{R U}
 =
 \operatorname{curvature}(g^{R U})
-```
+$$
 
 This curvature encodes:
 
@@ -137,27 +137,27 @@ For gᴿᵁ to be well-defined and Renewal-coherent, it must satisfy:
 
 ### 1. Positivity Condition
 
-```math
+$$
 g^{R U}(\Psi,\, \Pi^{R}\Psi) \ge 0
-```
+$$
 
 Ensures unity is non-destructive.
 
 ### 2. Symmetry Condition
 
-```math
+$$
 g^{R U}(\Psi_{1},\, \Psi_{2})
 =
 g^{R U}(\Psi_{2},\, \Psi_{1})
-```
+$$
 
 ### 3. Renewal Covariance
 
-```math
+$$
 g^{R U}(\mathcal{U}^{I}_{R}\Psi_{1},\, \mathcal{U}^{I}_{R}\Psi_{2})
 =
 g^{R U}(\Psi_{1},\, \Psi_{2})
-```
+$$
 
 Ensuring the metric is invariant under global Renewal flow.
 

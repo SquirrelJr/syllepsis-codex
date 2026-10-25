@@ -23,9 +23,9 @@ It is the harmonic that determines *how much chaos the system can safely absorb 
 
 DΧ(t) is expressed as:
 
-```math  
+$$
 DΧ(t) = Χ(t) − D(t)
-```  
+$$
 
 Interpretation:
 
@@ -44,15 +44,15 @@ DΧ(t) is the dynamic threshold of controlled dissolution.
 
 Within the Harmonic Field Equation:
 
-```math  
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```  
+$$
 
 DΧ(t) modulates amplitude stability:
 
-```math  
+$$
 Aₙ(new) = Aₙ(old) − D(t) + Χ(t)
-```  
+$$
 
 Meaning:
 
@@ -69,9 +69,9 @@ If Χ(t) > D(t), the waveform destabilizes.
 
 DΧ(t) determines whether phase-space remains stable:
 
-```math  
+$$
 φₙ(new) = φₙ(old) + Χ(t) − D(t)
-```  
+$$
 
 Interpretation:
 
@@ -87,9 +87,9 @@ DΧ(t) is the “phase collapse threshold.”
 
 DΧ introduces a stability potential:
 
-```math  
+$$
 U_DΧ(x) = +μ(Χ(t) − D(t)) / (1 + x²)
-```  
+$$
 
 Where:
 

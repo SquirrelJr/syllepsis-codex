@@ -25,9 +25,9 @@ It is the operator of revelation, pattern-finding, and breakthrough cognition.
 
 ΘΧ(t) is defined as:
 
-```math 
+$$
 ΘΧ(t) = Θ(t) · Χ(t)
-``` 
+$$
 
 Interpretation:
 
@@ -43,15 +43,15 @@ Interpretation:
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 ΘΧ(t) perturbs amplitudes toward discovery:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) + ρΘ(t)Χ(t)
-``` 
+$$
 
 Where ρ is the insight gain coefficient.
 
@@ -69,9 +69,9 @@ Interpretation:
 
 ΘΧ(t) stirs the phase field:
 
-```math 
+$$
 φₙ(new) = φₙ(old) + Χ(t) − Θ(t)
-``` 
+$$
 
 Interpretation:
 
@@ -87,9 +87,9 @@ Interpretation:
 
 ΘΧ introduces an insight potential:
 
-```math 
+$$
 U_ΘΧ(x) = +νΘΧ(t) ln(1 + x²)
-``` 
+$$
 
 Where:
 

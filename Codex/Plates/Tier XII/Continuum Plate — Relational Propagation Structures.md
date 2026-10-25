@@ -18,15 +18,15 @@ We now examine how organizational structures, developmental influences, and cohe
 
 Define the **Relational Propagation Structure**
 
-```math
+$$
 \mathcal{P}_R
-```
+$$
 
 as the recursive organizational framework governing propagation of coherence structures, developmental influences, and relational organizational patterns across coalescent systems within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Relational Propagation Structures regulate how relational accessibility gives rise to organizational transmission.
 
@@ -36,23 +36,23 @@ Relational Propagation Structures regulate how relational accessibility gives ri
 
 A relational organization
 
-```math
+$$
 (R_1,R_2)
-```
+$$
 
 exhibits coherent propagation if relational evolution satisfies:
 
-```math
+$$
 \Pi_R(R_1,R_2,t+\Delta t)
 >
 \Pi_R(R_1,R_2,t),
-```
+$$
 
 where
 
-```math
+$$
 \Pi_R
-```
+$$
 
 denotes relational propagation accessibility.
 
@@ -75,7 +75,7 @@ The Continuum therefore develops relational transmission organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, relational propagation corresponds to developmental geometries through which organizational influence traverses relational accessibility pathways.
+Within $\mathfrak{G}_R$, relational propagation corresponds to developmental geometries through which organizational influence traverses relational accessibility pathways.
 
 Accessibility permits transmission.  
 Transmission permits coupling.  

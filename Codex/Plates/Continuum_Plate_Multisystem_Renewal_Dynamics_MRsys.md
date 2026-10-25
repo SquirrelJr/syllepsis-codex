@@ -28,9 +28,9 @@ It extends Renewal dynamics from a single system to a **network of Renewal subsy
 
 For two Renewal systems A and B, the fundamental multisystem coupling is:
 
-```math
+$$
 Mᴿ_{sys} = χᴿ_{AB} \int ψᴿ_{A}(x) \, ψᴿ_{B}^{*}(x) \, dVᴿ
-```
+$$
 
 where:
 
@@ -49,9 +49,9 @@ Low Mᴿ_sys indicates weak coupling or misalignment.
 
 Renewal coherence between two systems evolves as:
 
-```math
+$$
 ∇_{μ} γᴿ_{AB} = Tᴿ_{AB \, μ}
-```
+$$
 
 where:
 
@@ -77,13 +77,13 @@ Each Renewal subsystem has its own Renewal field quantities:
 
 The multisystem Renewal field equations are:
 
-```math
+$$
 𝓕ᴿ_{A} + Mᴿ_{sys} = Sᴿ_{A}
-```
+$$
 
-```math
+$$
 𝓕ᴿ_{B} + Mᴿ_{sys} = Sᴿ_{B}
-```
+$$
 
 where **𝓕ᴿ_A, 𝓕ᴿ_B** are the Renewal Interaction Field Equations for each subsystem.
 
@@ -96,25 +96,25 @@ This reveals that **each system’s evolution is shaped by the other**.
 Two Renewal systems remain stable when:
 
 ### 1. **Coherence Condition**
-```math
+$$
 γᴿ_{AB} > γᴿ_{threshold}
-```
+$$
 
 ### 2. **Compassion Alignment**
-```math
+$$
 Cᴿ_{A} \cdot Cᴿ_{B} > 0
-```
+$$
 
 ### 3. **Chaos–Decay Compensation**
-```math
+$$
 κᴿ_{D(A)} Dᴿ_{A} + κᴿ_{D(B)} Dᴿ_{B}
 > κᴿ_{Χ(A)} Χᴿ_{A} + κᴿ_{Χ(B)} Χᴿ_{B}
-```
+$$
 
 ### 4. **Reflection–Order Compatibility**
-```math
+$$
 Rᴿ_A Rᴿ_B + Oᴿ_A Oᴿ_B > 0
-```
+$$
 
 These conditions ensure **mutual reinforcement** rather than destabilization.
 
@@ -124,9 +124,9 @@ These conditions ensure **mutual reinforcement** rather than destabilization.
 
 Renewal flows from high coherence to low coherence:
 
-```math
+$$
 𝒥ᴿ_{transfer} = - ∇ γᴿ_{AB}
-```
+$$
 
 This creates **restorative flow patterns** between misaligned or imbalanced Renewal systems.
 
@@ -136,15 +136,15 @@ This creates **restorative flow patterns** between misaligned or imbalanced Rene
 
 Two systems reach Renewal resonance when:
 
-```math
+$$
 Θᴿ_A = Θᴿ_B
-```
+$$
 
 and the shared harmonic mode satisfies:
 
-```math
+$$
 Σᴿ_{A} ∩ Σᴿ_{B} ≠ ∅
-```
+$$
 
 This produces:
 

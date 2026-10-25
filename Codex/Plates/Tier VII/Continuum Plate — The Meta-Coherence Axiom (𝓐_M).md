@@ -27,7 +27,7 @@ It is the **closure principle of invariance across recursion.**
 
 The Meta-Coherence Axiom asserts:
 
-```math
+$$
 \mathcal{A}_M :
 \forall T_g \in \text{Tier Hierarchy}, \;
 \Big(
@@ -37,7 +37,7 @@ The Meta-Coherence Axiom asserts:
 \mathrm{Inv}_{\mathcal{T}_I}(T_g)
 \;\implies\;
 \mathcal{L}_S \text{ preserved}
-```
+$$
 
 Interpretation:
 
@@ -61,12 +61,12 @@ The axiom ensures:
 
 Thus:
 
-```math
+$$
 \text{Invariance} + \text{Recursion} + \text{Conservation}
 \Rightarrow
 \text{Global Coherence}
 
-```
+$$
 <br>
 Tier VII is therefore **closed under its own recursion.**
 

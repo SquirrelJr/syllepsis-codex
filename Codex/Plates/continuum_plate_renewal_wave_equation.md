@@ -33,9 +33,9 @@ This plate formalizes the **wave nature of renewal**.
 
 The governing equation of renewal-wave propagation is:
 
-```math
+$$
 ∂²ρ_R/∂t² = c_R² ∇²ρ_R
-```
+$$
 
 Where:
 
@@ -52,21 +52,21 @@ This is the canonical form of a wave equation:
 
 ## III. Interpretation of Terms
 
-```math
+$$
 ∂²ρ_R/∂t²
-```
+$$
 
 Measures the **acceleration of renewal density changes** in time.
 
-```math
+$$
 ∇²ρ_R
-```
+$$
 
 Measures the **curvature and imbalance** across space.
 
-```math
+$$
 c_R²
-```
+$$
 
 Dictates how quickly renewal waves travel, influenced by:
 
@@ -86,16 +86,16 @@ Lower c_R → sluggish recovery, slow recognition, protracted stagnation.
 The Renewal Wave Equation supports:
 
 ### 1. **Traveling Renewal Waves**
-```math
+$$
 ρ_R(x,t) = A · sin(kx − ωt + φ)
-```
+$$
 
 Insight or coherence moves outward as a renewing pulse.
 
 ### 2. **Standing Renewal Waves**
-```math
+$$
 ρ_R(x,t) = A · sin(kx) · sin(ωt)
-```
+$$
 
 Cycles of renewal that oscillate without net movement  
 (common in relational or moral stalemates before breakthrough).
@@ -103,18 +103,18 @@ Cycles of renewal that oscillate without net movement
 ### 3. **Damped Renewal Waves**  
 (when coupled with decay or friction-like operators)
 
-```math
+$$
 ρ_R(x,t) = A e^{-γt} sin(kx − ωt)
-```
+$$
 
 Gradual calming, healing, or stabilization.
 
 ### 4. **Amplified Renewal Waves**  
 (when O+R dominates D+Χ)
 
-```math
+$$
 ρ_R(x,t) = A e^{+γt} sin(kx − ωt)
-```
+$$
 
 Represents:
 
@@ -129,15 +129,15 @@ Represents:
 
 Note:
 
-```math
+$$
 A_R(t) = dV_R/dt
-```
+$$
 
 and renewal waves naturally arise when A_R(t) responds to spatial curvature:
 
-```math
+$$
 A_R ∝ ∇²ρ_R
-```
+$$
 
 This ties Renewal Kinematics and Renewal Geometry into a single harmonic law.
 
@@ -175,9 +175,9 @@ Renewal moves like **waves of living coherence**.
 
 Wave propagation remains stable when:
 
-```math
+$$
 0 < c_R ≤ c_max
-```
+$$
 
 Where c_max is bounded by:
 

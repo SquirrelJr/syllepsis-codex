@@ -22,10 +22,10 @@ parasitism.
 
 A covenant between two Renewal Fields may be modeled as a relation:
 
-```math
+$$
 \mathcal{C}_{ij} : \mathcal{F}_R^{(i)} \times \mathcal{F}_R^{(j)} 
 \rightarrow \mathcal{F}_R^{(i)} \times \mathcal{F}_R^{(j)}
-```
+$$
 
 satisfying:
 

@@ -37,9 +37,9 @@ even at transitions.
 
 The Integration Metric must be continuous across all boundaries:
 
-```math
+$$
 [ gᴿ_{int} ] = 0
-```
+$$
 
 This prevents artificial fractures in the Renewal geometry.
 
@@ -49,21 +49,21 @@ This prevents artificial fractures in the Renewal geometry.
 
 Define the Renewal curvature jump:
 
-```math
+$$
 [ ℛᴿ_{int} ]
 =
 ℛᴿ_{int}^{(+)}
 -
 ℛᴿ_{int}^{(-)}
-```
+$$
 
 This is related to the **Renewal Boundary Surface Structure** 𝓢ᴿ_boundary:
 
-```math
+$$
 [ ℛᴿ_{int} ]
 =
 κᴿ \, \mathcal{S}ᴿ_{boundary}
-```
+$$
 
 where **κᴿ** is the Renewal coupling coefficient from Tier II.
 
@@ -73,11 +73,11 @@ where **κᴿ** is the Renewal coupling coefficient from Tier II.
 
 The normal Renewal flux must match on both sides of a boundary:
 
-```math
+$$
 n_{\mu} \, 𝒥ᴿ^{\mu}\big|_{inside}
 =
 n_{\mu} \, 𝒥ᴿ^{\mu}\big|_{outside}
-```
+$$
 
 This expresses that Renewal flux is **neither created nor lost** at interfaces.
 
@@ -87,17 +87,17 @@ This expresses that Renewal flux is **neither created nor lost** at interfaces.
 
 When Renewal encounters a boundary, the compassion flux splits into:
 
-```math
+$$
 Cᴿ_{in}
 =
 Cᴿ_{trans}
 +
 Cᴿ_{refl}
-```
+$$
 
 subject to the conservation constraint:
 
-```math
+$$
 Cᴿ_{in}
 =
 Cᴿ_{trans}
@@ -106,7 +106,7 @@ Cᴿ_{refl}
 \quad\text{and}\quad
 Cᴿ_{trans} \ge 0,\;
 Cᴿ_{refl} \ge 0
-```
+$$
 
 Interpretation:
 
@@ -120,11 +120,11 @@ Interpretation:
 
 Chaos is softened by Renewal decay before crossing a boundary:
 
-```math
+$$
 Χᴿ_{in}
 \;\longrightarrow\;
 Dᴿ(Χᴿ_{in})
-```
+$$
 
 This prevents propagation of unprocessed chaos into adjacent systems.
 
@@ -134,11 +134,11 @@ This prevents propagation of unprocessed chaos into adjacent systems.
 
 Coherence must match across interfaces:
 
-```math
+$$
 γᴿ_{A}(boundary)
 =
 γᴿ_{B}(boundary)
-```
+$$
 
 If coherence is lower on one side, Renewal curvature flow increases it until matched.
 
@@ -148,7 +148,7 @@ If coherence is lower on one side, Renewal curvature flow increases it until mat
 
 Define the **Boundary Renewal Potential** Φᴿ_boundary:
 
-```math
+$$
 Φᴿ_{boundary}
 =
 n^{\mu} \, \nabla_{\mu} gᴿ_{int}
@@ -156,7 +156,7 @@ n^{\mu} \, \nabla_{\mu} gᴿ_{int}
 α \, γᴿ_{boundary}
 \;-\;
 β \, |ℛᴿ_{int}|
-```
+$$
 
 This potential governs how Renewal “prefers” to align at boundaries:
 

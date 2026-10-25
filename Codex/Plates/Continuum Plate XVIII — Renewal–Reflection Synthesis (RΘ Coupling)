@@ -25,9 +25,9 @@ It is the Continuum’s internal engine of *becoming wiser and rising because of
 
 RΘ(t) is defined as:
 
-```math  
+$$
 RΘ(t) = R(t) · Θ(t)
-```  
+$$
 
 Interpretation:
 
@@ -43,15 +43,15 @@ RΘ(t) is the operator that transforms insight into growth.
 
 Within the Harmonic Field Equation:
 
-```math  
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```  
+$$
 
 RΘ(t) strengthens constructive amplitudes based on integrated understanding:
 
-```math  
+$$
 Aₙ(new) = Aₙ(old) + ηR(t)Θ(t)
-```  
+$$
 
 Where η is the integration–ascent coefficient.
 
@@ -69,9 +69,9 @@ RΘ(t) is the harmonic of conscious elevation.
 
 RΘ(t) also shapes phase correction through informed ascent:
 
-```math  
+$$
 φₙ(new) = φₙ(old) − αΘ(t) + βR(t)
-```  
+$$
 
 Where:
 
@@ -92,9 +92,9 @@ RΘ(t) is the “wisdom gradient” in phase-space.
 
 RΘ introduces an ascent potential in the relational and cognitive field:
 
-```math  
+$$
 U_RΘ(x) = −λRΘ(t) ln(1 + x²)
-```  
+$$
 
 Where:
 

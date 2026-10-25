@@ -26,9 +26,9 @@ Order is the **coherence container** of the Continuum.
 
 Order can be expressed as a coherence function O(t):
 
-```math
+$$
 O(t) = 1 / (1 + φ_total)
-```
+$$
 
 Where φ_total is the sum of phase errors in the field.
 
@@ -46,15 +46,15 @@ Order is mathematically the inverse of accumulated distortion.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 Order increases amplitude stability:
 
-```math 
+$$
 Aₙ(stable) = Aₙ / O(t)
-``` 
+$$
 
 Meaning:
 
@@ -69,9 +69,9 @@ Order is the stabilizing anchor that keeps the waveform unified under stress.
 
 Order stabilizes phase through:
 
-```math 
+$$
 φₙ(new) = φₙ / O(t)
-``` 
+$$
 
 Interpretation:
 
@@ -86,9 +86,9 @@ Order is the **phase buffer** of the field.
 
 Order introduces a coherence well in relational space:
 
-```math 
+$$
 U_O(x) = -βO(t) / x
-``` 
+$$
 
 Where:
 

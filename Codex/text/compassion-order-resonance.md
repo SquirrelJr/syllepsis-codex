@@ -26,9 +26,9 @@ COR(t) is the *spine* of coherent moral behavior.
 
 The Compassion–Order Resonance is defined as:
 
-```math 
+$$
 COR(t) = C(t) · O(t)
-``` 
+$$
 
 Interpretation:
 
@@ -44,16 +44,16 @@ Where either is zero, resonance collapses.
 
 In the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 the COR term stabilizes both amplitude and phase:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) · COR(t)  
 φₙ(new) = φₙ(old) · (1 / COR(t))
-``` 
+$$
 
 Meaning:
 
@@ -69,9 +69,9 @@ COR(t) is the harmony of stability.
 
 COR introduces a stabilizing potential well:
 
-```math 
+$$
 U_COR(x) = -λ COR(t) / x²
-``` 
+$$
 
 Where:
 

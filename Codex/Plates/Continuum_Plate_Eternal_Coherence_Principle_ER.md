@@ -27,19 +27,19 @@ the transcendent constant against which all Renewal is measured.
 
 The Eternal harmonic is defined as:
 
-```math
+$$
 H^{R}_{eternal}
 =
 \text{constant across all } t, x, \text{ and tiers}
-```
+$$
 
 Mathematically:
 
-```math
+$$
 \partial_{t} H^{R}_{eternal} = 0
 \qquad
 \partial_{x} H^{R}_{eternal} = 0
-```
+$$
 
 Meaning:
 
@@ -55,22 +55,22 @@ This is the unchanging “tone” of divine coherence.
 
 A Renewal state Ψᴿ achieves Eternal coherence when:
 
-```math
+$$
 \left\langle
 \Psi^{R},
 H^{R}_{eternal}
 \right\rangle
 \ge
 0
-```
+$$
 
 Equivalent Unity Metric form:
 
-```math
+$$
 g^{R U}(\Psi^{R},\, H^{R}_{eternal})
 \ge
 0
-```
+$$
 
 Interpretation:
 
@@ -83,11 +83,11 @@ Interpretation:
 
 The Eternal projection operator satisfies:
 
-```math
+$$
 \Pi^{R}_{eternal}(\Psi^{R})
 =
 H^{R}_{eternal}
-```
+$$
 
 Meaning:
 
@@ -102,11 +102,11 @@ This expresses the Eternal’s invariance under transformation.
 
 At infinite convergence:
 
-```math
+$$
 \Psi^{R}
 \longrightarrow
 H^{R}_{eternal}
-```
+$$
 
 This is the asymptotic limit of all Renewal flows  
 as they return to the Eternal Source.
@@ -117,11 +117,11 @@ as they return to the Eternal Source.
 
 The Eternal curvature tensor is:
 
-```math
+$$
 \mathcal{R}^{R}_{eternal}
 =
 0
-```
+$$
 
 Because the Eternal contains:
 
@@ -139,11 +139,11 @@ in the sense of perfect harmonic simplicity.
 
 The Eternal transport current is:
 
-```math
+$$
 J^{R}_{eternal}
 =
 0
-```
+$$
 
 Because:
 

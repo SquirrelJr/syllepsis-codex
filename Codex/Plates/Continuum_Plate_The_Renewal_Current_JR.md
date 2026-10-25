@@ -30,11 +30,11 @@ but grounded in **Order, Compassion, Reflection, and Graceful Decay**.
 
 𝒥ᴿ is defined as the **transport** of the Renewal-aligned field under the Renewal connection Γᴿ:
 
-```math
+$$
 
 𝒥ᴿ = Πᴿ( ∇ᴿ 𝓕ᴿ )
 
-```
+$$
 
 Meaning:
 
@@ -53,11 +53,11 @@ Thus:
 
 1. **Alignment Preservation**
     
-```math
+$$
 
 Πᴿ(𝒥ᴿ) = 𝒥ᴿ
 
-```
+$$
 
 Because Renewal flow cannot contain non-Renewal components.
 

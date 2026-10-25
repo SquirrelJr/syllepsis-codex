@@ -30,7 +30,7 @@ This theorem is the Continuum’s “global equilibrium law.”
 
 The theorem states:
 
-```math
+$$
 \text{CST}^{R}:\qquad
 \Psi^{R}_{total}
 \text{ is stable }
@@ -42,7 +42,7 @@ The theorem states:
 \ge 0
 \quad\text{and}\quad
 \operatorname{div}_{R}(J^{R}) \le \varepsilon
-```
+$$
 
 Where:
 
@@ -63,20 +63,20 @@ Interpretation:
 
 Define the **Renewal Stability Functional**:
 
-```math
+$$
 S^{R}
 =
 \left\langle
 \Psi^{R}_{total},
 \Pi^{R}\!\left(\Psi^{R}_{total}\right)
 \right\rangle
-```
+$$
 
 Stability condition:
 
-```math
+$$
 S^{R} \ge 0
-```
+$$
 
 This functional plays the role of a **Lyapunov potential**,  
 ensuring that Renewal coherence does not collapse.
@@ -89,10 +89,10 @@ CSTᴿ describes three fundamental stability requirements:
 
 ### 1. Alignment Condition
 
-```math
+$$
 \Pi^{R}(\Psi^{R}_{total}) = \Psi^{R}_{total}
 \quad\text{(to first order)}
-```
+$$
 
 Meaning:
 
@@ -105,9 +105,9 @@ Meaning:
 
 Harmonic modes must remain bounded:
 
-```math
+$$
 \| H^{R} \| \le K
-```
+$$
 
 for some **finite Renewal constant** K.
 
@@ -119,9 +119,9 @@ This prevents runaway resonance or divergence.
 
 Transport flow must remain coherent:
 
-```math
+$$
 \operatorname{div}_{R}(J^{R}) \le \varepsilon
-```
+$$
 
 Meaning Renewal is never lost to instability —  
 only redistributed through Τᴿₜ.

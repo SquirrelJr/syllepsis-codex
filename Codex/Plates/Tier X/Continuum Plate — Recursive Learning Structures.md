@@ -18,15 +18,15 @@ We now examine how adaptive recursive systems retain, reinforce, and refine succ
 
 Define the set of **Recursive Learning Structures**
 
-```math
+$$
 \mathcal{L}_S
-```
+$$
 
 as recursively reinforced organizational pathways generated through adaptive recursive evolution within
 
-```math
+$$
 \mathfrak{S}_R.
-```
+$$
 
 These structures encode persistent adaptive refinement across recursive developmental history.
 
@@ -36,23 +36,23 @@ These structures encode persistent adaptive refinement across recursive developm
 
 A recursive pathway
 
-```math
+$$
 \gamma_R
-```
+$$
 
 is reinforced if repeated adaptive coherence evolution satisfies:
 
-```math
+$$
 W(\gamma_R,t+\Delta t)
 >
 W(\gamma_R,t),
-```
+$$
 
 where
 
-```math
+$$
 W
-```
+$$
 
 denotes recursive pathway weighting.
 
@@ -75,7 +75,7 @@ The Continuum therefore develops persistent adaptive organizational intelligence
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, Recursive Learning Structures correspond to reinforced developmental geometries shaped by adaptive recursive evolution.
+Within $\mathfrak{G}_R$, Recursive Learning Structures correspond to reinforced developmental geometries shaped by adaptive recursive evolution.
 
 Frequently stabilized trajectories deepen coherence accessibility.  
 Adaptive landscapes become recursively weighted.  

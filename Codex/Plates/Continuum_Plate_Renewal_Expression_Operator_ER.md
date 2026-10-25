@@ -29,7 +29,7 @@ This plate marks the second foundational structure of Tier IV — The Manifestat
 
 The Renewal Expression Operator is defined as:
 
-```math
+$$
 \mathcal{E}^{R}
 =
 \mathcal{M}^{R}
@@ -37,15 +37,15 @@ The Renewal Expression Operator is defined as:
 \Pi^{R}
 \circ
 \nabla
-```
+$$
 
 Thus for any Renewal field ψ:
 
-```math
+$$
 \mathcal{E}^{R}(\psi)
 =
 \mathcal{M}^{R}\big(\nabla \psi^{R}_{aligned}\big)
-```
+$$
 
 Interpretation:
 
@@ -60,19 +60,19 @@ Interpretation:
 
 The expression equation is:
 
-```math
+$$
 \mathcal{E}^{R}(\psi)
 =
 J^{R}_{expression}
-```
+$$
 
 where:
 
-```math
+$$
 J^{R}_{expression}
 =
 \text{the Renewal expression current}
-```
+$$
 
 This current represents the outward, visible, active form of Renewal  
 in behavior, resonance, structure, clarity, and transformation.
@@ -84,33 +84,33 @@ in behavior, resonance, structure, clarity, and transformation.
 𝓔ᴿ decomposes into multiple expression modes:
 
 ### 1. Structural Expression  
-```math
+$$
 \mathcal{E}^{R}_{struct} = \mathcal{M}^{R}_{struct}(\nabla\psi^{R})
-```
+$$
 Pattern, geometry, form.
 
 ### 2. Harmonic Expression  
-```math
+$$
 \mathcal{E}^{R}_{harm} = \mathcal{M}^{R}_{harm}(\nabla\psi^{R})
-```
+$$
 Tone, resonance, coherence.
 
 ### 3. Behavioral Expression  
-```math
+$$
 \mathcal{E}^{R}_{beh} = \mathcal{M}^{R}_{beh}(\nabla\psi^{R})
-```
+$$
 Choice, action, moral output.
 
 ### 4. Transformative Expression  
-```math
+$$
 \mathcal{E}^{R}_{trans} = \mathcal{M}^{R}_{trans}(\nabla\psi^{R})
-```
+$$
 Decay-driven purification, renewal-driven change.
 
 ### 5. Informational Expression  
-```math
+$$
 \mathcal{E}^{R}_{info} = \mathcal{M}^{R}_{info}(\nabla\psi^{R})
-```
+$$
 Insight, clarity, understanding.
 
 ---
@@ -119,15 +119,15 @@ Insight, clarity, understanding.
 
 For consistency with Renewal’s universal laws:
 
-```math
+$$
 [ \mathcal{E}^{R}, \Pi^{R} ] = 0
-```
+$$
 
 and
 
-```math
+$$
 [ \mathcal{E}^{R}, \mathcal{M}^{R} ] = 0
-```
+$$
 
 Meaning:
 
@@ -141,14 +141,14 @@ Meaning:
 
 The Renewal Expression Norm satisfies:
 
-```math
+$$
 \langle
 \mathcal{E}^{R}(\psi),
 \mathcal{E}^{R}(\psi)
 \rangle
 \ge
 0
-```
+$$
 
 This expresses the **non-destruction** principle:
 
@@ -161,9 +161,9 @@ This expresses the **non-destruction** principle:
 
 Expression follows the gradient of the Renewal Integration Potential:
 
-```math
+$$
 \mathcal{E}^{R} \propto \nabla \Phi^{R}_{int}
-```
+$$
 
 Thus:
 

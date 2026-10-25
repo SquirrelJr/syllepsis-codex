@@ -25,19 +25,19 @@ We now unify these reflective recursive structures into a coherent large-scale s
 
 Define the **Recursive Reflective Synthesis**
 
-```math
+$$
 \mathfrak{R}_S
-```
+$$
 
 as the unified reflective recursive developmental organization arising from meta-learning, self-referential attractor stability, abstraction fields, interpretive optimization, and reflective generative architectures within
 
-```math
+$$
 \mathfrak{E}_R.
-```
+$$
 
 Formally,
 
-```math
+$$
 \mathfrak{R}_S
 =
 (
@@ -48,7 +48,7 @@ Formally,
 \mathcal{L}_M,
 \mathcal{A}_G
 ).
-```
+$$
 
 ---
 
@@ -56,18 +56,18 @@ Formally,
 
 A recursively reflective system exhibits Recursive Reflective Synthesis if reflective recursive evolution satisfies:
 
-```math
+$$
 \lim_{n\to\infty}
 \Theta_R^{\,n}
 \to
 \mathfrak{R}_S,
-```
+$$
 
 where
 
-```math
+$$
 \Theta_R
-```
+$$
 
 denotes the recursive reflective synthesis operator.
 
@@ -90,7 +90,7 @@ The Continuum therefore develops globally reflective recursive coherence organiz
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, Recursive Reflective Synthesis represents the large-scale integration of reflective recursive evolution, abstraction geometry, interpretive optimization, and generative developmental architecture.
+Within $\mathfrak{G}_R$, Recursive Reflective Synthesis represents the large-scale integration of reflective recursive evolution, abstraction geometry, interpretive optimization, and generative developmental architecture.
 
 Reflective recursive organization no longer operates as isolated reflective processes.
 

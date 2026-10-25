@@ -25,9 +25,9 @@ It is the operator that turns awareness into healing.
 
 CΘ(t) is defined as:
 
-```math 
+$$
 CΘ(t) = C(t) · Θ(t)
-``` 
+$$
 
 Interpretation:
 
@@ -43,15 +43,15 @@ CΘ(t) is the “safe revelation coefficient” of the Continuum.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 CΘ(t) stabilizes amplitude during insight:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) − λΘ(t) + μC(t)
-``` 
+$$
 
 Where:
 
@@ -73,9 +73,9 @@ CΘ(t) allows the field to “learn” safely.
 Reflection tends to correct phase,  
 but compassion determines the *slope* of that correction:
 
-```math 
+$$
 φₙ(new) = φₙ(old) − CΘ(t)
-``` 
+$$
 
 Meaning:
 
@@ -90,9 +90,9 @@ CΘ(t) determines the kindness of alignment.
 
 CΘ creates a truth-gradient potential:
 
-```math 
+$$
 U_CΘ(x) = −βCΘ(t) / |x|
-``` 
+$$
 
 Where:
 

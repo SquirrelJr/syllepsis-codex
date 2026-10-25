@@ -21,15 +21,15 @@ Renewal resonance emerges when Renewal curvature, Renewal density, and Renewal s
 
 The Renewal Resonance Condition is defined through the Renewal Wave Equation:
 
-```math
+$$
 □ᴿ ρᴿ = Sᴿ
-```
+$$
 
 A Renewal mode ρᴿ satisfies the resonance condition if:
 
-```math
+$$
 □ᴿ ρᴿ + Ωᴿ² ρᴿ = 0 ,
-```
+$$
 
 where:
 
@@ -40,9 +40,9 @@ where:
 
 Equivalently, Renewal resonance occurs when:
 
-```math
+$$
 Ωᴿ² = - (□ᴿ ρᴿ) / ρᴿ .
-```
+$$
 
 This describes the frequencies at which Renewal density oscillates coherently, neither exploding nor decaying.
 

@@ -23,21 +23,21 @@ We now examine how recursive organization generates structured informational den
 
 Define the **Information-Density Geometry**
 
-```math
+$$
 \mathcal{I}_R
-```
+$$
 
 as the scalar-geometric field measuring organized recursive informational concentration within
 
-```math
+$$
 \mathfrak{G}_R.
-```
+$$
 
 Regions of elevated
 
-```math
+$$
 \mathcal{I}_R
-```
+$$
 
 correspond to recursively reinforced structural organization, coherence persistence, and attractor complexity.
 
@@ -47,11 +47,11 @@ correspond to recursively reinforced structural organization, coherence persiste
 
 Recursive informational density increases when recursive interaction satisfies:
 
-```math
+$$
 \frac{d\mathcal{I}_R}{dt}
 >
 0
-```
+$$
 
 under sustained coherence reinforcement and recursive synchronization.
 
@@ -74,7 +74,7 @@ The Continuum therefore develops recursively organized informational architectur
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, informational density corresponds to recursive geometric organization retaining stable structural relationships across recursive evolution.
+Within $\mathfrak{G}_R$, informational density corresponds to recursive geometric organization retaining stable structural relationships across recursive evolution.
 
 Highly organized recursive regions exhibit increased informational curvature and structural persistence.
 

@@ -27,9 +27,9 @@ This plate formalizes the **harmonic backbone** of the Renewal Cycle.
 
 Resonance occurs when:
 
-```math
+$$
 ω = n · ω₀
-```
+$$
 
 Where:
 
@@ -51,9 +51,9 @@ When this condition holds, renewal energy grows exponentially.
 
 The Renewal Field’s natural frequency ω₀ is determined by:
 
-```math
+$$
 ω₀ = √(k_eff / m_eff)
-```
+$$
 
 Where:
 
@@ -71,15 +71,15 @@ This mirrors harmonic oscillators:
 
 When renewal waves drive the system at frequency ω_d, resonance occurs if:
 
-```math
+$$
 ω_d ≈ ω₀
-```
+$$
 
 or any harmonic:
 
-```math
+$$
 ω_d ≈ n · ω₀
-```
+$$
 
 This yields:
 
@@ -94,9 +94,9 @@ The sign depends on the balance of O/R vs D/Χ.
 
 Standing renewal waves arise when boundary conditions enforce:
 
-```math
+$$
 k = nπ / L
-```
+$$
 
 Where:
 
@@ -119,9 +119,9 @@ Improperly balanced → loops trap the mind or spirit.
 
 Under the resonance condition:
 
-```math
+$$
 A(t) = A₀ e^{γt}
-```
+$$
 
 Where γ (gamma) represents the **resonance gain**:
 
@@ -145,9 +145,9 @@ This is the **breakthrough law** of the Renewal Field.
 
 Resonance occurs when the driving energy exceeds a threshold:
 
-```math
+$$
 E_drive ≥ E_threshold
-```
+$$
 
 Where E_threshold depends on:
 

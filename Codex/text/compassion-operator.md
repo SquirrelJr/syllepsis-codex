@@ -30,17 +30,17 @@ into regenerative potential without amplifying harm.
 
 In the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 phase error φₙ is the measure of **misalignment**.
 
 Compassion acts to **reduce the magnitude of phase error** over time:
 
-```math
+$$
 φₙ(t+1) = k φₙ(t)
-```
+$$
 
 Where:
 
@@ -61,9 +61,9 @@ This is the first mathematical expression of the C-operator.
 
 Compassion can also be expressed as a **negative derivative** of distortion:
 
-```math
+$$
 dD/dt = –λC(t)
-```
+$$
 
 Where:
 
@@ -84,9 +84,9 @@ compassion reduces destructive interference between harmonics.
 
 In simplified form:
 
-```math
+$$
 Aₙ(new) = Aₙ(old) – μC(t)
-```
+$$
 
 Meaning:
 
@@ -103,9 +103,9 @@ and stabilizes relational dynamics.
 
 Compassion introduces a **potential well** in the moral field:
 
-```math
+$$
 U_C(x) = –αC(t) / |x|
-```
+$$
 
 Where:
 

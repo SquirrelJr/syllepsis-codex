@@ -18,23 +18,23 @@ metric, Renewal transitions from descriptive to analytical.
 
 We define a metric:
 
-```math
+$$
 d_R : \mathcal{F}_R \times \mathcal{F}_R 
 \rightarrow \mathbb{R}_{\ge 0}
-```
+$$
 
 assigning a non‑negative distance between Renewal states. For Renewal cycles
 \( \tau \) and \( \tau+1 \):
 
-```math
+$$
 d_R(\tau, \tau+1) < \infty
-```
+$$
 
 and ideally:
 
-```math
+$$
 \lim_{\tau \rightarrow \infty} d_R(\tau, \tau+1) \rightarrow 0
-```
+$$
 
 indicating **convergence of Renewal** rather than unbounded oscillation.
 

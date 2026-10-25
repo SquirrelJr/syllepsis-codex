@@ -21,15 +21,15 @@ We now examine how propagated organizational structures interact, synchronize, a
 
 Define the **Relational Entrainment Geometry**
 
-```math
+$$
 \mathcal{E}_R
-```
+$$
 
 as the recursive geometric structure governing synchronization, alignment, stabilization, and developmental coupling among propagated relational organizations within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Relational Entrainment Geometry regulates how propagated structures become relationally aligned through sustained interaction.
 
@@ -39,23 +39,23 @@ Relational Entrainment Geometry regulates how propagated structures become relat
 
 A relational organization
 
-```math
+$$
 (R_1,R_2)
-```
+$$
 
 undergoes relational entrainment if recursive interaction satisfies:
 
-```math
+$$
 \Sigma_E(R_1,R_2,t+\Delta t)
 >
 \Sigma_E(R_1,R_2,t),
-```
+$$
 
 where
 
-```math
+$$
 \Sigma_E
-```
+$$
 
 denotes relational entrainment accessibility.
 
@@ -78,7 +78,7 @@ The Continuum therefore develops relational alignment organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, relational entrainment corresponds to developmental geometries through which propagated organizational structures become increasingly synchronized and relationally coupled.
+Within $\mathfrak{G}_R$, relational entrainment corresponds to developmental geometries through which propagated organizational structures become increasingly synchronized and relationally coupled.
 
 Propagation permits interaction.  
 Interaction permits alignment.  

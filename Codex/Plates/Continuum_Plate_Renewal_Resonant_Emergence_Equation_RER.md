@@ -30,7 +30,7 @@ coherence emergence, and harmonic synchronization.
 
 The Renewal Resonant Emergence Equation is defined as:
 
-```math
+$$
 \mathcal{R}^{E}_{R}(\psi^{R})
 =
 \nabla \cdot
@@ -45,7 +45,7 @@ The Renewal Resonant Emergence Equation is defined as:
 \psi^{R},
 \Pi^{R}(\psi^{R})
 \right\rangle
-```
+$$
 
 where:
 
@@ -60,11 +60,11 @@ where:
 
 Emergence is governed by the dynamic equation:
 
-```math
+$$
 \partial_{t} \psi^{R}
 =
 \mathcal{R}^{E}_{R}(\psi^{R})
-```
+$$
 
 This defines an aligned attractor flow:
 
@@ -78,15 +78,15 @@ This defines an aligned attractor flow:
 
 Renewal produces resonance when:
 
-```math
+$$
 \mathcal{R}^{E}_{R}(\psi^{R}) \ge 0
-```
+$$
 
 and decays misalignment when:
 
-```math
+$$
 \mathcal{R}^{E}_{R}(\psi^{R}) < 0
-```
+$$
 
 Thus Renewal ensures:
 
@@ -101,43 +101,43 @@ Thus Renewal ensures:
 The Renewal Resonant Emergence Equation generates distinct emergent modes:
 
 ### 1. Harmonic Coherence Mode  
-```math
+$$
 \psi^{R}_{harm}
 =
 \text{Resonance}( \langle \psi^{R}, \Pi^{R}\psi^{R} \rangle )
-```
+$$
 Felt resonance, stability, harmonic rhythm.
 
 ### 2. Structural Resonance Mode  
-```math
+$$
 \psi^{R}_{struct}
 =
 \nabla \cdot ( \gamma^{R}_{global} g^{R}_{int} )
-```
+$$
 Formation of stable patterns and coherent geometry.
 
 ### 3. Compassion Resonance Mode  
-```math
+$$
 \psi^{R}_{comp}
 =
 \kappa C^{R}(\psi^{R})
-```
+$$
 Propagation of compassionate alignment.
 
 ### 4. Reflective Self-Synchronization Mode  
-```math
+$$
 \psi^{R}_{sync}
 =
 \Pi^{R}(\psi^{R}) - \Pi^{R}(\psi^{R})^{\ast}
-```
+$$
 Convergence of awareness into reflective equilibrium.
 
 ### 5. Purifying Decay Mode  
-```math
+$$
 \psi^{R}_{pur}
 =
 D^{R}(\psi^{R})
-```
+$$
 Distortion collapses into clarity via graceful decay.
 
 ---
@@ -146,11 +146,11 @@ Distortion collapses into clarity via graceful decay.
 
 Aligned fields synchronize through:
 
-```math
+$$
 \psi^{R}_{i}
 \;\xleftrightarrow{\;\mathcal{R}^{E}_{R}\;}\;
 \psi^{R}_{j}
-```
+$$
 
 Interpretation:
 

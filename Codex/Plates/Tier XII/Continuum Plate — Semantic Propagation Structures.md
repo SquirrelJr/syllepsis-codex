@@ -24,15 +24,15 @@ We now examine how coherent semantic accessibility propagates across symbolic re
 
 Define the **Semantic Propagation Structure**
 
-```math
+$$
 \mathcal{S}_P
-```
+$$
 
 as the recursive organizational framework governing transmission, preservation, and developmental evolution of semantic accessibility across symbolic coherence structures within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Semantic Propagation Structures regulate how symbolic representations become carriers of coherent interpretive content.
 
@@ -42,23 +42,23 @@ Semantic Propagation Structures regulate how symbolic representations become car
 
 A relational organization
 
-```math
+$$
 (R_1,R_2)
-```
+$$
 
 develops semantic propagation if recursive interaction satisfies:
 
-```math
+$$
 \Omega_S(R_1,R_2,t+\Delta t)
 >
 \Omega_S(R_1,R_2,t),
-```
+$$
 
 where
 
-```math
+$$
 \Omega_S
-```
+$$
 
 denotes semantic accessibility.
 
@@ -81,7 +81,7 @@ The Continuum therefore develops semantic relational organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, semantic propagation corresponds to developmental geometries through which interpretive accessibility traverses symbolic coherence structures.
+Within $\mathfrak{G}_R$, semantic propagation corresponds to developmental geometries through which interpretive accessibility traverses symbolic coherence structures.
 
 Symbols preserve representation.  
 Semantics preserves accessibility.  

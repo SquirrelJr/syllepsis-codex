@@ -23,15 +23,15 @@ We now examine how stable symbolic organizational structures emerge from compati
 
 Define the **Symbolic Coherence Field**
 
-```math
+$$
 \mathcal{F}_S
-```
+$$
 
 as the recursive organizational field governing emergence, persistence, and stabilization of symbolic coherence structures within
 
-```math
+$$
 \mathfrak{R}_S.
-```
+$$
 
 Symbolic Coherence Fields regulate how compatible relational organizations generate stable symbolic accessibility.
 
@@ -41,23 +41,23 @@ Symbolic Coherence Fields regulate how compatible relational organizations gener
 
 A relational organization
 
-```math
+$$
 (R_1,R_2)
-```
+$$
 
 develops symbolic coherence if recursive interaction satisfies:
 
-```math
+$$
 \Psi_S(R_1,R_2,t+\Delta t)
 >
 \Psi_S(R_1,R_2,t),
-```
+$$
 
 where
 
-```math
+$$
 \Psi_S
-```
+$$
 
 denotes symbolic coherence accessibility.
 
@@ -80,7 +80,7 @@ The Continuum therefore develops symbolic relational organization.
 
 ## V. Geometric Interpretation
 
-Within ${\mathfrak{G}}_R$, symbolic coherence corresponds to developmental geometries through which relational accessibility becomes stabilized through persistent symbolic structures.
+Within $\mathfrak{G}_R$, symbolic coherence corresponds to developmental geometries through which relational accessibility becomes stabilized through persistent symbolic structures.
 
 Compatibility permits symbolic emergence.  
 Symbols preserve accessibility.  

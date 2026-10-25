@@ -27,9 +27,9 @@ OΘ(t) is the harmonic that ensures structure remains *living* and *true*.
 
 The alignment between Order and Reflection is defined as:
 
-```math 
+$$
 OΘ(t) = O(t) − Θ’(t)
-``` 
+$$
 
 Where Θ’(t) is the derivative of reflective insight.
 
@@ -47,21 +47,21 @@ OΘ(t) is the operator that keeps the system honest.
 
 Within the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 OΘ(t) stabilizes both amplitude *and* meaning:
 
-```math 
+$$
 Aₙ(new) = Aₙ(old) · OΘ(t)
-``` 
+$$
 
 And corrects phase drift through reflective alignment:
 
-```math 
+$$
 φₙ(new) = φₙ(old) − κΘ(t)
-``` 
+$$
 
 Where κ is the reflective correction coefficient.
 
@@ -79,9 +79,9 @@ OΘ(t) is the harmonic of honest alignment.
 
 OΘ introduces a truth-seeking potential:
 
-```math 
+$$
 U_OΘ(x) = −αOΘ(t) / x²
-``` 
+$$
 
 Where:
 

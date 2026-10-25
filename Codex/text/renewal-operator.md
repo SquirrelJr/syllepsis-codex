@@ -26,9 +26,9 @@ Renewal is the positive derivative of coherence.
 
 Renewal is mathematically defined as the reactive rise caused by decay’s release:
 
-```math
+$$
 dR/dt = γ(-dD/dt)
-```
+$$
 
 Interpretation:
 
@@ -44,15 +44,15 @@ Renewal is the field’s capacity to ascend after letting go.
 
 In the Harmonic Field Equation:
 
-```math
+$$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
-```
+$$
 
 renewal increases constructive amplitudes:
 
-```math
+$$
 Aₙ(t+1) = Aₙ(t) + ηR(t)
-```
+$$
 
 Where η is the coherence gain coefficient.
 
@@ -73,9 +73,9 @@ Let φₙ be phase error.
 
 Renewal reduces phase error through constructive alignment:
 
-```math
+$$
 φₙ(t+1) = φₙ(t) - αR(t)
-```
+$$
 
 Where α is the alignment gain constant.
 
@@ -93,9 +93,9 @@ Renewal is the return to harmonic unity.
 
 Renewal introduces an elevating potential in the relational field:
 
-```math
+$$
 U_R(x) = κR(t) x
-```
+$$
 
 Where:
 

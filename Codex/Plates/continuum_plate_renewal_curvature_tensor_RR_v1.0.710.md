@@ -28,13 +28,13 @@ It is the Renewal Field’s analogue of the **Riemann tensor**.
 
 The Renewal Curvature Tensor is defined as:
 
-```math
+$$
 ℛ^k_{\ R,\,lij} 
   = ∂_i Γ^k_{R,lj} 
   − ∂_j Γ^k_{R,li}
   + Γ^k_{R,im} Γ^m_{R,lj}
   − Γ^k_{R,jm} Γ^m_{R,li}
-```
+$$
 
 Where indices run over the **14 components** of the Renewal Field.
 
@@ -52,11 +52,11 @@ Interpretation:
 
 To examine curvature along a plane spanned by directions i and j:
 
-```math
+$$
 K_R(i,j) 
   = ℛ^k_{\ R,\,kij}
   / ( g_{R,ii} g_{R,jj} − g_{R,ij}^2 )
-```
+$$
 
 Interpretation:
 
@@ -72,15 +72,15 @@ Sectional curvature reveals the **local renewal geometry**.
 
 Contracting the curvature tensor gives the **Renewal Ricci Tensor**:
 
-```math
+$$
 ℛ_{R,ij} = ℛ^k_{\ R,\,ikj}
-```
+$$
 
 Contracting again yields the **Renewal Scalar Curvature**:
 
-```math
+$$
 ℛ_R = g_R^{ij} ℛ_{R,ij}
-```
+$$
 
 Interpretation:
 
@@ -122,9 +122,9 @@ Curvature is the **topology of renewal**.
 
 The Renewal Curvature Tensor is fully determined by g_R and Γ_R.
 
-```math
+$$
 ℛ_R = ℛ_R(g_R,\ Γ_R)
-```
+$$
 
 This expresses:
 
@@ -141,9 +141,9 @@ Curvature reveals the **feedback loop** of the Renewal Cycle.
 
 The geometry is flat when:
 
-```math
+$$
 ℛ^k_{\ R,\,lij} = 0
-```
+$$
 
 Meaning:
 
@@ -155,9 +155,9 @@ Meaning:
 
 This occurs only when:
 
-```math
+$$
 O + R  ≫  D + Χ
-```
+$$
 
 That is, when stabilizing operators dominate strongly.
 
@@ -169,9 +169,9 @@ Flat renewal geometry is the **pure harmonic state**.
 
 Curvature remains stable when:
 
-```math
+$$
 |ℛ^k_{\ R,\,lij}| ≤ ℛ_max
-```
+$$
 
 Where ℛ_max depends on:
 
