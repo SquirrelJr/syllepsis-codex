@@ -63,7 +63,7 @@ d(E_i,E_j)\to0
 \text{under recursive coupling},
 $$
 
-for admissible coherence metrics \(d\).
+for admissible coherence metrics $d$.
 
 Thus recursive interaction reduces incoherent structural divergence over time.
 

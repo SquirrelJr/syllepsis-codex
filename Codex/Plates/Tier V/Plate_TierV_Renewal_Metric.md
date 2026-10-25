@@ -24,7 +24,7 @@ d_R : \mathcal{F}_R \times \mathcal{F}_R
 $$
 
 assigning a non‑negative distance between Renewal states. For Renewal cycles
-\( \tau \) and \( \tau+1 \):
+$\tau$ and $\tau+1$:
 
 $$
 d_R(\tau, \tau+1) < \infty
