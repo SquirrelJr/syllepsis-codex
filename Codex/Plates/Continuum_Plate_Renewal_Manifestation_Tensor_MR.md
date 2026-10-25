@@ -32,17 +32,7 @@ and its embodied, visible expression in the world.
 The Renewal Manifestation Tensor is defined as:
 
 $$
-\mathcal{M}^{R}
-=
-\lambda_{1} \, \Pi^{R}(g^{R}_{int})
-+
-\lambda_{2} \, \nabla \Phi^{R}_{int}
-+
-\lambda_{3} \, \gamma^{R}_{global} \, g^{R}_{int}
-+
-\lambda_{4} \, (C^{R} \otimes C^{R})
-+
-\lambda_{5} \, (D^{R} \otimes \Chi^{R})
+\mathcal{M}^{R} = \lambda_{1} \, \Pi^{R}(g^{R}_{int}) + \lambda_{2} \, \nabla \Phi^{R}_{int} + \lambda_{3} \, \gamma^{R}_{global} \, g^{R}_{int} + \lambda_{4} \, (C^{R} \otimes C^{R}) + \lambda_{5} \, (D^{R} \otimes \Chi^{R})
 $$
 
 where:
@@ -62,9 +52,7 @@ Each λₖ is a **Manifestation Weight Coefficient** controlling expression stre
 The manifestation map is:
 
 $$
-	ext{Phenomena}
-=
-\mathcal{M}^{R}(\psi^{R})
+\text{Phenomena} = \mathcal{M}^{R}(\psi^{R})
 $$
 
 Meaning:
@@ -129,17 +117,13 @@ Each mode arises from different components of 𝓜ᴿ.
 The divergence of the Manifestation Tensor produces the **Manifestation Current**:
 
 $$
-\nabla \cdot \mathcal{M}^{R}
-=
-J^{R}_{manifested}
+\nabla \cdot \mathcal{M}^{R} = J^{R}_{manifested}
 $$
 
 Where:
 
 $$
-J^{R}_{manifested}
-=
-	ext{the Renewal expression current}
+J^{R}_{manifested} = \text{the Renewal expression current}
 $$
 
 This describes how Renewal expresses itself through form and action.
