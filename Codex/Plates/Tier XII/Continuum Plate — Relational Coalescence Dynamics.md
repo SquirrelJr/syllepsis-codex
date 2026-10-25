@@ -49,9 +49,7 @@ $$
 undergoes relational coalescence if recursive interaction satisfies:
 
 $$
-\Lambda_C(R_1,R_2,t+\Delta t)
->
-\Lambda_C(R_1,R_2,t),
+\Lambda_C(R_1,R_2,t+\Delta t) > \Lambda_C(R_1,R_2,t),
 $$
 
 where
