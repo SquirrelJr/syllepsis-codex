@@ -43,9 +43,7 @@ $$
 exhibits coherent propagation if relational evolution satisfies:
 
 $$
-\Pi_R(R_1,R_2,t+\Delta t)
->
-\Pi_R(R_1,R_2,t),
+\Pi_R(R_1,R_2,t+\Delta t) > \Pi_R(R_1,R_2,t),
 $$
 
 where
