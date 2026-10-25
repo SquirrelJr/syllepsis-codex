@@ -48,9 +48,7 @@ $$
 undergoes meta-optimization if reflective recursive evolution satisfies:
 
 $$
-\Omega_M(\Gamma_A,t+\Delta t)
->
-\Omega_M(\Gamma_A,t),
+\Omega_M(\Gamma_A,t+\Delta t) > \Omega_M(\Gamma_A,t),
 $$
 
 where
