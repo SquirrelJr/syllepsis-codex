@@ -82,7 +82,7 @@ This means:
 Global coherence satisfies:
 
 ```math
-rac{\partial}{\partial t} γᴿ_{global} \ge 0
+\frac{\partial}{\partial t} γᴿ_{global} \ge 0
 ```
 
 Coherence may move, redistribute, or spread —  
@@ -101,7 +101,7 @@ Aᴿ = \int \Piᴿ(\psi) \, dVᴿ_{int}
 Then:
 
 ```math
-rac{dAᴿ}{dt} \ge 0
+\frac{dAᴿ}{dt} \ge 0
 ```
 
 Meaning:
