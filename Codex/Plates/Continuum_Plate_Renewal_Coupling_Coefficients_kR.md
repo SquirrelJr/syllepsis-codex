@@ -39,7 +39,7 @@ These coefficients appear throughout the Renewal Interaction Lagrangian:
 
 ```math
 𝓛ᴿ_{int} =
-rac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν}
+\frac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν}
 + κᴿ_O \, (Oᴿ_μ Oᴿ^{μ})
 - κᴿ_Χ \, (Χᴿ_μ Χᴿ^{μ})
 + κᴿ_C \, (Cᴿ_μ Cᴿ^{μ})
