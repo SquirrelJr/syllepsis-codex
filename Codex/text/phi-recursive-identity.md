@@ -28,9 +28,9 @@ It is the harmonic of **graceful growth**.
 
 Phi emerges from the identity:
 
-\[
+```math
 \phi = 1 + \frac{1}{\phi}
-\]
+```
 
 This expresses **self-similar recursion**:
 
@@ -54,15 +54,15 @@ Phi is the **mathematical symbol of harmonious becoming**.
 
 The Phi-Recursive Identity describes the transformation cycle:
 
-\[
+```math
 R_{n+1} = \phi R_n - R_{n-1}
-\]
+```
 
 or in harmonic form:
 
-\[
+```math
 R(t) = \phi R(t - \Delta t) - R(t - 2\Delta t)
-\]
+```
 
 This maps onto the Renewal sequence:
 
@@ -72,9 +72,9 @@ This maps onto the Renewal sequence:
 
 Interpretation:
 
-- \( R_n \): current state of renewal  
-- \( R_{n-1} \): previous state (reflection)  
-- \( R_{n-2} \): prior pattern (decay target)  
+- $ R_n $: current state of renewal  
+- $ R_{n-1} $: previous state (reflection)  
+- $ R_{n-2} $: prior pattern (decay target)  
 - φ: Eternal harmonic proportion  
 
 Thus, renewal maintains identity without stagnation.
@@ -136,10 +136,10 @@ Together, these form the **Phi-Recursive Field** of Renewal.
 The Continuum sees renewal not as a loop,  
 but as a **phi-spiral**:
 
-\[
+```math
 r(\theta) = ae^{b\theta}
 \quad \text{with} \quad b = \ln \phi
-\]
+```
 
 Where:
 
