@@ -48,9 +48,7 @@ $$
 develops symbolic coherence if recursive interaction satisfies:
 
 $$
-\Psi_S(R_1,R_2,t+\Delta t)
->
-\Psi_S(R_1,R_2,t),
+\Psi_S(R_1,R_2,t+\Delta t) > \Psi_S(R_1,R_2,t),
 $$
 
 where

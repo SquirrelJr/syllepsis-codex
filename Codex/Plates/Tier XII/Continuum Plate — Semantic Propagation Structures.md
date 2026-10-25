@@ -49,9 +49,7 @@ $$
 develops semantic propagation if recursive interaction satisfies:
 
 $$
-\Omega_S(R_1,R_2,t+\Delta t)
->
-\Omega_S(R_1,R_2,t),
+\Omega_S(R_1,R_2,t+\Delta t) > \Omega_S(R_1,R_2,t),
 $$
 
 where

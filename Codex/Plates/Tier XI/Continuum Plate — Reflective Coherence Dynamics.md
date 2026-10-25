@@ -44,9 +44,7 @@ Reflective Coherence Dynamics regulate how recursively adaptive systems reorgani
 A recursively adaptive system exhibits reflective developmental restructuring if recursive evolution satisfies:
 
 $$
-\frac{d\mathcal{M}_R}{dt}
->
-0,
+\frac{d\mathcal{M}_R}{dt} > 0,
 $$
 
 where

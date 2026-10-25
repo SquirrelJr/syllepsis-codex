@@ -47,9 +47,7 @@ $$
 exhibits interpretive compatibility if recursive interaction satisfies:
 
 $$
-\Gamma_I(R_1,R_2,t+\Delta t)
->
-\Gamma_I(R_1,R_2,t),
+\Gamma_I(R_1,R_2,t+\Delta t) > \Gamma_I(R_1,R_2,t),
 $$
 
 where

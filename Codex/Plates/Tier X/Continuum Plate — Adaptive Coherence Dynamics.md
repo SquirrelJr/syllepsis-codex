@@ -44,9 +44,7 @@ Adaptive Coherence Dynamics regulate how recursive systems modify organizational
 A recursively coherent system exhibits adaptive refinement if recursive evolution satisfies:
 
 $$
-\frac{d\mathcal{R}_C}{dt}
->
-0
+\frac{d\mathcal{R}_C}{dt} > 0
 $$
 
 under admissible recursive interaction,

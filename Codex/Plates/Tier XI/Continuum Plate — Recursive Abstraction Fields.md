@@ -47,9 +47,7 @@ $$
 undergoes abstraction formation if reflective recursive evolution satisfies:
 
 $$
-C_A(R_A,t+\Delta t)
->
-C_A(R_A,t),
+C_A(R_A,t+\Delta t) > C_A(R_A,t),
 $$
 
 where

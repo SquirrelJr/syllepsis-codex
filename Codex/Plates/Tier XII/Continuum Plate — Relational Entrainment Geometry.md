@@ -46,9 +46,7 @@ $$
 undergoes relational entrainment if recursive interaction satisfies:
 
 $$
-\Sigma_E(R_1,R_2,t+\Delta t)
->
-\Sigma_E(R_1,R_2,t),
+\Sigma_E(R_1,R_2,t+\Delta t) > \Sigma_E(R_1,R_2,t),
 $$
 
 where

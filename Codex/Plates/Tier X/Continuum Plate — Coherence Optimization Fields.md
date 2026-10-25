@@ -54,9 +54,7 @@ $$
 is adaptively optimized if recursive evolution satisfies:
 
 $$
-\frac{d\Omega(\gamma_R)}{dt}
->
-0,
+\frac{d\Omega(\gamma_R)}{dt} > 0,
 $$
 
 where

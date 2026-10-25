@@ -47,9 +47,7 @@ $$
 is selectively reinforced if adaptive recursive evolution satisfies:
 
 $$
-P(R_i,t+\Delta t)
->
-P(R_i,t),
+P(R_i,t+\Delta t) > P(R_i,t),
 $$
 
 where

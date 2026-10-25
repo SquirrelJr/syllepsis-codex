@@ -43,9 +43,7 @@ $$
 undergoes meta-learning refinement if reflective recursive evolution satisfies:
 
 $$
-W_M(\Lambda_R,t+\Delta t)
->
-W_M(\Lambda_R,t),
+W_M(\Lambda_R,t+\Delta t) > W_M(\Lambda_R,t),
 $$
 
 where
