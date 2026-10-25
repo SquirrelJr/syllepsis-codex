@@ -73,7 +73,7 @@ The Continuum therefore develops large-scale organizational hierarchy through re
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, coherence condensation corresponds to curvature concentration in recursive organizational geometry.
+Within 𝔊ᴿ, coherence condensation corresponds to curvature concentration in recursive organizational geometry.
 
 Recursive flow becomes preferentially organized around coherence-dense regions.
 

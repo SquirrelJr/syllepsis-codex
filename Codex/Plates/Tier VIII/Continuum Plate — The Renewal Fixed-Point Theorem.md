@@ -10,10 +10,10 @@ Year: A.D. 2025
 
 Tier VII established invariant architecture:
 
-- Structural embedding within $\mathcal{M}_S$  
-- Cross-tier invariance under $\mathcal{T}_I$  
-- Recursive consistency through $\mathcal{O}_R$  
-- Semantic conservation under $\mathcal{L}_S$  
+- Structural embedding within ℳˢ  
+- Cross-tier invariance under 𝒯ᴵ  
+- Recursive consistency through 𝒪ᴿ  
+- Semantic conservation under ℒˢ  
 
 Tier VIII now examines the dynamical consequence of coherent recursion.
 
@@ -50,9 +50,9 @@ This theorem does not assert inevitability of convergence from arbitrary initial
 
 It asserts instead that:
 
-Within the invariant domain defined by $\mathcal{M}_S$,  
-under consistency governed by $\mathcal{O}_R$,  
-and conservation enforced by $\mathcal{L}_S$,
+Within the invariant domain defined by ℳˢ,  
+under consistency governed by 𝒪ᴿ,  
+and conservation enforced by ℒˢ,
 
 there exists at least one structurally self-consistent tier-state.
 
@@ -77,11 +77,11 @@ This condition strengthens admissibility into observable stability.
 
 ## V. Geometric Insight
 
-Within $\mathcal{M}_S$:
+Within ℳˢ:
 
-- $\mathcal{O}_R$ acts as a self-map  
-- $\mathcal{T}_I$ constrains invariant directions  
-- $\mathcal{L}_S$ prevents semantic displacement  
+- 𝒪ᴿ acts as a self-map  
+- 𝒯ᴵ constrains invariant directions  
+- ℒˢ prevents semantic displacement  
 
 A Renewal Fixed Point lies at the intersection of invariant curvature and conserved meaning —  
 where recursive motion becomes internally self-consistent.

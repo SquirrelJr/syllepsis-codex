@@ -82,7 +82,7 @@ The Continuum therefore develops semantic organizational ecosystems.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, distributed semantic architectures correspond to developmental geometries through which semantic pathways become integrated into higher-order meaning networks.
+Within 𝔊ᴿ, distributed semantic architectures correspond to developmental geometries through which semantic pathways become integrated into higher-order meaning networks.
 
 Semantics permits interpretation.  
 Interpretation permits organization.  

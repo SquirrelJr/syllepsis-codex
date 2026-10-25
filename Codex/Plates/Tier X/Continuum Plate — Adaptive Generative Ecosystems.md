@@ -75,7 +75,7 @@ The Continuum therefore develops large-scale adaptive co-evolutionary organizati
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, adaptive ecosystems correspond to mutually interacting developmental geometries shaping one another through recursive co-evolution.
+Within 𝔊ᴿ, adaptive ecosystems correspond to mutually interacting developmental geometries shaping one another through recursive co-evolution.
 
 Adaptive landscapes no longer evolve independently.  
 Recursive optimization becomes environmentally coupled.  

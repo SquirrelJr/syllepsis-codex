@@ -90,7 +90,7 @@ The Continuum therefore develops globally adaptive recursive evolutionary cohere
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Evolutionary Coherence Synthesis represents the large-scale integration of adaptive recursive evolution, optimization geometry, learning structures, and co-evolutionary developmental organization.
+Within 𝔊ᴿ, Evolutionary Coherence Synthesis represents the large-scale integration of adaptive recursive evolution, optimization geometry, learning structures, and co-evolutionary developmental organization.
 
 Adaptive recursive evolution no longer operates as isolated refinement processes.
 

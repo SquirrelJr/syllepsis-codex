@@ -75,7 +75,7 @@ The Continuum therefore develops reflective recursive learning evolution.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Recursive Meta-Learning Structures correspond to developmental geometries capable of reorganizing the accessibility and efficiency of recursive learning pathways themselves.
+Within 𝔊ᴿ, Recursive Meta-Learning Structures correspond to developmental geometries capable of reorganizing the accessibility and efficiency of recursive learning pathways themselves.
 
 Learning landscapes become recursively modifiable.  
 Adaptive refinement reorganizes future adaptive refinement.  

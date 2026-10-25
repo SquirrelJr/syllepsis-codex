@@ -84,7 +84,7 @@ The Continuum therefore develops coherent relational meaning systems.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, semantic coherence synthesis corresponds to developmental geometries through which relational accessibility, symbolic structures, semantic pathways, and distributed interpretive architectures become integrated into coherent organizational wholes.
+Within 𝔊ᴿ, semantic coherence synthesis corresponds to developmental geometries through which relational accessibility, symbolic structures, semantic pathways, and distributed interpretive architectures become integrated into coherent organizational wholes.
 
 Accessibility permits propagation.
 Propagation permits alignment.

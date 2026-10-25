@@ -86,7 +86,7 @@ The Continuum therefore develops stable reflective recursive organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, self-referential attractors correspond to recursively stable developmental geometries capable of coherent reflective self-modeling without unbounded recursive fragmentation.
+Within 𝔊ᴿ, self-referential attractors correspond to recursively stable developmental geometries capable of coherent reflective self-modeling without unbounded recursive fragmentation.
 
 Reflective pathways stabilize recursive abstraction.  
 Recursive restructuring remains developmentally bounded.  

@@ -81,7 +81,7 @@ The Continuum therefore develops reflective generative developmental organizatio
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, reflective generative architectures correspond to recursive developmental geometries capable of constructing new abstraction systems and organizational structures across reflective recursive evolution.
+Within 𝔊ᴿ, reflective generative architectures correspond to recursive developmental geometries capable of constructing new abstraction systems and organizational structures across reflective recursive evolution.
 
 Interpretive systems become generatively constructive.  
 Abstraction architectures reorganize recursively.  

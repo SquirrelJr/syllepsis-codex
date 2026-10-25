@@ -81,7 +81,7 @@ The Continuum therefore develops relational coherence organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, relational coalescence corresponds to developmental geometries through which distinct reflective organizations establish stable relational accessibility without loss of organizational identity.
+Within 𝔊ᴿ, relational coalescence corresponds to developmental geometries through which distinct reflective organizations establish stable relational accessibility without loss of organizational identity.
 
 Organizations remain distinct.  
 Accessibility increases.  

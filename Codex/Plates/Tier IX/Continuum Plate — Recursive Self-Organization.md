@@ -85,7 +85,7 @@ The recursive system therefore exhibits adaptive resilience through distributed 
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, self-organization corresponds to coherent alignment of interacting recursive geometries.
+Within 𝔊ᴿ, self-organization corresponds to coherent alignment of interacting recursive geometries.
 
 Attractor structures become networked.  
 Recursive flows synchronize.  

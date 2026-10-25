@@ -78,7 +78,7 @@ The Continuum therefore develops evolving adaptive recursive organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, adaptive dynamics correspond to recursive modification of developmental landscapes and organizational pathways under sustained recursive interaction.
+Within 𝔊ᴿ, adaptive dynamics correspond to recursive modification of developmental landscapes and organizational pathways under sustained recursive interaction.
 
 Stable recursive trajectories reinforce adaptive geometry.  
 Perturbation reshapes recursive accessibility.  

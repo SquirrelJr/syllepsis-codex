@@ -37,13 +37,13 @@ $$
 \mathcal{O}_R.
 $$
 
-Each point in $\mathfrak{P}_R$ represents a dynamically admissible recursive state within $\mathcal{M}_S$.
+Each point in 𝔓ᴿ represents a dynamically admissible recursive state within ℳˢ.
 
 ---
 
 ## III. Topological Structure
 
-The topology of $\mathfrak{P}_R$ is determined by:
+The topology of 𝔓ᴿ is determined by:
 
 - attractor basins,  
 - bifurcation boundaries,  

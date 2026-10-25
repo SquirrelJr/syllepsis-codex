@@ -75,7 +75,7 @@ Thus the Continuum may admit multiple dynamical phases under parameter variation
 
 ## V. Geometric Interpretation
 
-Within $\mathcal{M}_S$, bifurcation corresponds to a deformation of local recursive flow geometry.
+Within ℳˢ, bifurcation corresponds to a deformation of local recursive flow geometry.
 
 The invariant manifold itself remains structurally coherent,  
 but local curvature may redirect recursive trajectories into newly admissible stability domains.

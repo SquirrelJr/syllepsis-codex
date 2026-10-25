@@ -78,11 +78,11 @@ $$
 
 ## V. Geometric Interpretation
 
-Within $\mathcal{M}_S$:
+Within ℳˢ:
 
-- $\mathcal{O}_R$ acts as a self-map on admissible structure.  
-- $\mathcal{T}_I$ constrains invariant directions.  
-- $\mathcal{L}_S$ preserves semantic coherence.  
+- 𝒪ᴿ acts as a self-map on admissible structure.  
+- 𝒯ᴵ constrains invariant directions.  
+- ℒˢ preserves semantic coherence.  
 
 The Renewal Stability Spectrum measures how curvature within the invariant manifold amplifies or suppresses deviation near equilibrium.
 

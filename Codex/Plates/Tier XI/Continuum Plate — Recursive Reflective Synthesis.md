@@ -90,7 +90,7 @@ The Continuum therefore develops globally reflective recursive coherence organiz
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Recursive Reflective Synthesis represents the large-scale integration of reflective recursive evolution, abstraction geometry, interpretive optimization, and generative developmental architecture.
+Within 𝔊ᴿ, Recursive Reflective Synthesis represents the large-scale integration of reflective recursive evolution, abstraction geometry, interpretive optimization, and generative developmental architecture.
 
 Reflective recursive organization no longer operates as isolated reflective processes.
 

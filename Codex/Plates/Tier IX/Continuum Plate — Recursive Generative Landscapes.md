@@ -67,7 +67,7 @@ The Continuum therefore develops structured environments for emergent recursive 
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Recursive Generative Landscapes encode the large-scale geometry of recursive developmental possibility.
+Within 𝔊ᴿ, Recursive Generative Landscapes encode the large-scale geometry of recursive developmental possibility.
 
 Informational density shapes terrain.  
 Attractor structures shape flow.  
