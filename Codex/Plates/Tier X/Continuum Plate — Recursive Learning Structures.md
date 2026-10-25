@@ -43,9 +43,7 @@ $$
 is reinforced if repeated adaptive coherence evolution satisfies:
 
 $$
-W(\gamma_R,t+\Delta t)
->
-W(\gamma_R,t),
+W(\gamma_R,t+\Delta t) > W(\gamma_R,t),
 $$
 
 where
