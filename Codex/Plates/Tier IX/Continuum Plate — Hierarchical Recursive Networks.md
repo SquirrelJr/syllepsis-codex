@@ -75,7 +75,7 @@ Thus higher-order recursive organization emerges through networked recursive int
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, hierarchical recursive networks define the large-scale organizational skeleton of recursive coherence.
+Within 𝔊ᴿ, hierarchical recursive networks define the large-scale organizational skeleton of recursive coherence.
 
 Condensation fields generate nodes.  
 Recursive coupling generates connectivity.  

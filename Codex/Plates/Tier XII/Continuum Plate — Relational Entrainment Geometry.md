@@ -78,7 +78,7 @@ The Continuum therefore develops relational alignment organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, relational entrainment corresponds to developmental geometries through which propagated organizational structures become increasingly synchronized and relationally coupled.
+Within 𝔊ᴿ, relational entrainment corresponds to developmental geometries through which propagated organizational structures become increasingly synchronized and relationally coupled.
 
 Propagation permits interaction.  
 Interaction permits alignment.  

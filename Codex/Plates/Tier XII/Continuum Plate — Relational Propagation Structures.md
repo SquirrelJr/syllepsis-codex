@@ -75,7 +75,7 @@ The Continuum therefore develops relational transmission organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, relational propagation corresponds to developmental geometries through which organizational influence traverses relational accessibility pathways.
+Within 𝔊ᴿ, relational propagation corresponds to developmental geometries through which organizational influence traverses relational accessibility pathways.
 
 Accessibility permits transmission.  
 Transmission permits coupling.  

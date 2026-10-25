@@ -79,7 +79,7 @@ The Continuum therefore develops relational interpretive organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, interpretive compatibility corresponds to developmental geometries through which aligned relational organizations maintain coherence across propagated structures.
+Within 𝔊ᴿ, interpretive compatibility corresponds to developmental geometries through which aligned relational organizations maintain coherence across propagated structures.
 
 Alignment permits compatibility.  
 Compatibility permits accessibility.  

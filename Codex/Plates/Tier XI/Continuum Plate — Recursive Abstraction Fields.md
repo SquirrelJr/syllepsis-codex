@@ -79,7 +79,7 @@ The Continuum therefore develops reflective abstraction organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, abstraction fields correspond to developmental geometries capable of compressing recursive organizational complexity into coherent generalized representations.
+Within 𝔊ᴿ, abstraction fields correspond to developmental geometries capable of compressing recursive organizational complexity into coherent generalized representations.
 
 Reflective pathways generate abstraction layers.  
 Recursive complexity reorganizes into interpretable structure.  

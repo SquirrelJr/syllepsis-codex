@@ -90,7 +90,7 @@ Thus the Continuum develops globally organized emergent recursive coherence.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Emergent Coherence Synthesis represents the large-scale integration of recursive emergence, informational organization, attractor structure, and developmental geometry.
+Within 𝔊ᴿ, Emergent Coherence Synthesis represents the large-scale integration of recursive emergence, informational organization, attractor structure, and developmental geometry.
 
 Recursive organization no longer operates as isolated structures.
 

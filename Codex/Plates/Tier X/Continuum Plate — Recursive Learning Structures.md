@@ -75,7 +75,7 @@ The Continuum therefore develops persistent adaptive organizational intelligence
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Recursive Learning Structures correspond to reinforced developmental geometries shaped by adaptive recursive evolution.
+Within 𝔊ᴿ, Recursive Learning Structures correspond to reinforced developmental geometries shaped by adaptive recursive evolution.
 
 Frequently stabilized trajectories deepen coherence accessibility.  
 Adaptive landscapes become recursively weighted.  

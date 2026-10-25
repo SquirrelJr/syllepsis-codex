@@ -74,7 +74,7 @@ The Continuum therefore develops recursively organized informational architectur
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, informational density corresponds to recursive geometric organization retaining stable structural relationships across recursive evolution.
+Within 𝔊ᴿ, informational density corresponds to recursive geometric organization retaining stable structural relationships across recursive evolution.
 
 Highly organized recursive regions exhibit increased informational curvature and structural persistence.
 

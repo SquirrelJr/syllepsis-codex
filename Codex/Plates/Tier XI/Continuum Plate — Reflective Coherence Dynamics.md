@@ -76,7 +76,7 @@ The Continuum therefore develops reflective recursive meta-organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, reflective dynamics correspond to recursive geometries capable of reorganizing their own developmental accessibility and adaptive structures.
+Within 𝔊ᴿ, reflective dynamics correspond to recursive geometries capable of reorganizing their own developmental accessibility and adaptive structures.
 
 Adaptive evolution becomes recursively self-referential.  
 Optimization landscapes become reflectively modifiable.  

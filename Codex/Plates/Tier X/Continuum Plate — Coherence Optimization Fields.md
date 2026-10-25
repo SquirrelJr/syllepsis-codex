@@ -86,7 +86,7 @@ The Continuum therefore develops recursively optimized adaptive evolution.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, optimization fields reshape recursive developmental geometry toward increasingly stable and efficient coherence pathways.
+Within 𝔊ᴿ, optimization fields reshape recursive developmental geometry toward increasingly stable and efficient coherence pathways.
 
 Adaptive reinforcement deepens optimized trajectories.  
 Inefficient organizational pathways lose accessibility.  

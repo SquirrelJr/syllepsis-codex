@@ -80,7 +80,7 @@ The Continuum therefore develops evolving asymptotic organizational intelligence
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, adaptive recursive evolution reshapes the topology of attractor accessibility and coherence persistence.
+Within 𝔊ᴿ, adaptive recursive evolution reshapes the topology of attractor accessibility and coherence persistence.
 
 Stable recursive pathways deepen attractor basins.  
 Unstable organizational trajectories diminish over recursive time.  

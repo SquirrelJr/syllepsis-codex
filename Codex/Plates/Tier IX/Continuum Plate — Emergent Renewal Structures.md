@@ -95,7 +95,7 @@ Thus recursive coherence may amplify structural complexity through interaction.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, emergence corresponds to the formation of stable higher-order geometric organization from interacting recursive flows.
+Within 𝔊ᴿ, emergence corresponds to the formation of stable higher-order geometric organization from interacting recursive flows.
 
 Attractors no longer organize only trajectories.
 

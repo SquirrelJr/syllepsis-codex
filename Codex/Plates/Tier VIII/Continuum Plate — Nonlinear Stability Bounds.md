@@ -64,7 +64,7 @@ $$
 d(T,T^\ast)
 $$
 
-measure recursive deviation within $\mathcal{M}_S$.
+measure recursive deviation within ℳˢ.
 
 There exists a critical stability radius
 
@@ -83,7 +83,7 @@ Thus nonlinear stability is bounded.
 
 ## V. Geometric Interpretation
 
-Within $\mathcal{M}_S$, stable structures possess finite basins of attraction.
+Within ℳˢ, stable structures possess finite basins of attraction.
 
 Recursive flow remains convergent only while trajectories remain inside admissible curvature domains.
 

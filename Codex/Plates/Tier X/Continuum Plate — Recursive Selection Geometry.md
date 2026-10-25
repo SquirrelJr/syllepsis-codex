@@ -79,7 +79,7 @@ The Continuum therefore develops adaptive evolutionary filtering.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, Recursive Selection Geometry reshapes developmental accessibility through adaptive reinforcement and coherence persistence weighting.
+Within 𝔊ᴿ, Recursive Selection Geometry reshapes developmental accessibility through adaptive reinforcement and coherence persistence weighting.
 
 Stable recursive structures deepen accessibility valleys.  
 Unstable trajectories lose developmental accessibility.  

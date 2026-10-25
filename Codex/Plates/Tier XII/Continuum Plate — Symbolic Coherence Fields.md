@@ -80,7 +80,7 @@ The Continuum therefore develops symbolic relational organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, symbolic coherence corresponds to developmental geometries through which relational accessibility becomes stabilized through persistent symbolic structures.
+Within 𝔊ᴿ, symbolic coherence corresponds to developmental geometries through which relational accessibility becomes stabilized through persistent symbolic structures.
 
 Compatibility permits symbolic emergence.  
 Symbols preserve accessibility.  

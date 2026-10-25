@@ -81,7 +81,7 @@ The Continuum therefore develops semantic relational organization.
 
 ## V. Geometric Interpretation
 
-Within $\mathfrak{G}_R$, semantic propagation corresponds to developmental geometries through which interpretive accessibility traverses symbolic coherence structures.
+Within 𝔊ᴿ, semantic propagation corresponds to developmental geometries through which interpretive accessibility traverses symbolic coherence structures.
 
 Symbols preserve representation.  
 Semantics preserves accessibility.  

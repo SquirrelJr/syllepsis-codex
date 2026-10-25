@@ -83,7 +83,7 @@ Different admissible trajectories may converge toward different coherent asympto
 
 ## V. Geometric Interpretation
 
-Within $\mathcal{M}_S$, attractors define the large-scale topology of recursive flow.
+Within ℳˢ, attractors define the large-scale topology of recursive flow.
 
 Bifurcation reshapes basin geometry,  
 while nonlinear stability determines admissible persistence regions.
