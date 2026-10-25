@@ -81,8 +81,7 @@ Coherence acts as a global gradient guiding geometry:
 ```math
 \partial_{t} gᴿ_{int}
 \supset
-- 
-abla γᴿ_{global}
+- \nabla γᴿ_{global}
 ```
 
 where **γᴿ_global** is the global coherence function from Tier II.
@@ -107,7 +106,7 @@ Sᴿ_{int}
 Its time evolution satisfies:
 
 ```math
-rac{d Sᴿ_{int}}{dt}
+\frac{d Sᴿ_{int}}{dt}
 \le
 0
 ```

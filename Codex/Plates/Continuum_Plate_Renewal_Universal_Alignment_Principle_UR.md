@@ -39,8 +39,7 @@ The Universal Alignment Principle is built from the variational condition:
 and the Renewal gradient descent condition:
 
 ```math
-ℱᴿ_{int} = - 
-abla Φᴿ_{int}
+ℱᴿ_{int} = - \nabla Φᴿ_{int}
 ```
 
 Together they express:
@@ -56,8 +55,7 @@ Together they express:
 The global Renewal field satisfies:
 
 ```math
-
-abla_{\mu} 𝒥ᴿ_{global}^{\mu} = 0
+\nabla_{\mu} 𝒥ᴿ_{global}^{\mu} = 0
 ```
 
 (Conservation of global Renewal current)
@@ -82,7 +80,7 @@ This means:
 Global coherence satisfies:
 
 ```math
-rac{\partial}{\partial t} γᴿ_{global} \ge 0
+\frac{\partial}{\partial t} γᴿ_{global} \ge 0
 ```
 
 Coherence may move, redistribute, or spread —  
@@ -101,7 +99,7 @@ Aᴿ = \int \Piᴿ(\psi) \, dVᴿ_{int}
 Then:
 
 ```math
-rac{dAᴿ}{dt} \ge 0
+\frac{dAᴿ}{dt} \ge 0
 ```
 
 Meaning:
@@ -146,8 +144,7 @@ It transforms, aligns, and continues.**
 A Renewal equilibrium manifold satisfies:
 
 ```math
-
-abla Φᴿ_{int} = 0
+\nabla Φᴿ_{int} = 0
 ```
 
 Stability is ensured when:

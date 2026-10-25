@@ -87,7 +87,7 @@ The Renewal Integration Lengthscale is defined as:
 ```math
 Lᴿ_{int}
 =
-rac{1}{\sqrt{|ℛᴿ_{int}|}}
+\frac{1}{\sqrt{|ℛᴿ_{int}|}}
 ```
 
 This lengthscale represents the **reach of global Renewal coherence**:

@@ -74,9 +74,9 @@ where **κᴿ** is the Renewal coupling coefficient from Tier II.
 The normal Renewal flux must match on both sides of a boundary:
 
 ```math
-n_{\mu} \, 𝒥ᴿ^{\mu}ig|_{inside}
+n_{\mu} \, 𝒥ᴿ^{\mu}\big|_{inside}
 =
-n_{\mu} \, 𝒥ᴿ^{\mu}ig|_{outside}
+n_{\mu} \, 𝒥ᴿ^{\mu}\big|_{outside}
 ```
 
 This expresses that Renewal flux is **neither created nor lost** at interfaces.
@@ -103,7 +103,7 @@ Cᴿ_{in}
 Cᴿ_{trans}
 +
 Cᴿ_{refl}
-\quad	ext{and}\quad
+\quad\text{and}\quad
 Cᴿ_{trans} \ge 0,\;
 Cᴿ_{refl} \ge 0
 ```
@@ -151,8 +151,7 @@ Define the **Boundary Renewal Potential** Φᴿ_boundary:
 ```math
 Φᴿ_{boundary}
 =
-n^{\mu} \, 
-abla_{\mu} gᴿ_{int}
+n^{\mu} \, \nabla_{\mu} gᴿ_{int}
 \;+\;
 α \, γᴿ_{boundary}
 \;-\;

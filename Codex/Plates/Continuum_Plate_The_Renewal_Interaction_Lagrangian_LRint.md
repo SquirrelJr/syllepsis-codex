@@ -26,7 +26,7 @@ The Renewal Interaction Lagrangian is defined as:
 
 ```math
 𝓛ᴿ_{int} =
-rac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν}
+\frac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν}
 + κᴿ_O \, (Oᴿ_μ Oᴿ^{μ})
 - κᴿ_Χ \, (Χᴿ_μ Χᴿ^{μ})
 + κᴿ_C \, (Cᴿ_μ Cᴿ^{μ})
@@ -60,9 +60,8 @@ Sᴿ_{int} = \int 𝓛ᴿ_{int} \, \sqrt{|gᴿ|} \, dVᴿ
 Variation of the action yields the **Renewal Interaction Field Equations** via:
 
 ```math
-rac{∂𝓛}{∂φ}
-- ∇_{μ} \left( rac{∂𝓛}{∂(∇_{μ} φ)} 
-ight)
+\frac{∂𝓛}{∂φ}
+- ∇_{μ} \left( \frac{∂𝓛}{∂(∇_{μ} φ)} \right)
 = 0
 ```
 

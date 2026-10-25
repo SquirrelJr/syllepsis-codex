@@ -25,7 +25,7 @@ There exists a mapping:
 such that under Renewal evolution:
 
 ```math
-\mathcal{I}(	au+1) \simeq \mathcal{I}(	au)
+\mathcal{I}(\tau+1) \simeq \mathcal{I}(\tau)
 ```
 
 where `\simeq` denotes **recognizable equivalence**, not equality. Equality would

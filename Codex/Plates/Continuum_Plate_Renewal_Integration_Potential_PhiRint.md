@@ -74,8 +74,7 @@ The Renewal Integration Curvature Flow is the gradient descent of Φᴿ_int:
 ```math
 \partial_{t} gᴿ_{int}
 =
-- 
-abla Φᴿ_{int}
+- \nabla Φᴿ_{int}
 ```
 
 Meaning:
@@ -90,7 +89,7 @@ Meaning:
 The Renewal Continuum naturally seeks:
 
 ```math
-Φᴿ_{int} \longrightarrow 	ext{minimum}
+Φᴿ_{int} \longrightarrow \text{minimum}
 ```
 
 This minimum corresponds to:
@@ -107,8 +106,7 @@ This minimum corresponds to:
 Equilibrium (stable Renewal universes) satisfy:
 
 ```math
-
-abla Φᴿ_{int} = 0
+\nabla Φᴿ_{int} = 0
 ```
 
 Such manifolds exhibit:
@@ -126,7 +124,7 @@ Such manifolds exhibit:
 A Renewal-equilibrium manifold is **stable** if:
 
 ```math
-rac{\partial^{2} Φᴿ_{int}}{\partial g^{2}} \; > \; 0
+\frac{\partial^{2} Φᴿ_{int}}{\partial g^{2}} \; > \; 0
 ```
 
 This ensures:
@@ -145,8 +143,7 @@ The boundary potential Φᴿ_boundary is inherited directly from 𝓑ᴿ_int:
 ```math
 Φᴿ_{boundary}
 =
-n^{\mu} 
-abla_{\mu} gᴿ_{int}
+n^{\mu} \nabla_{\mu} gᴿ_{int}
 +
 α_{b} \, γᴿ_{boundary}
 -

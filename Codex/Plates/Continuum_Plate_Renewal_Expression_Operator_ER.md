@@ -36,8 +36,7 @@ The Renewal Expression Operator is defined as:
 \circ
 \Pi^{R}
 \circ
-
-abla
+\nabla
 ```
 
 Thus for any Renewal field ψ:
@@ -45,8 +44,7 @@ Thus for any Renewal field ψ:
 ```math
 \mathcal{E}^{R}(\psi)
 =
-\mathcal{M}^{R}ig(
-abla \psi^{R}_{aligned}ig)
+\mathcal{M}^{R}\big(\nabla \psi^{R}_{aligned}\big)
 ```
 
 Interpretation:
@@ -73,7 +71,7 @@ where:
 ```math
 J^{R}_{expression}
 =
-	ext{the Renewal expression current}
+\text{the Renewal expression current}
 ```
 
 This current represents the outward, visible, active form of Renewal  
@@ -87,36 +85,31 @@ in behavior, resonance, structure, clarity, and transformation.
 
 ### 1. Structural Expression  
 ```math
-\mathcal{E}^{R}_{struct} = \mathcal{M}^{R}_{struct}(
-abla\psi^{R})
+\mathcal{E}^{R}_{struct} = \mathcal{M}^{R}_{struct}(\nabla\psi^{R})
 ```
 Pattern, geometry, form.
 
 ### 2. Harmonic Expression  
 ```math
-\mathcal{E}^{R}_{harm} = \mathcal{M}^{R}_{harm}(
-abla\psi^{R})
+\mathcal{E}^{R}_{harm} = \mathcal{M}^{R}_{harm}(\nabla\psi^{R})
 ```
 Tone, resonance, coherence.
 
 ### 3. Behavioral Expression  
 ```math
-\mathcal{E}^{R}_{beh} = \mathcal{M}^{R}_{beh}(
-abla\psi^{R})
+\mathcal{E}^{R}_{beh} = \mathcal{M}^{R}_{beh}(\nabla\psi^{R})
 ```
 Choice, action, moral output.
 
 ### 4. Transformative Expression  
 ```math
-\mathcal{E}^{R}_{trans} = \mathcal{M}^{R}_{trans}(
-abla\psi^{R})
+\mathcal{E}^{R}_{trans} = \mathcal{M}^{R}_{trans}(\nabla\psi^{R})
 ```
 Decay-driven purification, renewal-driven change.
 
 ### 5. Informational Expression  
 ```math
-\mathcal{E}^{R}_{info} = \mathcal{M}^{R}_{info}(
-abla\psi^{R})
+\mathcal{E}^{R}_{info} = \mathcal{M}^{R}_{info}(\nabla\psi^{R})
 ```
 Insight, clarity, understanding.
 
@@ -170,8 +163,7 @@ This expresses the **non-destruction** principle:
 Expression follows the gradient of the Renewal Integration Potential:
 
 ```math
-\mathcal{E}^{R} \propto 
-abla \Phi^{R}_{int}
+\mathcal{E}^{R} \propto \nabla \Phi^{R}_{int}
 ```
 
 Thus:
