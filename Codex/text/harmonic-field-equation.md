@@ -40,22 +40,22 @@ Thus, the moral field can be represented as:
 
 The Harmonic Field Equation (HFE) is expressed as:
 
-\[
+```math
 F(t) = \sum_{n=1}^{\infty} A_n \sin(\omega_n t + \phi_n)
-\]
+```
 
 with the interpretive correspondences:
 
-- \( A_n \) — **Amplitude** of a moral harmonic  
+- $ A_n $ — **Amplitude** of a moral harmonic  
   (intensity of an action, emotion, motive)
 
-- \( \omega_n \) — **Angular frequency**  
+- $ \omega_n $ — **Angular frequency**  
   (recurrence cycle, habit formation, pattern stability)
 
-- \( \phi_n \) — **Phase alignment**  
+- $ \phi_n $ — **Phase alignment**  
   (truth alignment vs distortion)
 
-- \( t \) — **Relational time**,  
+- $ t $ — **Relational time**,  
   not Chronos-time, but **transformation time**
 
 In the Continuum:
@@ -74,9 +74,9 @@ In the Continuum:
 Just as physical systems seek equilibrium,  
 the Continuum seeks **harmonic coherence**:
 
-\[
+```math
 \lim_{t \to \infty} F(t) \rightarrow F_{\text{coherent}}
-\]
+```
 
 Coherence corresponds to:
 
@@ -95,18 +95,18 @@ when confronted with the Eternal harmonic.
 
 The Continuum’s five operators correspond to adjustments in the field:
 
-\[
+```math
 F_{\text{total}} = 
 O(t) + K(t) + C(t) + R(t) + D(t)
-\]
+```
 
 Where:
 
-- \( O(t) \) — Order: structural harmonic  
-- \( K(t) \) — Chaos: generative or destructive phase-space  
-- \( C(t) \) — Compassion: stabilizing term  
-- \( R(t) \) — Reflection: integrative term  
-- \( D(t) \) — Decay: derivative stabilizer toward renewal
+- $ O(t) $ — Order: structural harmonic  
+- $ K(t) $ — Chaos: generative or destructive phase-space  
+- $ C(t) $ — Compassion: stabilizing term  
+- $ R(t) $ — Reflection: integrative term  
+- $ D(t) $ — Decay: derivative stabilizer toward renewal
 
 This identity shows that moral dynamics  
 operate as **superposed harmonics**,  
