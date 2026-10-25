@@ -1,4 +1,3 @@
-```markdown
 # Continuum Plate — The Renewal Cotensor Field (𝓒_R)
 Codex of Renewal — Mathematical & Physical Layer  
 Author: Samuel David Stovall  
@@ -167,4 +166,3 @@ Where:
 revealing how curvature, geometry, and operator behavior combine  
 into a coherent dual structure of the Renewal Cycle.
 
-```
