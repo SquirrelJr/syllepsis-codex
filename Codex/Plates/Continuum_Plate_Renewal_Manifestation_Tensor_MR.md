@@ -88,8 +88,7 @@ Renewal manifests when two conditions are met:
 2. **Gradient Condition**
 
 ```math
-\nabla \Phi^{R}_{int} 
-eq 0
+\nabla \Phi^{R}_{int} \neq 0
 ```
 
 Interpretation:
