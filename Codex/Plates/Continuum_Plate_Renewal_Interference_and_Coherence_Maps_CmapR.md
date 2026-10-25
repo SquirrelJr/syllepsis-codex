@@ -32,7 +32,7 @@ The total Renewal interference intensity at point x is defined as:
 
 $$
 Iᴿ(x) = \left| \sum_{i} a_i \, e^{i \, Θᴿ_i(x)} 
-ight|^2
+\right|^2
 $$
 
 where:
@@ -77,7 +77,7 @@ Defines the distance over which Renewal waves remain significantly aligned.
 ### 2. Renewal Coherence Bandwidth (Bᴿ_c)
 
 $$
-Bᴿ_c = \int | 	ilde{γ}ᴿ(ω) |^2 dω
+Bᴿ_c = \int | \tilde{γ}ᴿ(ω) |^2 dω
 $$
 
 Describes which frequencies of Renewal harmonics can remain aligned in the system.
@@ -102,7 +102,7 @@ $$
 and
 
 $$
-Iᴿ(x) 	ext{ is time-invariant.}
+Iᴿ(x) \text{ is time-invariant.}
 $$
 
 These represent stable, restorative harmonic structures:

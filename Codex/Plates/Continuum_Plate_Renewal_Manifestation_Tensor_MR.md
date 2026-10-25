@@ -62,7 +62,7 @@ Each λₖ is a **Manifestation Weight Coefficient** controlling expression stre
 The manifestation map is:
 
 $$
-	ext{Phenomena}
+\text{Phenomena}
 =
 \mathcal{M}^{R}(\psi^{R})
 $$
@@ -139,7 +139,7 @@ Where:
 $$
 J^{R}_{manifested}
 =
-	ext{the Renewal expression current}
+\text{the Renewal expression current}
 $$
 
 This describes how Renewal expresses itself through form and action.
