@@ -107,7 +107,7 @@ Sᴿ_{int}
 Its time evolution satisfies:
 
 ```math
-rac{d Sᴿ_{int}}{dt}
+\frac{d Sᴿ_{int}}{dt}
 \le
 0
 ```
