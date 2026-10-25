@@ -25,14 +25,14 @@ They answer the fundamental question:
 The Renewal coupling coefficients are:
 
 ```math
-κᴿ_O  \quad 	ext{(Order strength)}
-κᴿ_Χ  \quad 	ext{(Chaos tension coefficient)}
-κᴿ_C  \quad 	ext{(Compassion amplification)}
-κᴿ_R  \quad 	ext{(Reflection refinement)}
-κᴿ_D  \quad 	ext{(Decay smoothing)}
-ηᴿ     \quad 	ext{(Flow–gradient sensitivity)}
-χᴿ     \quad 	ext{(Cross-field interaction strength)}
-λᴿ     \quad 	ext{(Nonlinear Renewal self-coupling)}
+κᴿ_O  \quad \text{(Order strength)}
+κᴿ_Χ  \quad \text{(Chaos tension coefficient)}
+κᴿ_C  \quad \text{(Compassion amplification)}
+κᴿ_R  \quad \text{(Reflection refinement)}
+κᴿ_D  \quad \text{(Decay smoothing)}
+ηᴿ     \quad \text{(Flow–gradient sensitivity)}
+χᴿ     \quad \text{(Cross-field interaction strength)}
+λᴿ     \quad \text{(Nonlinear Renewal self-coupling)}
 ```
 
 These coefficients appear throughout the Renewal Interaction Lagrangian:
