@@ -48,9 +48,7 @@ correspond to recursively reinforced structural organization, coherence persiste
 Recursive informational density increases when recursive interaction satisfies:
 
 $$
-\frac{d\mathcal{I}_R}{dt}
->
-0
+\frac{d\mathcal{I}_R}{dt} > 0
 $$
 
 under sustained coherence reinforcement and recursive synchronization.
