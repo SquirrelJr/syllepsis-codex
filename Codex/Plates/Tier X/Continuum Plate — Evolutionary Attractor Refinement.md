@@ -48,9 +48,7 @@ $$
 undergoes adaptive refinement if recursive evolution satisfies:
 
 $$
-\frac{d\Sigma(A_R)}{dt}
->
-0,
+\frac{d\Sigma(A_R)}{dt} > 0,
 $$
 
 where
