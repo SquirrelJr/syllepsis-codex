@@ -145,8 +145,7 @@ The Renewal Expression Norm satisfies:
 \langle
 \mathcal{E}^{R}(\psi),
 \mathcal{E}^{R}(\psi)
-
-angle
+\rangle
 \ge
 0
 ```
