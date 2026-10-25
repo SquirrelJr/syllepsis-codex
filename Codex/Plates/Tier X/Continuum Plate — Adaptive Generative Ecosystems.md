@@ -43,9 +43,7 @@ Adaptive Generative Ecosystems govern large-scale co-evolutionary recursive orga
 A recursively adaptive ecosystem exhibits coherent co-evolution if interacting recursive structures satisfy:
 
 $$
-\frac{d\Xi_R}{dt}
->
-0,
+\frac{d\Xi_R}{dt} > 0,
 $$
 
 where
