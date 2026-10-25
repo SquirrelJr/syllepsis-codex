@@ -50,8 +50,7 @@ This is the Renewal analogue of harmonic superposition, but interpreted through 
 The Renewal coherence between points x and x′ is:
 
 ```math
-γᴿ(x, x') = \langle ψᴿ(x) \, ψᴿ^{*}(x') 
-angle
+γᴿ(x, x') = \langle ψᴿ(x) \, ψᴿ^{*}(x') \rangle
 ```
 
 where:
