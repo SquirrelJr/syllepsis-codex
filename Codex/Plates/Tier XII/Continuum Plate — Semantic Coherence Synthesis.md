@@ -52,9 +52,7 @@ $$
 achieves semantic coherence synthesis if recursive development satisfies:
 
 $$
-\Xi_S(S_R,t+\Delta t)
->
-\Xi_S(S_R,t),
+\Xi_S(S_R,t+\Delta t) > \Xi_S(S_R,t),
 $$
 
 where
