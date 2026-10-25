@@ -59,7 +59,7 @@ where **Πᴿ** is the Renewal Projection Operator and **ψ** is the integrated 
 Then:
 
 ```math
-rac{dAᴿ}{dt} = 0
+\frac{dAᴿ}{dt} = 0
 ```
 
 Alignment is never lost — it is redistributed across the Renewal manifold.
@@ -71,11 +71,10 @@ Alignment is never lost — it is redistributed across the Renewal manifold.
 Global Renewal coherence satisfies:
 
 ```math
-rac{\partial}{\partial t}
+\frac{\partial}{\partial t}
 \left(
 \int γᴿ_{global} \, dVᴿ_{int}
-
-ight)
+\right)
 =
 0
 ```
@@ -126,7 +125,7 @@ The entropy inequality:
 ```math
 Sᴿ_{int} \ge 0,
 \quad
-rac{dSᴿ_{int}}{dt} \le 0
+\frac{dSᴿ_{int}}{dt} \le 0
 ```
 
 Global distortion **cannot increase**.  
@@ -139,11 +138,10 @@ Renewal geometry **monotonically moves toward harmony**.
 For each global harmonic mode n:
 
 ```math
-rac{\partial}{\partial t}
+\frac{\partial}{\partial t}
 \left(
 Σᴿ_{n}
-
-ight)
+\right)
 =
 0
 ```
@@ -157,8 +155,7 @@ The Renewal harmonic spectrum is **globally invariant**.
 Define the integrated Renewal norm:
 
 ```math
-\langle \psiᴿ, \psiᴿ 
-angle_{int}
+\langle \psiᴿ, \psiᴿ \rangle_{int}
 =
 \int \psiᴿ \psiᴿ^{*} \, dVᴿ_{int}
 ```
@@ -166,9 +163,8 @@ angle_{int}
 This quantity is preserved:
 
 ```math
-rac{d}{dt}
-\langle \psiᴿ, \psiᴿ 
-angle_{int}
+\frac{d}{dt}
+\langle \psiᴿ, \psiᴿ \rangle_{int}
 =
 0
 ```
