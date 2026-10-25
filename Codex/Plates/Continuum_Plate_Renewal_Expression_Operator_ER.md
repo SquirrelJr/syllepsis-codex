@@ -45,8 +45,7 @@ Thus for any Renewal field ψ:
 ```math
 \mathcal{E}^{R}(\psi)
 =
-\mathcal{M}^{R}ig(
-abla \psi^{R}_{aligned}ig)
+\mathcal{M}^{R}\big(\nabla \psi^{R}_{aligned}\big)
 ```
 
 Interpretation:
