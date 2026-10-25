@@ -81,8 +81,7 @@ Coherence acts as a global gradient guiding geometry:
 ```math
 \partial_{t} gᴿ_{int}
 \supset
-- 
-abla γᴿ_{global}
+- \nabla γᴿ_{global}
 ```
 
 where **γᴿ_global** is the global coherence function from Tier II.
