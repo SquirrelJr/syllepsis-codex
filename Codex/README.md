@@ -4,7 +4,7 @@ The Codex contains the project's formal plates, operators, mythic bridges, conce
 
 ## Browse the archive
 
-- [Tier I — Foundational Renewal Dynamics](Plates/Tier%20I/README.md)
+- [Tier I — Foundational Renewal Dynamics](Plates/01_Tier_I/README.md)
 - [Other Tier directories](Plates/) — subsequent layers of the Continuum, grouped by Tier
 - [Formal Operators](Operators/)
 - [Mythic Bridges](Bridges/Mythic/)
