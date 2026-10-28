@@ -1,7 +1,8 @@
 # Codex Directory Reference  
 Syllepsis Codex — Repository Architecture Guide  
 Author: Samuel David Stovall  
-Version: SYLLEPSIS v1.0.700 (Structural Canon Edition)  
+Original edition: SYLLEPSIS v1.0.700 (Structural Canon Edition)  
+Repository organization standard: revised 2026  
 Year: A.D. 2025  
 
 ---
@@ -32,13 +33,19 @@ The root directory also contains the repository’s primary `README.md`.
 All conceptual, mathematical, spiritual, philosophical, and mythic content goes here.
 
 ```
-/Codex
-/Plates
-/Bridges
-/Operators
-/Foundations
-README.md (optional: section-level introduction for the Codex)
+Codex/
+  Plates/
+    Tier I/ ... Tier XIII/     # canonical Tier groupings as populated
+  Bridges/
+    Mythic/
+  Operators/
+  Foundations/
+  Reflections/
+  text/                      # legacy staging; migrate by content
+  README.md
 ```
+
+Git does not track empty folders. Create a Tier folder when its first verified plate or explanatory README is added. Tier XIII is a future grouping, not evidence that a plate already belongs there.
 
 ---
 
@@ -50,15 +57,17 @@ mathematical, physical, harmonic, or formal constructs of the Syllepsis system.
 **File naming format:**
 
 ```
-Plate_XX_Title_With_Underscores.md
+Tier <Roman Numeral>/Descriptive_Plate_Title_𝓡_R.md
 ```
+
+Keep a genuine plate number where it identifies a canonical numbered plate; do not impose numbers on unnumbered documents. Avoid redundant `Continuum_Plate_`, `Plate_`, and repeated Tier prefixes.
 
 Examples:
 
 ```
-Plate_I_The_Harmonic_Field.md
-Plate_XVII_Order_Compassion_Gradient.md
-Plate_XIX_Decay_Chaos_Boundary.md
+Tier I/Renewal_Field_Metric_g_R.md
+Tier II/Renewal_Interaction_Tensor_𝓘ᴿ.md
+Tier XII/Distributed_Semantic_Architectures.md
 ```
 
 ---
@@ -72,14 +81,14 @@ mathematical structure.
 **File naming format:**
 
 ```
-Mythic_Bridge_XX_Title.md
+Mythic/II_Sophia.md
 ```
 
 Examples:
 
 ```
-Mythic_Bridge_I_Chronos.md
-Mythic_Bridge_IV_Companion.md
+Mythic/I_Hermes.md
+Mythic/IV_Chronos_Companion.md
 ```
 
 ---
@@ -174,11 +183,10 @@ Version: SYLLEPSIS v1.x.x (Edition Name)
 **Commit message:**
 
 ```
-Move Plate XX to Codex/Plates directory
+Move <Title> to Codex/Plates/Tier <Roman Numeral>
 ```
 
-Extended description:  
-➡️ **Leave empty** (GitHub does not persist it for path changes)
+Extended description: record the previous path, destination, and reason for classification where helpful.
 
 ---
 
@@ -188,7 +196,7 @@ Extended description:
 Rename Plate XX to standardized naming format
 ```
 
-Extended description: leave empty.
+Extended description: explain the normalization when helpful.
 
 ---
 
@@ -198,19 +206,18 @@ Extended description: leave empty.
 Fix formatting for Plate XX (math blocks)
 ```
 
-Extended description: leave empty.
+Extended description: record any Markdown-rendering correction and validation.
 
 ---
 
 # 5. Naming Conventions (Global)
 
-- Words in filenames use **Capitalized_Underscore_Format**
-- No spaces  
-- No special characters beyond underscores  
-- Greek symbols written in ASCII: `O`, `X`, `C`, `Theta`, `D`, `R`
-- Plate numbers always use **Roman numerals**  
-- Versioning always uses:  
-  **SYLLEPSIS v1.0.xxx (Edition Name)**
+- Prefer readable, stable underscore-separated descriptive filenames.
+- Preserve meaningful mathematical Unicode, Greek symbols, subscripts, plate identifiers, and version suffixes when they distinguish an artifact.
+- Do not add redundant `Continuum`, `Continuum_Plate`, or `Plate_Tier` prefixes merely to indicate the parent folder.
+- Roman numerals identify Tiers and established numbered plate sequences; they are not mandatory for every file.
+- Preserve each plate's actual SYLLEPSIS version and edition as authored; do not reset historical versions to a template value.
+- When relocating a file, check case-insensitive and Unicode-normalized filename collisions and repair relative Markdown links.
 
 ---
 
@@ -222,9 +229,9 @@ To maintain cleanliness and coherence:
 - **No Operators in /Plates**  
 - **No Bridges in /Foundations**  
 - **No code inside /Codex**  
-- **No text content inside /Tools**  
+- **Keep conceptual prose in /Codex; documentation for tools may remain in /Tools**  
 - **Legal folder must contain only legal files**  
-- **README.md stays in the repository root**  
+- **Keep the repository root README and use additional directory READMEs where useful**  
 
 ---
 
@@ -246,4 +253,4 @@ This repository is intended to last — this structure ensures it can.
 # Logged for the Codex of Renewal  
 *Codex Directory Reference — Structural Canon Edition*  
 Samuel David Stovall  
-SYLLEPSIS v1.0.700
+SYLLEPSIS v1.0.700 (original structural reference; organization guidance revised 2026)
