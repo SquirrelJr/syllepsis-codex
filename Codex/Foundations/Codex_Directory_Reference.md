@@ -41,9 +41,10 @@ Codex/
   Operators/
   Foundations/
   Reflections/
-  Text/                      # legacy material; classify by content
   README.md
 ```
+
+The former `Codex/Text/` staging folder was retired after its contents were classified into Plates, Foundations, Bridges, and Reflections. Do not recreate it for new work.
 
 Git does not track empty folders. Create a Tier folder when its first verified plate or explanatory README is added. Tier XIII is a future grouping, not evidence that a plate already belongs there.
 
