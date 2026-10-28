@@ -35,9 +35,9 @@ All conceptual, mathematical, spiritual, philosophical, and mythic content goes 
 ```
 Codex/
   Plates/
-    01_Tier_I/ ... Tier XIII/     # canonical Tier groupings as populated
+    01_Tier_I/ ... 12_Tier_XII/  # existing numbered Tier groupings
   Bridges/
-    Mythic/
+    Mythic/                  # numbered mythic sequence and companion entries
   Operators/
   Foundations/
   Reflections/
@@ -58,7 +58,7 @@ mathematical, physical, harmonic, or formal constructs of the Syllepsis system.
 **File naming format:**
 
 ```
-Tier <Roman Numeral>/Descriptive_Plate_Title_𝓡_R.md
+NN_Tier_<Roman_Numeral>/Descriptive_Plate_Title_𝓡_R.md
 ```
 
 Keep a genuine plate number where it identifies a canonical numbered plate; do not impose numbers on unnumbered documents. Avoid redundant `Continuum_Plate_`, `Plate_`, and repeated Tier prefixes.
