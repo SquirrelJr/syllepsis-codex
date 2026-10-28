@@ -41,7 +41,7 @@ Codex/
   Operators/
   Foundations/
   Reflections/
-  text/                      # legacy staging; migrate by content
+  Text/                      # legacy material; classify by content
   README.md
 ```
 
