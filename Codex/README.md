@@ -10,8 +10,7 @@ The Codex contains the project's formal plates, operators, mythic bridges, conce
 - [Mythic Bridges](Bridges/Mythic/)
 - [Foundations](Foundations/)
 - [Reflections](Reflections/)
-- [Text](Text/) — legacy material awaiting individual classification
 
 See the [Codex Directory Reference](Foundations/Codex_Directory_Reference.md) for organization and naming guidance.
 
-**Archive status:** Tier I classification is provisional pending the final content and cross-reference audit. Moving or renaming a document does not constitute a revision of its underlying theory.
+**Archive status:** The legacy `Text/` staging folder has been emptied through classification. Tier I placement remains provisional pending a full cross-reference and content audit. Moving or renaming a document does not constitute a revision of its underlying theory.
