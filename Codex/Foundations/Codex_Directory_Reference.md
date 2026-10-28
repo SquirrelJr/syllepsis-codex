@@ -107,16 +107,12 @@ This folder contains the formal operator definitions of the Continuum:
 **File naming format:**
 
 ```
-Foundation_<Short_Title>.md
+Order_Operator_O.md
+Chaos_Operator_Χ.md
+Reflection_Operator_Θ.md
 ```
 
-Examples:
-
-```
-Foundation_Rectifying_Equation.md
-Foundation_Law_of_Renewal.md
-Foundation_Breath_of_the_Field.md
-```
+Operator definitions belong here; other formal laws and conceptual foundations are classified by their contents, not merely by whether their titles contain “operator.” The Decay (D) definition remains part of the intended operator set even if its canonical file has not yet been organized.
 
 ---
 
