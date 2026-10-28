@@ -90,7 +90,7 @@ The challenge he presents reveals the necessity of Renewal.
 ## V. Relation to the Full Chronos Plate
 
 The full Chronos entry  
-(*continuum-plate-chronos-and-the-tyranny-of-the-measured*)  
+([Chronos and the Tyranny of the Measured](../Chronos_and_the_Tyranny_of_the_Measured.md))  
 explores:
 
 - the spiritual corollary,  
