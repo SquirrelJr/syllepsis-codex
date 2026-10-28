@@ -35,7 +35,7 @@ All conceptual, mathematical, spiritual, philosophical, and mythic content goes 
 ```
 Codex/
   Plates/
-    Tier I/ ... Tier XIII/     # canonical Tier groupings as populated
+    01_Tier_I/ ... Tier XIII/     # canonical Tier groupings as populated
   Bridges/
     Mythic/
   Operators/
@@ -66,9 +66,9 @@ Keep a genuine plate number where it identifies a canonical numbered plate; do n
 Examples:
 
 ```
-Tier I/Renewal_Field_Metric_g_R.md
-Tier II/Renewal_Interaction_Tensor_𝓘ᴿ.md
-Tier XII/Distributed_Semantic_Architectures.md
+01_Tier_I/Renewal_Field_Metric_g_R.md
+02_Tier_II/Renewal_Interaction_Tensor_𝓘ᴿ.md
+12_Tier_XII/Distributed_Semantic_Architectures.md
 ```
 
 ---
