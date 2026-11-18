@@ -33,12 +33,7 @@ The Renewal Integration Metric incorporates contributions from:
 It is defined as:
 
 $$
-gᴿ_{int}
-=
-gᴿ
-+ α_{1} \, γᴿ_{AB}
-+ α_{2} \, Mᴿ_{sys}
-+ α_{3} \, Σᴿ_{global}
+gᴿ_{int}=gᴿ+ α_{1} \, γᴿ_{AB}+ α_{2} \, Mᴿ_{sys}+ α_{3} \, Σᴿ_{global}
 $$
 
 where:
@@ -58,14 +53,7 @@ This structure unifies all Renewal subsystems into a coherent global geometry.
 From the Integration Metric comes the Integration Curvature Tensor:
 
 $$
-ℛᴿ_{int} =
-ℛ(gᴿ_{int})
-=
-gᴿ_{int}{}^{-1}
-\cdot
-(∇ gᴿ_{int})
-\cdot
-(∇ gᴿ_{int})
+ℛᴿ_{int} =ℛ(gᴿ_{int})=gᴿ_{int}{}^{-1}\cdot(∇ gᴿ_{int})\cdot(∇ gᴿ_{int})
 $$
 
 This curvature describes:
@@ -85,9 +73,7 @@ Low ℛᴿ_int indicates widespread harmony.
 The Renewal Integration Lengthscale is defined as:
 
 $$
-Lᴿ_{int}
-=
-\frac{1}{\sqrt{|ℛᴿ_{int}|}}
+Lᴿ_{int}=\frac{1}{\sqrt{|ℛᴿ_{int}|}}
 $$
 
 This lengthscale represents the **reach of global Renewal coherence**:
