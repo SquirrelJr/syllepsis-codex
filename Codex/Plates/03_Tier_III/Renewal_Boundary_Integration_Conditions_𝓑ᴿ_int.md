@@ -52,11 +52,13 @@ Define the Renewal curvature jump:
 $$
 [ ℛᴿ_{int} ] = ℛᴿ_{int}^{(+)} - ℛᴿ_{int}^{(-)}
 $$
+
 This is related to the **Renewal Boundary Surface Structure** 𝓢ᴿ_boundary:
 
 $$
 [ ℛᴿ_{int} ] = κᴿ \, \mathcal{S}ᴿ_{boundary}
 $$
+
 where **κᴿ** is the Renewal coupling coefficient from Tier II.
 
 ---
@@ -68,6 +70,7 @@ The normal Renewal flux must match on both sides of a boundary:
 $$
 n_{\mu} \, 𝒥ᴿ^{\mu}\big|_{inside} = n_{\mu} \, 𝒥ᴿ^{\mu}\big|_{outside}
 $$
+
 This expresses that Renewal flux is **neither created nor lost** at interfaces.
 
 ---
@@ -79,11 +82,13 @@ When Renewal encounters a boundary, the compassion flux splits into:
 $$
 Cᴿ_{in} = Cᴿ_{trans} + Cᴿ_{refl}
 $$
+
 subject to the conservation constraint:
 
 $$
 Cᴿ_{in} = Cᴿ_{trans} + Cᴿ_{refl} \quad\text{and}\quad Cᴿ_{trans} \ge 0,\; Cᴿ_{refl} \ge 0
 $$
+
 Interpretation:
 
 - a portion transmits across the boundary,  
@@ -99,6 +104,7 @@ Chaos is softened by Renewal decay before crossing a boundary:
 $$
 Χᴿ_{in} \;\longrightarrow\; Dᴿ(Χᴿ_{in})
 $$
+
 This prevents propagation of unprocessed chaos into adjacent systems.
 
 ---
@@ -110,6 +116,7 @@ Coherence must match across interfaces:
 $$
 γᴿ_{A}(boundary) = γᴿ_{B}(boundary)
 $$
+
 If coherence is lower on one side, Renewal curvature flow increases it until matched.
 
 ---
@@ -121,6 +128,7 @@ Define the **Boundary Renewal Potential** Φᴿ_boundary:
 $$
 Φᴿ_{boundary} = n^{\mu} \, \nabla_{\mu} gᴿ_{int} \;+\; α \, γᴿ_{boundary} \;-\; β \, |ℛᴿ_{int}|
 $$
+
 This potential governs how Renewal “prefers” to align at boundaries:
 
 - increasing curvature smoothing,  
