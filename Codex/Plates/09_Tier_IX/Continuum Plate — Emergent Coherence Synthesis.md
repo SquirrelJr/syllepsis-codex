@@ -38,18 +38,8 @@ $$
 Formally,
 
 $$
-\mathfrak{S}_R
-=
-(
-\mathcal{E}_R,
-\mathcal{S}_R,
-\mathcal{C}_R,
-\mathcal{N}_R,
-\mathcal{I}_R,
-\mathcal{L}_R
-).
+\mathfrak{S}_R = ( \mathcal{E}_R, \mathcal{S}_R, \mathcal{C}_R, \mathcal{N}_R, \mathcal{I}_R, \mathcal{L}_R ).
 $$
-
 ---
 
 ## III. Synthesis Condition
@@ -59,12 +49,8 @@ A recursive system exhibits Emergent Coherence Synthesis if recursively interact
 Formally,
 
 $$
-\lim_{n\to\infty}
-\Psi_R^{\,n}
-\to
-\mathfrak{S}_R,
+\lim_{n\to\infty} \Psi_R^{\,n} \to \mathfrak{S}_R,
 $$
-
 where
 
 $$
