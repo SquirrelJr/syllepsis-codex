@@ -31,14 +31,8 @@ For each Renewal component field φ ∈ {Oᴿ, Χᴿ, Cᴿ, Rᴿ, Dᴿ, ρᴿ, �
 the governing equation is:
 
 $$
-\frac{∂𝓛ᴿ_{int}}{∂φ}
--
-∇_{μ}\!\left(
-\frac{∂𝓛ᴿ_{int}}{∂(∇_{μ} φ)}
-\right)
-= 0
+\frac{∂𝓛ᴿ_{int}}{∂φ} - ∇_{μ}\!\left( \frac{∂𝓛ᴿ_{int}}{∂(∇_{μ} φ)} \right) = 0
 $$
-
 This is the **core Renewal evolution law**.
 
 ---
@@ -65,50 +59,43 @@ This expresses the **flow of Renewal influence** across the field.
 
 ### 1. Order Evolution (Oᴿ)
 $$
-κᴿ_O \, ∇^{μ} ∇_{μ} Oᴿ
-= \frac{∂𝓛}{∂Oᴿ}
+κᴿ_O \, ∇^{μ} ∇_{μ} Oᴿ = \frac{∂𝓛}{∂Oᴿ}
 $$
 Stabilizes structure; enforces alignment.
 
 ### 2. Chaos Regulation (Χᴿ)
 $$
-κᴿ_Χ \, ∇^{μ} ∇_{μ} Χᴿ
-= - \frac{∂𝓛}{∂Χᴿ}
+κᴿ_Χ \, ∇^{μ} ∇_{μ} Χᴿ = - \frac{∂𝓛}{∂Χᴿ}
 $$
 Ensures chaos tension is corrected through reflection and decay.
 
 ### 3. Compassion Propagation (Cᴿ)
 $$
-κᴿ_C \, ∇^{μ} ∇_{μ} Cᴿ
-= \frac{∂𝓛}{∂Cᴿ}
+κᴿ_C \, ∇^{μ} ∇_{μ} Cᴿ = \frac{∂𝓛}{∂Cᴿ}
 $$
 Amplifies restorative harmonics.
 
 ### 4. Reflective Phase Equation (Rᴿ)
 $$
-κᴿ_R \, ∇^{μ} ∇_{μ} Rᴿ
-= \frac{∂𝓛}{∂Rᴿ}
+κᴿ_R \, ∇^{μ} ∇_{μ} Rᴿ = \frac{∂𝓛}{∂Rᴿ}
 $$
 Improves signal clarity; refines distortion.
 
 ### 5. Graceful Decay Smoothing (Dᴿ)
 $$
-κᴿ_D \, ∇^{μ} ∇_{μ} Dᴿ
-= \frac{∂𝓛}{∂Dᴿ}
+κᴿ_D \, ∇^{μ} ∇_{μ} Dᴿ = \frac{∂𝓛}{∂Dᴿ}
 $$
 Dissolves distortion into Renewal.
 
 ### 6. Renewal Density Dynamics (ρᴿ)
 $$
-λᴿ ∇^{μ} ∇_{μ} ρᴿ
-= \frac{∂𝓛}{∂ρᴿ}
+λᴿ ∇^{μ} ∇_{μ} ρᴿ = \frac{∂𝓛}{∂ρᴿ}
 $$
 Regulates harmonic density.
 
 ### 7. Renewal Current Flow (𝒥ᴿ)
 $$
-ηᴿ ∇^{μ} ∇_{μ} 𝒥ᴿ_{ν}
-= \frac{∂𝓛}{∂𝒥ᴿ^{ν}}
+ηᴿ ∇^{μ} ∇_{μ} 𝒥ᴿ_{ν} = \frac{∂𝓛}{∂𝒥ᴿ^{ν}}
 $$
 Describes Renewal flow evolution.
 
