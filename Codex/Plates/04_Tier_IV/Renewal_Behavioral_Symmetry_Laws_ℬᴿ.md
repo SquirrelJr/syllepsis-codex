@@ -30,16 +30,8 @@ behavioral invariants that remain true under Renewal transformation.
 The Behavioral Symmetry Laws are defined as:
 
 $$
-\mathcal{B}^{R}
-=
-\left\{
-\text{invariants},\;
-\text{couplings},\;
-\text{allowed symmetries},\;
-\text{forbidden antisymmetries}
-\right\}
+\mathcal{B}^{R} = \left\{ \text{invariants},\; \text{couplings},\; \text{allowed symmetries},\; \text{forbidden antisymmetries} \right\}
 $$
-
 Behavior emerges from which symmetries remain conserved  
 and which antisymmetries decay.
 
@@ -84,13 +76,8 @@ Misaligned behavior decays gently toward alignment.
 Behavior evolves according to:
 
 $$
-a(t + \Delta t)
-=
-\mathcal{E}^{R}(\psi^{R})
-+
-\Delta \mathcal{B}^{R}
+a(t + \Delta t) = \mathcal{E}^{R}(\psi^{R}) + \Delta \mathcal{B}^{R}
 $$
-
 Where:
 
 - **𝓔ᴿ(ψᴿ)** → the expression-driven behavior impulse  
