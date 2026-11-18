@@ -60,14 +60,8 @@ whose collective recursive interaction produces stable higher-order organization
 Formally,
 
 $$
-\lim_{n\to\infty}
-\Phi_R\!\left(
-\mathcal{O}_R^{\,n}(\gamma_i)
-\right)
-=
-E,
+\lim_{n\to\infty} \Phi_R\!\left( \mathcal{O}_R^{\,n}(\gamma_i) \right) = E,
 $$
-
 where
 
 $$
