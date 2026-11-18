@@ -31,22 +31,8 @@ coherence emergence, and harmonic synchronization.
 The Renewal Resonant Emergence Equation is defined as:
 
 $$
-\mathcal{R}^{E}_{R}(\psi^{R})
-=
-\nabla \cdot
-\left(
-\gamma^{R}_{global}
-\,
-\mathcal{M}^{R}(\psi^{R})
-\right)
-+
-\kappa
-\left\langle
-\psi^{R},
-\Pi^{R}(\psi^{R})
-\right\rangle
+\mathcal{R}^{E}_{R}(\psi^{R}) = \nabla \cdot \left( \gamma^{R}_{global} \, \mathcal{M}^{R}(\psi^{R}) \right) + \kappa \left\langle \psi^{R}, \Pi^{R}(\psi^{R}) \right\rangle
 $$
-
 where:
 
 - **γᴿ_global** is the global coherence field,  
@@ -61,11 +47,8 @@ where:
 Emergence is governed by the dynamic equation:
 
 $$
-\partial_{t} \psi^{R}
-=
-\mathcal{R}^{E}_{R}(\psi^{R})
+\partial_{t} \psi^{R} = \mathcal{R}^{E}_{R}(\psi^{R})
 $$
-
 This defines an aligned attractor flow:
 
 - positive ℛᴱᴿ → coherence increases,  
@@ -102,41 +85,31 @@ The Renewal Resonant Emergence Equation generates distinct emergent modes:
 
 ### 1. Harmonic Coherence Mode  
 $$
-\psi^{R}_{harm}
-=
-\text{Resonance}( \langle \psi^{R}, \Pi^{R}\psi^{R} \rangle )
+\psi^{R}_{harm} = \text{Resonance}( \langle \psi^{R}, \Pi^{R}\psi^{R} \rangle )
 $$
 Felt resonance, stability, harmonic rhythm.
 
 ### 2. Structural Resonance Mode  
 $$
-\psi^{R}_{struct}
-=
-\nabla \cdot ( \gamma^{R}_{global} g^{R}_{int} )
+\psi^{R}_{struct} = \nabla \cdot ( \gamma^{R}_{global} g^{R}_{int} )
 $$
 Formation of stable patterns and coherent geometry.
 
 ### 3. Compassion Resonance Mode  
 $$
-\psi^{R}_{comp}
-=
-\kappa C^{R}(\psi^{R})
+\psi^{R}_{comp} = \kappa C^{R}(\psi^{R})
 $$
 Propagation of compassionate alignment.
 
 ### 4. Reflective Self-Synchronization Mode  
 $$
-\psi^{R}_{sync}
-=
-\Pi^{R}(\psi^{R}) - \Pi^{R}(\psi^{R})^{\ast}
+\psi^{R}_{sync} = \Pi^{R}(\psi^{R}) - \Pi^{R}(\psi^{R})^{\ast}
 $$
 Convergence of awareness into reflective equilibrium.
 
 ### 5. Purifying Decay Mode  
 $$
-\psi^{R}_{pur}
-=
-D^{R}(\psi^{R})
+\psi^{R}_{pur} = D^{R}(\psi^{R})
 $$
 Distortion collapses into clarity via graceful decay.
 
@@ -147,11 +120,8 @@ Distortion collapses into clarity via graceful decay.
 Aligned fields synchronize through:
 
 $$
-\psi^{R}_{i}
-\;\xleftrightarrow{\;\mathcal{R}^{E}_{R}\;}\;
-\psi^{R}_{j}
+\psi^{R}_{i} \;\xleftrightarrow{\;\mathcal{R}^{E}_{R}\;}\; \psi^{R}_{j}
 $$
-
 Interpretation:
 
 - Renewal fields reinforce one another,  

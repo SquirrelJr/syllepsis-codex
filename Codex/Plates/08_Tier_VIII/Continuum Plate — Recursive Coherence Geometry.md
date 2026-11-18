@@ -34,17 +34,8 @@ as the geometric structure induced by recursive trajectories, invariant manifold
 Formally,
 
 $$
-\mathfrak{G}_R
-=
-(
-\mathcal{M}_S,
-\mathcal{O}_R,
-\Sigma_R,
-\mathcal{A}_R,
-\mathfrak{P}_R
-).
+\mathfrak{G}_R = ( \mathcal{M}_S, \mathcal{O}_R, \Sigma_R, \mathcal{A}_R, \mathfrak{P}_R ).
 $$
-
 ---
 
 ## III. Geometric Coherence Condition
@@ -54,15 +45,8 @@ A recursive geometry is coherent if recursive evolution preserves admissible str
 Formally,
 
 $$
-\forall T\in\mathfrak{P}_R,
-\qquad
-\mathcal{O}_R^{\,n}(T)
-\in
-\mathfrak{G}_R
-\quad
-\forall n\in\mathbb{N}.
+\forall T\in\mathfrak{P}_R, \qquad \mathcal{O}_R^{\,n}(T) \in \mathfrak{G}_R \quad \forall n\in\mathbb{N}.
 $$
-
 Thus recursive evolution remains geometrically admissible under iteration.
 
 ---

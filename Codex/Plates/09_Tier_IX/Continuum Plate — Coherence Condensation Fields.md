@@ -46,12 +46,8 @@ correspond to high recursive synchronization, attractor reinforcement, and struc
 Recursive coherence condensation occurs when interacting recursive flows satisfy:
 
 $$
-\sum_{i=1}^{N}
-\Phi_R(E_i)
-\to
-\mathcal{C}_R^{\mathrm{max}}
+\sum_{i=1}^{N} \Phi_R(E_i) \to \mathcal{C}_R^{\mathrm{max}}
 $$
-
 within an admissible recursive neighborhood.
 
 Thus recursive interaction amplifies coherence density through collective reinforcement.

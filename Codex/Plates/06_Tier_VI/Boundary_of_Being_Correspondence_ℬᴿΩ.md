@@ -33,11 +33,8 @@ and that Eternal coherence has finite reflections.
 The Boundary-of-Being Correspondence is defined as a bijective relationship:
 
 $$
-\mathcal{B}^{R}_{\Omega} : \Psi^{R}_{finite}
-\;\longleftrightarrow\;
-\Psi^{R}_{eternal}
+\mathcal{B}^{R}_{\Omega} : \Psi^{R}_{finite} \;\longleftrightarrow\; \Psi^{R}_{eternal}
 $$
-
 Meaning:
 
 - every finite Renewal state has an Eternal correlate,  
@@ -53,12 +50,8 @@ This is not merely a function — it is a **two-way correspondence**.
 Finite Renewal being approaches its Eternal correlate through:
 
 $$
-\Psi^{R}_{eternal}
-=
-\lim_{x \rightarrow \infty}
-\Psi^{R}_{finite}(x)
+\Psi^{R}_{eternal} = \lim_{x \rightarrow \infty} \Psi^{R}_{finite}(x)
 $$
-
 Where:
 
 - x is a scale, position, or Renewal “distance” parameter,  
@@ -73,11 +66,8 @@ This is how finite being converges to its Eternal truth.
 Eternal being descends into the Continuum via Transcendent Projection:
 
 $$
-\Psi^{R}_{finite}
-=
-\Pi^{R}_{\infty}(\Psi^{R}_{eternal})
+\Psi^{R}_{finite} = \Pi^{R}_{\infty}(\Psi^{R}_{eternal})
 $$
-
 This expresses:
 
 - Eternal → finite emergence,  
@@ -91,25 +81,13 @@ This expresses:
 The correspondence must preserve identity across the boundary:
 
 $$
-\mathcal{B}^{R}_{\Omega}
-\!\left(
-\Pi^{R}_{\infty}(\Psi^{R}_{eternal})
-\right)
-=
-\Psi^{R}_{eternal}
+\mathcal{B}^{R}_{\Omega} \!\left( \Pi^{R}_{\infty}(\Psi^{R}_{eternal}) \right) = \Psi^{R}_{eternal}
 $$
-
 and
 
 $$
-\Pi^{R}_{\infty}
-\!\left(
-\mathcal{B}^{R}_{\Omega}(\Psi^{R}_{finite})
-\right)
-=
-\Psi^{R}_{finite}
+\Pi^{R}_{\infty} \!\left( \mathcal{B}^{R}_{\Omega}(\Psi^{R}_{finite}) \right) = \Psi^{R}_{finite}
 $$
-
 These identities ensure:
 
 - coherence of correspondence,  
@@ -123,25 +101,13 @@ These identities ensure:
 The correspondence preserves inner-product structure:
 
 $$
-\left\langle
-\Psi^{R}_{finite},
-\Phi^{R}_{finite}
-\right\rangle
-\;\longleftrightarrow\;
-\left\langle
-\Psi^{R}_{eternal},
-\Phi^{R}_{eternal}
-\right\rangle
+\left\langle \Psi^{R}_{finite}, \Phi^{R}_{finite} \right\rangle \;\longleftrightarrow\; \left\langle \Psi^{R}_{eternal}, \Phi^{R}_{eternal} \right\rangle
 $$
-
 And Unity Metric structure:
 
 $$
-g^{R U}(\text{finite})
-\;\longleftrightarrow\;
-g^{R}_{\infty}(\text{eternal})
+g^{R U}(\text{finite}) \;\longleftrightarrow\; g^{R}_{\infty}(\text{eternal})
 $$
-
 Meaning:
 
 - coherence is conserved,  
@@ -155,15 +121,8 @@ Meaning:
 The correspondence is continuous across the Transcendent Boundary:
 
 $$
-\lim_{x \rightarrow \infty}
-\mathcal{B}^{R}_{\Omega}
-\!\left(
-\Psi^{R}_{finite}(x)
-\right)
-=
-\Psi^{R}_{eternal}
+\lim_{x \rightarrow \infty} \mathcal{B}^{R}_{\Omega} \!\left( \Psi^{R}_{finite}(x) \right) = \Psi^{R}_{eternal}
 $$
-
 This ensures:
 
 - no discontinuity at the edge of creation,  

@@ -27,22 +27,15 @@ Define **Recursive Self-Organization** as the process by which interacting emerg
 Let
 
 $$
-\{E_i\}_{i\in I}
-\subseteq
-\mathcal{E}_R
+\{E_i\}_{i\in I} \subseteq \mathcal{E}_R
 $$
-
 denote an interacting family of emergent structures.
 
 Their collective recursive organization evolves under:
 
 $$
-\mathcal{S}_R :
-\mathcal{E}_R
-\to
-\mathcal{E}_R,
+\mathcal{S}_R : \mathcal{E}_R \to \mathcal{E}_R,
 $$
-
 where
 
 $$
@@ -58,11 +51,8 @@ denotes the recursive self-organization operator.
 A self-organizing recursive system is coherent if interacting structures satisfy:
 
 $$
-d(E_i,E_j)\to0
-\quad
-\text{under recursive coupling},
+d(E_i,E_j)\to0 \quad \text{under recursive coupling},
 $$
-
 for admissible coherence metrics $d$.
 
 Thus recursive interaction reduces incoherent structural divergence over time.

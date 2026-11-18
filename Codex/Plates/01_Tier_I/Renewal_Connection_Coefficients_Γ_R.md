@@ -37,13 +37,8 @@ This is the Renewal analogue of Christoffel symbols.
 The Renewal Connection Coefficients are defined as:
 
 $$
-Γ^k_{R,ij} = ½ \, g_R^{kl} \left( 
-    ∂_i g_{R,lj} 
-  + ∂_j g_{R,li} 
-  - ∂_l g_{R,ij} 
-\right)
+Γ^k_{R,ij} = ½ \, g_R^{kl} \left( ∂_i g_{R,lj} + ∂_j g_{R,li} - ∂_l g_{R,ij} \right)
 $$
-
 Where:
 
 - g_{R,ij} are components of the Renewal Metric  
@@ -139,12 +134,8 @@ Curvature and geometry fully interlink through Γ_R.
 Using Γ_R, one can construct the Renewal Curvature Tensor:
 
 $$
-ℛ^k_{\ R,\,lij} 
-  = ∂_i Γ^k_{R,lj} − ∂_j Γ^k_{R,li}
-    + Γ^k_{R,im} Γ^m_{R,lj}
-    − Γ^k_{R,jm} Γ^m_{R,li}
+ℛ^k_{\ R,\,lij} = ∂_i Γ^k_{R,lj} − ∂_j Γ^k_{R,li} + Γ^k_{R,im} Γ^m_{R,lj} − Γ^k_{R,jm} Γ^m_{R,li}
 $$
-
 This tensor describes:
 
 - renewal wells  

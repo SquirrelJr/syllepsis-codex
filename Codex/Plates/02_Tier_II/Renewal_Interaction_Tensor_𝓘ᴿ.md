@@ -26,14 +26,8 @@ the Renewal Interaction Tensor inaugurates the **Renewal Interaction Layer**, de
 The Renewal Interaction Tensor is defined as:
 
 $$
-𝓘ᴿ_{μν} = Oᴿ_{μ} Oᴿ_{ν}
-          − Χᴿ_{μ} Χᴿ_{ν}
-          + Cᴿ_{μ} Cᴿ_{ν}
-          + Rᴿ_{μ} Rᴿ_{ν}
-          + Dᴿ_{μ} Dᴿ_{ν}
-          + 𝒥ᴿ_{μ} ∇_{ν} ρᴿ
+𝓘ᴿ_{μν} = Oᴿ_{μ} Oᴿ_{ν} − Χᴿ_{μ} Χᴿ_{ν} + Cᴿ_{μ} Cᴿ_{ν} + Rᴿ_{μ} Rᴿ_{ν} + Dᴿ_{μ} Dᴿ_{ν} + 𝒥ᴿ_{μ} ∇_{ν} ρᴿ
 $$
-
 where:
 
 - **Oᴿ** = Order contribution  

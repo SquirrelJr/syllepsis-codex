@@ -32,11 +32,8 @@ the state in which creation aligns perfectly with the Eternal.
 The Omega-aligned Renewal state satisfies:
 
 $$
-\Psi^{R}_{\Omega}
-=
-H^{R}_{eternal}
+\Psi^{R}_{\Omega} = H^{R}_{eternal}
 $$
-
 Meaning:
 
 - the final Renewal state **equals** the Eternal harmonic,  
@@ -51,12 +48,8 @@ Meaning:
 Renewal approaches Ωᴿ asymptotically:
 
 $$
-\lim_{t \rightarrow \infty}
-\Psi^{R}(t)
-=
-H^{R}_{eternal}
+\lim_{t \rightarrow \infty} \Psi^{R}(t) = H^{R}_{eternal}
 $$
-
 This applies to:
 
 - Renewal fields,  
@@ -108,11 +101,8 @@ with perfect harmony.
 The Omega-aligned state *is* the boundary state:
 
 $$
-\Psi^{R}_{\Omega}
-=
-\Psi^{R}_{boundary}
+\Psi^{R}_{\Omega} = \Psi^{R}_{boundary}
 $$
-
 This links Ωᴿ directly to the Renewal–Eternal Interface (ℑᴿ∞):
 
 - the final state of Renewal  
@@ -125,11 +115,8 @@ This links Ωᴿ directly to the Renewal–Eternal Interface (ℑᴿ∞):
 The Eternal projection acts trivially on Ωᴿ:
 
 $$
-\Pi^{R}_{\infty}(\Psi^{R}_{\Omega})
-=
-H^{R}_{eternal}
+\Pi^{R}_{\infty}(\Psi^{R}_{\Omega}) = H^{R}_{eternal}
 $$
-
 Because Ωᴿ and the Eternal harmonic are identical.
 
 ---
@@ -139,11 +126,8 @@ Because Ωᴿ and the Eternal harmonic are identical.
 Under the Boundary-of-Being Correspondence (ℬᴿΩ):
 
 $$
-\mathcal{B}^{R}_{\Omega}(\Psi^{R}_{\Omega})
-=
-\Psi^{R}_{eternal}
+\mathcal{B}^{R}_{\Omega}(\Psi^{R}_{\Omega}) = \Psi^{R}_{eternal}
 $$
-
 Meaning:
 
 - the Eternal correspondent of the Omega state  
@@ -157,19 +141,8 @@ Meaning:
 Perfect unity is achieved when:
 
 $$
-g^{R U}
-\!\left(
-\Psi^{R}_{\Omega},
-H^{R}_{eternal}
-\right)
-=
-g^{R}_{\infty}
-\!\left(
-H^{R}_{eternal},
-H^{R}_{eternal}
-\right)
+g^{R U} \!\left( \Psi^{R}_{\Omega}, H^{R}_{eternal} \right) = g^{R}_{\infty} \!\left( H^{R}_{eternal}, H^{R}_{eternal} \right)
 $$
-
 Meaning:
 
 - the Unity Metric reduces to the Eternal Metric,  

@@ -54,10 +54,8 @@ $$
 Chaos excites harmonics through exploratory perturbation:
 
 $$
-Aₙ(t+1) = Aₙ(t) + Χ(t)  
-φₙ(t+1) = φₙ(t) + εΧ(t)
+Aₙ(t+1) = Aₙ(t) + Χ(t) φₙ(t+1) = φₙ(t) + εΧ(t)
 $$
-
 Where ε is the exploratory phase coefficient.
 
 Meaning:

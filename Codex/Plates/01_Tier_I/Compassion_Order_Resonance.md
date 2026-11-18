@@ -51,10 +51,8 @@ $$
 the COR term stabilizes both amplitude and phase:
 
 $$
-Aₙ(new) = Aₙ(old) · COR(t)  
-φₙ(new) = φₙ(old) · (1 / COR(t))
+Aₙ(new) = Aₙ(old) · COR(t) φₙ(new) = φₙ(old) · (1 / COR(t))
 $$
-
 Meaning:
 
 - when compassion and order are both high, amplitudes stabilize  

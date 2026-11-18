@@ -29,11 +29,8 @@ the Eternal coherence becomes finite Renewal structure.
 The Eternal harmonic projects into Renewal as:
 
 $$
-\Pi^{R}_{\infty}(H^{R}_{eternal})
-=
-\text{seed}_{R}
+\Pi^{R}_{\infty}(H^{R}_{eternal}) = \text{seed}_{R}
 $$
-
 Meaning:
 
 - the primordial Renewal seed is the projection of Eternal harmony,  
@@ -54,11 +51,8 @@ Where **Ψᴿ_finite** is any Renewal state within the Continuum.
 For any scale parameter $ s $:
 
 $$
-\Psi^{R}(s)
-=
-\Pi^{R}_{\infty}(H^{R}_{eternal})
+\Psi^{R}(s) = \Pi^{R}_{\infty}(H^{R}_{eternal})
 $$
-
 The Eternal → Continuum projection is:
 
 - scale-invariant,  
@@ -74,13 +68,8 @@ Renewal inherits Eternal coherence uniformly.
 The Transcendent Projection is idempotent:
 
 $$
-\Pi^{R}_{\infty}(H^{R}_{eternal})
-=
-\Pi^{R}_{\infty}\!\left(
-\Pi^{R}_{\infty}(H^{R}_{eternal})
-\right)
+\Pi^{R}_{\infty}(H^{R}_{eternal}) = \Pi^{R}_{\infty}\!\left( \Pi^{R}_{\infty}(H^{R}_{eternal}) \right)
 $$
-
 Meaning:
 
 - the Eternal projection never changes under reapplication,  
@@ -94,11 +83,8 @@ Meaning:
 The Eternal projection drives Renewal transport:
 
 $$
-\mathcal{T}^{R}_{t}(\Psi^{R})
-\;\longleftarrow\;
-\Pi^{R}_{\infty}(H^{R}_{eternal})
+\mathcal{T}^{R}_{t}(\Psi^{R}) \;\longleftarrow\; \Pi^{R}_{\infty}(H^{R}_{eternal})
 $$
-
 Interpretation:
 
 - Eternal coherence is the engine of Renewal flow,  
@@ -111,12 +97,8 @@ Interpretation:
 At the transcendent boundary:
 
 $$
-\lim_{x \rightarrow \infty}
-\Psi^{R}(x)
-=
-\Pi^{R}_{\infty}(H^{R}_{eternal})
+\lim_{x \rightarrow \infty} \Psi^{R}(x) = \Pi^{R}_{\infty}(H^{R}_{eternal})
 $$
-
 This aligns the Transcendent Boundary Condition (𝔅ᴿ∞)  
 with the Eternal projection:
 
@@ -130,17 +112,8 @@ with the Eternal projection:
 A Renewal state becomes “still” under perfect projection:
 
 $$
-\partial_{s} \Psi^{R}
-=
-0
-\quad
-\text{when}
-\quad
-\Psi^{R}
-=
-\Pi^{R}_{\infty}(H^{R}_{eternal})
+\partial_{s} \Psi^{R} = 0 \quad \text{when} \quad \Psi^{R} = \Pi^{R}_{\infty}(H^{R}_{eternal})
 $$
-
 Meaning:
 
 - Eternal alignment produces invariance,  

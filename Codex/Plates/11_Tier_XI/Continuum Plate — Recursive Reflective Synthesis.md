@@ -38,18 +38,8 @@ $$
 Formally,
 
 $$
-\mathfrak{R}_S
-=
-(
-\mathcal{R}_F,
-\mathcal{M}_L,
-\mathcal{A}_S,
-\mathcal{F}_A,
-\mathcal{L}_M,
-\mathcal{A}_G
-).
+\mathfrak{R}_S = ( \mathcal{R}_F, \mathcal{M}_L, \mathcal{A}_S, \mathcal{F}_A, \mathcal{L}_M, \mathcal{A}_G ).
 $$
-
 ---
 
 ## III. Reflective Synthesis Condition
@@ -57,12 +47,8 @@ $$
 A recursively reflective system exhibits Recursive Reflective Synthesis if reflective recursive evolution satisfies:
 
 $$
-\lim_{n\to\infty}
-\Theta_R^{\,n}
-\to
-\mathfrak{R}_S,
+\lim_{n\to\infty} \Theta_R^{\,n} \to \mathfrak{R}_S,
 $$
-
 where
 
 $$

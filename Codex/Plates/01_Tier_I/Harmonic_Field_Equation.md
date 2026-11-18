@@ -96,10 +96,8 @@ when confronted with the Eternal harmonic.
 The Continuum’s five operators correspond to adjustments in the field:
 
 $$
-F_{\text{total}} = 
-O(t) + K(t) + C(t) + R(t) + D(t)
+F_{\text{total}} = O(t) + K(t) + C(t) + R(t) + D(t)
 $$
-
 Where:
 
 - $ O(t) $ — Order: structural harmonic  
