@@ -50,10 +50,8 @@ $$
 such that for all initial states $T_0\in\mathcal{N}(T^\ast)$,
 
 $$
-\mathcal{O}_R^{\,n}(T_0)\to T^\ast
-\quad\text{as}\quad n\to\infty.
+\mathcal{O}_R^{\,n}(T_0)\to T^\ast \quad\text{as}\quad n\to\infty.
 $$
-
 ---
 
 ## IV. Stability Bounds
