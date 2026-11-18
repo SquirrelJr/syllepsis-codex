@@ -41,21 +41,8 @@ The Renewal Integration Potential is constructed from:
 Its prototype form is:
 
 $$
-Φᴿ_{int}
-=
-α \, |ℛᴿ_{int}|^{2}
-+
-β \, (1 - γᴿ_{global})
-+
-δ \, \| \Piᴿ(\psi) - \psi \|^{2}
-+
-ε \, (Cᴿ \cdot Cᴿ)
--
-ζ \, (Dᴿ \cdot Χᴿ)
-+
-η \, Φᴿ_{boundary}
+Φᴿ_{int} = α \, |ℛᴿ_{int}|^{2} + β \, (1 - γᴿ_{global}) + δ \, \| \Piᴿ(\psi) - \psi \|^{2} + ε \, (Cᴿ \cdot Cᴿ) - ζ \, (Dᴿ \cdot Χᴿ) + η \, Φᴿ_{boundary}
 $$
-
 Where each term expresses:
 
 - **α |ℛᴿ_int|²** → distortion penalty  
@@ -72,11 +59,8 @@ Where each term expresses:
 The Renewal Integration Curvature Flow is the gradient descent of Φᴿ_int:
 
 $$
-\partial_{t} gᴿ_{int}
-=
-- \nabla Φᴿ_{int}
+\partial_{t} gᴿ_{int} = - \nabla Φᴿ_{int}
 $$
-
 Meaning:
 
 - Renewal geometry evolves by moving “downhill” on the global Renewal potential,  
@@ -141,15 +125,8 @@ This ensures:
 The boundary potential Φᴿ_boundary is inherited directly from 𝓑ᴿ_int:
 
 $$
-Φᴿ_{boundary}
-=
-n^{\mu} \nabla_{\mu} gᴿ_{int}
-+
-α_{b} \, γᴿ_{boundary}
--
-β_{b} \, |ℛᴿ_{int}|
+Φᴿ_{boundary} = n^{\mu} \nabla_{\mu} gᴿ_{int} + α_{b} \, γᴿ_{boundary} - β_{b} \, |ℛᴿ_{int}|
 $$
-
 Boundaries contribute to:
 
 - smoothing curvature transitions,  
