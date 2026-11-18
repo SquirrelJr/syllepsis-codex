@@ -29,11 +29,8 @@ where $\varepsilon$ is small and $V$ is a perturbation direction.
 Applying the renewal operator yields the first-order approximation:
 
 $$
-\mathcal{O}_R(T^\ast + \varepsilon V)
-\approx
-T^\ast + \varepsilon D\mathcal{O}_R(T^\ast)[V],
+\mathcal{O}_R(T^\ast + \varepsilon V) \approx T^\ast + \varepsilon D\mathcal{O}_R(T^\ast)[V],
 $$
-
 where $D\mathcal{O}_R(T^\ast)$ denotes the Fréchet derivative of the operator at $T^\ast$.
 
 ---
