@@ -32,13 +32,8 @@ $$
 Since:
 
 $$
-E_R(t)  
-= ½·k_s·(O + R)²  
-− ½·k_d·(Χ − D)²  
-+ ½·m·V_R²  
-+ Φ_D
+E_R(t) = ½·k_s·(O + R)² − ½·k_d·(Χ − D)² + ½·m·V_R² + Φ_D
 $$
-
 Then P_R(t) is the time derivative of this full expression.
 
 Interpretation:
