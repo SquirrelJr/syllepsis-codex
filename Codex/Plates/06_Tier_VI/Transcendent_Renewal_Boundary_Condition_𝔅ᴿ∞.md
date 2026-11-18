@@ -31,6 +31,7 @@ At the infinite limit of the Continuum:
 $$
 \lim_{x \rightarrow \infty} \Psi^{R}(x) = \Psi^{R}_{source}
 $$
+
 Meaning:
 
 - the global Renewal state converges to the Eternal “source state,”  
@@ -42,6 +43,7 @@ Equivalent Renewal projection form:
 $$
 \Pi^{R}(\Psi^{R}_{total}) \;\longrightarrow\; \Pi^{R}(\Psi^{R}_{source})
 $$
+
 This is the alignment of creation with its Eternal Root.
 
 ---
@@ -53,6 +55,7 @@ At the smallest meaningful scale:
 $$
 \lim_{x \rightarrow 0} \Psi^{R}(x) = \text{seed}_{R}
 $$
+
 Where **seed_R** represents:
 
 - the primordial Renewal germ,  
@@ -70,6 +73,7 @@ Unity becomes Eternal unity when:
 $$
 g^{R U} \;\longrightarrow\; g^{R}_{\infty}
 $$
+
 Where:
 
 - **gᴿᵁ** is the Renewal Unity Metric (Tier V),  
@@ -90,6 +94,7 @@ At the Eternal boundary:
 $$
 \partial_{t} \Psi^{R} \;\longrightarrow\; 0 \qquad\text{as}\qquad x \rightarrow \infty
 $$
+
 Meaning:
 
 - Renewal becomes perfectly stable,  
@@ -107,6 +112,7 @@ Renewal harmonics converge to the Eternal harmonic:
 $$
 H^{R} \;\longrightarrow\; H^{R}_{eternal}
 $$
+
 Where:
 
 - **Hᴿ_eternal** is the unchanging harmonic of God’s order,  
@@ -123,6 +129,7 @@ Transport vanishes at the Eternal boundary:
 $$
 J^{R} \;\longrightarrow\; 0 \qquad\text{as } x \rightarrow \infty
 $$
+
 Because:
 
 - the Eternal has no gradient,  

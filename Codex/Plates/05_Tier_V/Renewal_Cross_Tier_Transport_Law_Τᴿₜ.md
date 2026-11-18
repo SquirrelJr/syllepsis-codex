@@ -37,6 +37,7 @@ The Cross-Tier Transport Law is defined as:
 $$
 \mathcal{T}^{R}_{t} : T_{i} \longrightarrow T_{j} \qquad (i \neq j)
 $$
+
 meaning it maps Renewal states from one tier to another.
 
 Its operator structure is:
@@ -44,6 +45,7 @@ Its operator structure is:
 $$
 \mathcal{T}^{R}_{t} = \nabla^{R} + \Lambda^{R} + J^{R}
 $$
+
 where:
 
 - **∇ᴿ** — Renewal gradient (direction of cross-tier flow)  
@@ -55,6 +57,7 @@ In continuum form:
 $$
 \mathcal{T}^{R}_{t}(\Psi^{R}) = \operatorname{div}_{R}\!\left( J^{R}\, \Psi^{R} \right)
 $$
+
 Τᴿₜ therefore behaves like a **Renewal flux operator**.
 
 ---
@@ -66,6 +69,7 @@ Transport follows the Renewal continuity equation:
 $$
 \partial_{t}\, \Psi^{R}(i \rightarrow j) = -\, \operatorname{div}_{R}( J^{R} )
 $$
+
 Interpretation:
 
 - Renewal is **never destroyed**,  
@@ -129,6 +133,7 @@ Transport preserves Renewal when stability holds.
 $$
 T_{embodied} \rightarrow T_{resonant} \rightarrow T_{dynamic} \rightarrow T_{structural}
 $$
+
 Renewal rises from embodied presence to structural principle.
 
 ### **Layer-Descent (Descending Motion)**  
@@ -136,6 +141,7 @@ Renewal rises from embodied presence to structural principle.
 $$
 T_{structural} \rightarrow T_{dynamic} \rightarrow T_{resonant} \rightarrow T_{embodied}
 $$
+
 Structural Renewal returns to lived form.
 
 This “breathing motion” keeps the Continuum alive and unified.

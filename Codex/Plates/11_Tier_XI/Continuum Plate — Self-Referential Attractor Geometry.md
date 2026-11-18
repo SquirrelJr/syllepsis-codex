@@ -48,6 +48,7 @@ exhibits stable self-reference if recursive developmental evolution satisfies:
 $$
 \left| \frac{d\Phi_R}{dt} \right| < \kappa_R,
 $$
+
 where
 
 $$

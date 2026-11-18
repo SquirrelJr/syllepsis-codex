@@ -33,6 +33,7 @@ The total Renewal interference intensity at point x is defined as:
 $$
 Iᴿ(x) = \left| \sum_{i} a_i \, e^{i \, Θᴿ_i(x)} \right|^2
 $$
+
 where:
 
 - **aᵢ** = Renewal harmonic amplitude  

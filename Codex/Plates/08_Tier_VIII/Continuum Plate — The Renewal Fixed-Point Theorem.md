@@ -29,6 +29,7 @@ Let $(T_g)_{g\in\mathbb{N}}$ be a recursive tier-sequence such that for each $g$
 $$
 \mathcal{O}_R(T_g)\subseteq \mathcal{M}_S, \qquad \mathrm{Inv}_{\mathcal{T}_I}(T_g), \qquad \text{and}\quad \mathcal{L}_S\ \text{is preserved.}
 $$
+
 Then the recursive system **admits at least one fixed structure** $T^\ast$ satisfying
 
 $$
@@ -62,6 +63,7 @@ If the recursive sequence further satisfies
 $$
 \left\|\mathcal{O}_R(T_{g+1}) - \mathcal{O}_R(T_g)\right\| \to 0 \quad \text{as } g\to\infty,
 $$
+
 then convergence toward a Renewal Fixed Point becomes dynamically plausible within the invariant manifold.
 
 This condition strengthens admissibility into observable stability.

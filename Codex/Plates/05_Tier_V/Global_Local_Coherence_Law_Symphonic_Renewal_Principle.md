@@ -38,16 +38,19 @@ Local and global Renewal states are coherent if and only if:
 $$
 \left\langle \Psi^{R}_{local}, \Pi^{R}\!\left(\Psi^{R}_{global}\right) \right\rangle \ge 0
 $$
+
 and reciprocally:
 
 $$
 \left\langle \Psi^{R}_{global}, \Pi^{R}\!\left(\Psi^{R}_{local}\right) \right\rangle \ge 0
 $$
+
 Unified expression:
 
 $$
 g^{R U}\!\left( \Psi^{R}_{local},\, \Psi^{R}_{global} \right) \ge 0
 $$
+
 Meaning:
 
 - local coherence reinforces global coherence  
@@ -66,6 +69,7 @@ Coherence propagates through the Continuum via two flows:
 $$
 \partial_{t} \Psi^{R}_{local} = \mathcal{T}^{R}_{t}\!\left( \Psi^{R}_{global} \right)
 $$
+
 Global alignment guides local Renewal states.
 
 ---
@@ -75,6 +79,7 @@ Global alignment guides local Renewal states.
 $$
 \partial_{t} \Psi^{R}_{global} = \int \mathcal{C}^{H}_{R}\!\left( \Psi^{R}_{local} \right) \, d\mu
 $$
+
 Local harmonics contribute to the global Renewal field  
 through harmonic correspondence (MHᴿ).
 
@@ -89,6 +94,7 @@ A local Renewal harmonic is globally coherent when:
 $$
 H^{R}_{local} \in \ker\!\left( g^{R U} - \lambda I \right)
 $$
+
 Meaning:
 
 - local harmonics must be eigenmodes of the Unity Metric (gᴿᵁ),  
@@ -105,6 +111,7 @@ Local and global Renewal harmonics are entrained when:
 $$
 \left\langle H^{R}_{local}, H^{R}_{global} \right\rangle \ge 0
 $$
+
 Positive overlap → reinforcement  
 Negative overlap → purification
 
@@ -119,6 +126,7 @@ Coherence is preserved under scale transformation:
 $$
 H^{R}(\lambda x) \;\cong\; H^{R}(x)
 $$
+
 for any scaling factor λ.
 
 This expresses Renewal’s scale-invariant unity.

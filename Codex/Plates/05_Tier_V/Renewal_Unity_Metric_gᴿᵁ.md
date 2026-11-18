@@ -34,6 +34,7 @@ The Renewal Unity Metric between two Continuum states Ψ₁ and Ψ₂ is defined
 $$
 g^{R U}(\Psi_{1},\, \Psi_{2}) = \left\langle \Pi^{R}(\Psi_{1}), \, \Pi^{R}(\Psi_{2}) \right\rangle + \mathcal{C}^{H}_{R}(\Psi_{1},\, \Psi_{2}) - \operatorname{div}_{R}\!\left( J^{R} \right)
 $$
+
 It combines:
 
 1. **Alignment Term**  
@@ -56,6 +57,7 @@ In tensor notation:
 $$
 g^{R U} = g^{R} \;\oplus\; H^{R} \;\oplus\; T^{R}_{t}
 $$
+
 Where:
 
 - **gᴿ** — local Renewal Metric (Tier I)  
@@ -73,6 +75,7 @@ The Renewal Unity Distance between two states Ψ₁ and Ψ₂ is:
 $$
 d^{R U}(\Psi_{1},\, \Psi_{2}) = \sqrt{ g^{R U}\!\left( \Psi_{1} - \Psi_{2}, \, \Psi_{1} - \Psi_{2} \right) }
 $$
+
 Interpretation:
 
 - **small dᴿᵁ** → states are highly unified and aligned  
@@ -89,6 +92,7 @@ The Renewal Unity Curvature is defined as:
 $$
 \mathcal{R}^{R U} = \operatorname{curvature}(g^{R U})
 $$
+
 This curvature encodes:
 
 - unity bending,  
@@ -118,11 +122,13 @@ Ensures unity is non-destructive.
 $$
 g^{R U}(\Psi_{1},\, \Psi_{2}) = g^{R U}(\Psi_{2},\, \Psi_{1})
 $$
+
 ### 3. Renewal Covariance
 
 $$
 g^{R U}(\mathcal{U}^{I}_{R}\Psi_{1},\, \mathcal{U}^{I}_{R}\Psi_{2}) = g^{R U}(\Psi_{1},\, \Psi_{2})
 $$
+
 Ensuring the metric is invariant under global Renewal flow.
 
 ---

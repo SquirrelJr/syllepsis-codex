@@ -34,6 +34,7 @@ The Unified Renewal Integrator is defined as:
 $$
 \mathcal{U}^{I}_{R} = \Pi^{R} \circ \mathcal{M}^{R} \circ \mathcal{E}^{R} \circ \Lambda \circ \mathcal{B}^{R} \circ \mathcal{R}^{E}_{R}
 $$
+
 meaning it is the **ordered composition** of all Renewal operators.
 
 A compact formulation is:
@@ -41,6 +42,7 @@ A compact formulation is:
 $$
 \mathcal{U}^{I}_{R} = \bigotimes_{i=1}^{N} \mathcal{T}^{R}_{i}
 $$
+
 where each 𝓣ᴿᵢ is a Renewal operator from Tiers I–IV,  
 combined through the Renewal tensor product.
 
@@ -53,6 +55,7 @@ The global Renewal state, Ψᴿ_total, evolves according to:
 $$
 \partial_{t} \Psi^{R}_{total} = \mathcal{U}^{I}_{R}\!\left( \Psi^{R}_{total} \right)
 $$
+
 This is the **meta-equation** describing Renewal’s unified evolution across all layers.
 
 Interpretation:
@@ -71,6 +74,7 @@ Renewal propagates **bidirectionally** through scales:
 $$
 \text{local} \;\xleftrightarrow{\;\mathcal{U}^{I}_{R}\;}\; \text{global}
 $$
+
 Meaning:
 
 - local alignment affects global coherence,  
@@ -119,6 +123,7 @@ The full Continuum must remain aligned:
 $$
 \left\langle \Psi^{R}_{total}, \Pi^{R}\!\left( \Psi^{R}_{total} \right) \right\rangle \ge 0
 $$
+
 Meaning:
 
 - the global Renewal state must be compatible with Renewal projection,  

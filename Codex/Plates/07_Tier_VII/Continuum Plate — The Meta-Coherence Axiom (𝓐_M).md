@@ -30,6 +30,7 @@ The Meta-Coherence Axiom asserts:
 $$
 \mathcal{A}_M : \forall T_g \in \text{Tier Hierarchy}, \; \Big( \mathcal{O}_R(T_g) \subseteq \mathcal{M}_S \Big) \;\land\; \mathrm{Inv}_{\mathcal{T}_I}(T_g) \;\implies\; \mathcal{L}_S \text{ preserved}
 $$
+
 Interpretation:
 
 If a tier:
@@ -55,6 +56,7 @@ Thus:
 $$
 \text{Invariance} + \text{Recursion} + \text{Conservation} \Rightarrow \text{Global Coherence}
 $$
+
 <br>
 Tier VII is therefore **closed under its own recursion.**
 

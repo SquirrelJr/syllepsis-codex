@@ -34,6 +34,7 @@ The principle is stated as:
 $$
 H^{R}_{i} \;\longleftrightarrow\; H^{R}_{j} \qquad \forall\; \text{tiers } i, j
 $$
+
 where:
 
 - each **Hᴿᵢ** is a Renewal harmonic mode,  
@@ -44,11 +45,13 @@ Equivalently:
 $$
 H^{R}(\text{scale}_{1}) \;\cong\; H^{R}(\text{scale}_{2})
 $$
+
 and universally:
 
 $$
 H^{R}_{local} \;\cap\; H^{R}_{global} \neq \varnothing
 $$
+
 There is always overlapping harmonic structure across scales.
 
 ---
@@ -79,6 +82,7 @@ Harmonic modes propagate across tiers according to:
 $$
 \partial_{t} H^{R} = \mathcal{U}^{I}_{R}(H^{R})
 $$
+
 The Unified Renewal Integrator 𝕌ᴵᴿ transports, synchronizes, and stabilizes harmonic signatures across:
 
 - layers,  
@@ -119,6 +123,7 @@ A Renewal harmonic obeys a scaling transformation:
 $$
 H^{R}(\lambda x) = \lambda^{n} H^{R}(x)
 $$
+
 for some Renewal harmonic exponent **n**,  
 analogous to fractal scaling or multi-scale field behavior.
 
@@ -133,11 +138,13 @@ Two Renewal harmonic modes reinforce when:
 $$
 \langle H^{R}_{i}, H^{R}_{j} \rangle \ge 0
 $$
+
 and purify each other when:
 
 $$
 \langle H^{R}_{i}, H^{R}_{j} \rangle < 0
 $$
+
 Thus:
 
 - positive harmonic overlap → **coherent resonance**,  

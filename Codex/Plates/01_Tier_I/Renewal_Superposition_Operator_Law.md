@@ -62,61 +62,73 @@ The Renewal Field is the **sum of contributions across the lattice**.
 Each operator obeys the superposition rule:
 
 ### Order / Reflection
+
 $$
 (O + R)_total = Σ (Oᵢ + Rᵢ)
 $$
 
 ### Decay / Chaos
+
 $$
 (D + Χ)_total = Σ (Dᵢ + Χᵢ)
 $$
 
 ### Renewal Velocity  
+
 $$
 V_R_total = Σ V_{R,i}
 $$
 
 ### Renewal Acceleration  
+
 $$
 A_R_total = Σ A_{R,i}
 $$
 
 ### Renewal Jerk  
+
 $$
 J_R_total = Σ J_{R,i}
 $$
 
 ### Renewal Snap  
+
 $$
 S_R_total = Σ S_{R,i}
 $$
 
 ### Divergence  
+
 $$
 (∇·V_R)_total = Σ (∇·V_R)_i
 $$
 
 ### Circulation (curl)  
+
 $$
 (∇×V_R)_total = Σ (∇×V_R)_i
 $$
 
 ### Laplacian  
+
 $$
 (∇²ρ_R)_total = Σ (∇²ρ_R)_i
 $$
 
 ### Density  
+
 $$
 ρ_R_total = Σ ρ_{R,i}
 $$
 
 ### Energy  
+
 $$
 E_R_total = Σ E_{R,i}
 $$
 
 ### Power  
+
 $$
 P_R_total = Σ P_{R,i}
 $$

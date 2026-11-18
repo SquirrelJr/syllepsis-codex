@@ -27,6 +27,7 @@ The Renewal Interaction Lagrangian is defined as:
 $$
 𝓛ᴿ_{int} = \frac{1}{2} 𝓘ᴿ^{μν} gᴿ_{μν} + κᴿ_O \, (Oᴿ_μ Oᴿ^{μ}) - κᴿ_Χ \, (Χᴿ_μ Χᴿ^{μ}) + κᴿ_C \, (Cᴿ_μ Cᴿ^{μ}) + κᴿ_R \, (Rᴿ_μ Rᴿ^{μ}) + κᴿ_D \, (Dᴿ_μ Dᴿ^{μ}) + ηᴿ \, (𝒥ᴿ^{μ} ∇_{μ} ρᴿ)
 $$
+
 where:
 
 - **𝓘ᴿ** = Renewal Interaction Tensor  
@@ -54,6 +55,7 @@ Variation of the action yields the **Renewal Interaction Field Equations** via:
 $$
 \frac{∂𝓛}{∂φ} - ∇_{μ} \left( \frac{∂𝓛}{∂(∇_{μ} φ)} \right) = 0
 $$
+
 for each Renewal operator **φ ∈ {Oᴿ, Χᴿ, Cᴿ, Rᴿ, Dᴿ, ρᴿ, 𝒥ᴿ}**.
 
 These Euler–Lagrange equations describe the dynamics of coupled Renewal fields.

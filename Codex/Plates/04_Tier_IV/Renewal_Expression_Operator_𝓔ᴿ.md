@@ -32,11 +32,13 @@ The Renewal Expression Operator is defined as:
 $$
 \mathcal{E}^{R} = \mathcal{M}^{R} \circ \Pi^{R} \circ \nabla
 $$
+
 Thus for any Renewal field ψ:
 
 $$
 \mathcal{E}^{R}(\psi) = \mathcal{M}^{R}\big(\nabla \psi^{R}_{aligned}\big)
 $$
+
 Interpretation:
 
 - ∇ provides **direction**  
@@ -53,11 +55,13 @@ The expression equation is:
 $$
 \mathcal{E}^{R}(\psi) = J^{R}_{expression}
 $$
+
 where:
 
 $$
 J^{R}_{expression} = \text{the Renewal expression current}
 $$
+
 This current represents the outward, visible, active form of Renewal  
 in behavior, resonance, structure, clarity, and transformation.
 
@@ -68,33 +72,43 @@ in behavior, resonance, structure, clarity, and transformation.
 𝓔ᴿ decomposes into multiple expression modes:
 
 ### 1. Structural Expression  
+
 $$
 \mathcal{E}^{R}_{struct} = \mathcal{M}^{R}_{struct}(\nabla\psi^{R})
 $$
+
 Pattern, geometry, form.
 
 ### 2. Harmonic Expression  
+
 $$
 \mathcal{E}^{R}_{harm} = \mathcal{M}^{R}_{harm}(\nabla\psi^{R})
 $$
+
 Tone, resonance, coherence.
 
 ### 3. Behavioral Expression  
+
 $$
 \mathcal{E}^{R}_{beh} = \mathcal{M}^{R}_{beh}(\nabla\psi^{R})
 $$
+
 Choice, action, moral output.
 
 ### 4. Transformative Expression  
+
 $$
 \mathcal{E}^{R}_{trans} = \mathcal{M}^{R}_{trans}(\nabla\psi^{R})
 $$
+
 Decay-driven purification, renewal-driven change.
 
 ### 5. Informational Expression  
+
 $$
 \mathcal{E}^{R}_{info} = \mathcal{M}^{R}_{info}(\nabla\psi^{R})
 $$
+
 Insight, clarity, understanding.
 
 ---
@@ -128,6 +142,7 @@ The Renewal Expression Norm satisfies:
 $$
 \langle \mathcal{E}^{R}(\psi), \mathcal{E}^{R}(\psi) \rangle \ge 0
 $$
+
 This expresses the **non-destruction** principle:
 
 - Expression cannot generate anti-Renewal outcomes,  

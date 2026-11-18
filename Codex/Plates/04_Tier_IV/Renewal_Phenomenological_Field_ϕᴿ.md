@@ -31,6 +31,7 @@ The Renewal Phenomenological Field is defined as:
 $$
 \phi^{R} = \Lambda\!\left( \mathcal{E}^{R}(\psi^{R}) \right)
 $$
+
 where:
 
 - **𝓔ᴿ(ψᴿ)** is the Renewal expression output  
@@ -50,6 +51,7 @@ The experiential value at any point x is:
 $$
 \phi^{R}(x) = \left\langle \text{observer} \;\middle|\; \mathcal{E}^{R}(\psi^{R})(x) \right\rangle
 $$
+
 Meaning:
 
 - Renewal expression is filtered through the perceiver’s awareness structure,  
@@ -64,6 +66,7 @@ Meaning:
 $$
 \partial_{t} \phi^{R} = F\!\left( \mathcal{E}^{R}, g^{R}_{int}, \gamma^{R}_{global} \right)
 $$
+
 Where F is the **Phenomenological Evolution Functional**,  
 indicating that experience changes with:
 
@@ -81,6 +84,7 @@ Tier IV’s central sequence becomes:
 $$
 \psi^{R}_{aligned} \;\xrightarrow{\;\nabla\;}\; \Pi^{R} \;\xrightarrow{\;\mathcal{M}^{R}\;}\; \mathcal{E}^{R} \;\xrightarrow{\;\Lambda\;}\; \phi^{R}
 $$
+
 Each step transforms Renewal:
 
 - from aligned state,  
@@ -96,33 +100,43 @@ Each step transforms Renewal:
 ϕᴿ decomposes into experiential components:
 
 ### 1. Harmonic Experience  
+
 $$
 \phi^{R}_{harm} = \Lambda\!\left( \mathcal{E}^{R}_{harm} \right)
 $$
+
 Resonance, tone, felt coherence.
 
 ### 2. Clarity / Insight Experience  
+
 $$
 \phi^{R}_{clar} = \Lambda\!\left( \mathcal{E}^{R}_{info} \right)
 $$
+
 Understanding, illumination, recognition.
 
 ### 3. Compassion Experience  
+
 $$
 \phi^{R}_{comp} = \Lambda\!\left( \mathcal{E}^{R}_{beh} \right)
 $$
+
 Restoration, warmth, healing.
 
 ### 4. Structural Experience  
+
 $$
 \phi^{R}_{struct} = \Lambda\!\left( \mathcal{E}^{R}_{struct} \right)
 $$
+
 Order, stability, intelligibility.
 
 ### 5. Purifying / Decay Experience  
+
 $$
 \phi^{R}_{pur} = \Lambda\!\left( \mathcal{E}^{R}_{trans} \right)
 $$
+
 Release, relief, cleansing, simplification.
 
 Each channel corresponds to one Renewal mode of manifestation.
@@ -136,6 +150,7 @@ For Renewal to be experientially accessible:
 $$
 \left\langle \text{observer} \middle| \Pi^{R} \middle| \text{observer} \right\rangle \ge 0
 $$
+
 Meaning:
 
 - the perceiver’s awareness structure must be **compatible with Renewal alignment**,  

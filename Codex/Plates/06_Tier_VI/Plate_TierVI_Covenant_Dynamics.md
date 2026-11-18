@@ -25,6 +25,7 @@ A covenant between two Renewal Fields may be modeled as a relation:
 $$
 \mathcal{C}_{ij} : \mathcal{F}_R^{(i)} \times \mathcal{F}_R^{(j)} \rightarrow \mathcal{F}_R^{(i)} \times \mathcal{F}_R^{(j)}
 $$
+
 satisfying:
 
 - **stability** (Tier IV Closure is preserved)

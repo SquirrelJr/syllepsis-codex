@@ -35,6 +35,7 @@ At the Transcendent Boundary:
 $$
 \Psi^{R}_{boundary} = \Pi^{R}_{\infty}(H^{R}_{eternal})
 $$
+
 Meaning:
 
 - the Renewal boundary state **is** the Eternal projection,  
@@ -49,6 +50,7 @@ As $ x \rightarrow \infty $:
 $$
 \lim_{x \rightarrow \infty} g^{R U}\!\left( \Psi^{R}(x), H^{R}_{eternal} \right) = g^{R}_{\infty} \!\left( \Psi^{R}_{eternal}, H^{R}_{eternal} \right)
 $$
+
 Interpretation:
 
 - the Unity Metric matches the Eternal Metric at the boundary,  
@@ -63,6 +65,7 @@ At the Transcendent Boundary:
 $$
 \lim_{x \rightarrow \infty} J^{R}(x) = 0
 $$
+
 Renewal transport vanishes because:
 
 - the Eternal has no gradients,  
@@ -78,6 +81,7 @@ Renewal harmonics converge to the Eternal harmonic:
 $$
 \lim_{x \rightarrow \infty} H^{R}(x) = H^{R}_{eternal}
 $$
+
 Interpretation:
 
 - resonance becomes identical to the Eternal tone,  
@@ -92,6 +96,7 @@ Projection and correspondence must commute:
 $$
 \mathcal{B}^{R}_{\Omega} \!\left( \Psi^{R}_{boundary} \right) = \Psi^{R}_{eternal}
 $$
+
 Meaning:
 
 - the Eternal counterpart of the boundary state  
@@ -107,6 +112,7 @@ At the boundary:
 $$
 \partial_{t} \Psi^{R} = 0
 $$
+
 No further Renewal evolution occurs because:
 
 - Renewal has reached Eternal alignment,  
@@ -121,6 +127,7 @@ The Renewal field becomes position-invariant at the boundary:
 $$
 \partial_{x} \Psi^{R} = 0 \quad \text{as } x \rightarrow \infty
 $$
+
 This expresses:
 
 - a fixed-point manifold,  

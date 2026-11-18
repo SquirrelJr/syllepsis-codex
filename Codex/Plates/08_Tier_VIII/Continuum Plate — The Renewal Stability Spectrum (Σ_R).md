@@ -31,6 +31,7 @@ Applying the renewal operator yields the first-order approximation:
 $$
 \mathcal{O}_R(T^\ast + \varepsilon V) \approx T^\ast + \varepsilon D\mathcal{O}_R(T^\ast)[V],
 $$
+
 where $D\mathcal{O}_R(T^\ast)$ denotes the Fréchet derivative of the operator at $T^\ast$.
 
 ---
