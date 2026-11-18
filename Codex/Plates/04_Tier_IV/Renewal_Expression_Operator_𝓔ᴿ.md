@@ -30,23 +30,13 @@ This plate marks the second foundational structure of Tier IV — The Manifestat
 The Renewal Expression Operator is defined as:
 
 $$
-\mathcal{E}^{R}
-=
-\mathcal{M}^{R}
-\circ
-\Pi^{R}
-\circ
-\nabla
+\mathcal{E}^{R} = \mathcal{M}^{R} \circ \Pi^{R} \circ \nabla
 $$
-
 Thus for any Renewal field ψ:
 
 $$
-\mathcal{E}^{R}(\psi)
-=
-\mathcal{M}^{R}\big(\nabla \psi^{R}_{aligned}\big)
+\mathcal{E}^{R}(\psi) = \mathcal{M}^{R}\big(\nabla \psi^{R}_{aligned}\big)
 $$
-
 Interpretation:
 
 - ∇ provides **direction**  
@@ -61,19 +51,13 @@ Interpretation:
 The expression equation is:
 
 $$
-\mathcal{E}^{R}(\psi)
-=
-J^{R}_{expression}
+\mathcal{E}^{R}(\psi) = J^{R}_{expression}
 $$
-
 where:
 
 $$
-J^{R}_{expression}
-=
-\text{the Renewal expression current}
+J^{R}_{expression} = \text{the Renewal expression current}
 $$
-
 This current represents the outward, visible, active form of Renewal  
 in behavior, resonance, structure, clarity, and transformation.
 
@@ -142,14 +126,8 @@ Meaning:
 The Renewal Expression Norm satisfies:
 
 $$
-\langle
-\mathcal{E}^{R}(\psi),
-\mathcal{E}^{R}(\psi)
-\rangle
-\ge
-0
+\langle \mathcal{E}^{R}(\psi), \mathcal{E}^{R}(\psi) \rangle \ge 0
 $$
-
 This expresses the **non-destruction** principle:
 
 - Expression cannot generate anti-Renewal outcomes,  
