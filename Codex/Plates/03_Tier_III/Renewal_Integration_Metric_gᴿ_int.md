@@ -24,82 +24,103 @@ gᴿ_int is the “macro-geometry” of the Renewal Continuum.
 
 The Renewal Integration Metric incorporates contributions from:
 
-- **local Renewal geometry** gᴿ  
-- **coherence structures** γᴿ  
-- **multisystem coupling** Mᴿ_sys  
-- **harmonic global modes** Σᴿ  
-- **integration coefficients** α₁, α₂, α₃  
+- **local Renewal geometry** gᴿ
+- **coherence structures** γᴿ
+- **multisystem coupling** Mᴿ_sys
+- **harmonic global modes** Σᴿ
+- **integration coefficients** α₁, α₂, α₃
 
-It is defined as:
+A tensor-compatible formulation, in a common coordinate chart on the proposed Renewal manifold, is:
 
 $$
-gᴿ_{int}=gᴿ+ α_{1} \, γᴿ_{AB}+ α_{2} \, Mᴿ_{sys}+ α_{3} \, Σᴿ_{global}
+g^R_{\mathrm{int},ij}=g^R_{ij}+\alpha_1 C^R_{ij}+\alpha_2\mathsf{M}^R_{ij}+\alpha_3\mathsf{\Sigma}^R_{ij}
 $$
 
 where:
 
-- **gᴿ** = Renewal Metric from Tier I  
-- **γᴿ_AB** = Renewal coherence between systems A and B  
-- **Mᴿ_sys** = multisystem Renewal coupling integral  
-- **Σᴿ_global** = long-range/global Renewal harmonic spectrum  
-- **αᵢ** = Integration Weight Coefficients governing global influence
+- **$g^R_{ij}$** = local Renewal Metric from Tier I.
+- **$C^R_{ij}$** = proposed symmetric rank-two tensor constructed from intersystem coherence data $\gamma^R_{AB}$.
+- **$\mathsf{M}^R_{ij}$** = proposed symmetric rank-two tensor constructed from multisystem coupling data $M^R_{\mathrm{sys}}$.
+- **$\mathsf{\Sigma}^R_{ij}$** = proposed symmetric rank-two tensor constructed from global harmonic data $\Sigma^R_{\mathrm{global}}$.
+- **$\alpha_1,\alpha_2,\alpha_3$** = integration weights with units chosen to make the terms compatible.
 
-This structure unifies all Renewal subsystems into a coherent global geometry.
+**Tensor compatibility condition.** All four terms must be covariant rank-two tensors defined on the same manifold, with compatible units. For a Riemannian metric, the weighted sum must be symmetric and positive definite; for a pseudo-Riemannian metric, it must be nondegenerate with the intended signature. The mappings from coherence, coupling, and harmonic observations into tensor fields are **proposed constructions**, not yet derived in this plate. In particular, a scalar coupling integral or a harmonic spectrum cannot be added directly to a metric without such a mapping.
+
+This structure proposes a unified global geometry for interacting Renewal subsystems.
 
 ---
 
 ## III. Renewal Integration Curvature
 
-From the Integration Metric comes the Integration Curvature Tensor:
+Once a sufficiently smooth, nondegenerate integration metric is specified, its Levi-Civita connection is defined by:
 
 $$
-ℛᴿ_{int} =ℛ(gᴿ_{int})=gᴿ_{int}{}^{-1}\cdot(∇ gᴿ_{int})\cdot(∇ gᴿ_{int})
+\Gamma^k{}_{ij}=\frac{1}{2}g_{\mathrm{int}}^{k\ell}\left(\partial_i g^R_{\mathrm{int},j\ell}+\partial_j g^R_{\mathrm{int},i\ell}-\partial_\ell g^R_{\mathrm{int},ij}\right)
 $$
 
-This curvature describes:
+The corresponding Riemann curvature tensor, with the convention fixed by the expression below, is:
 
-- system-wide Renewal bending  
-- global coherence gradients  
-- large-scale Renewal distortions and corrections  
-- harmonically induced macro-curvature  
+$$
+\mathcal{R}^{\ell}{}_{ijk}=\partial_j\Gamma^{\ell}{}_{ik}-\partial_k\Gamma^{\ell}{}_{ij}+\Gamma^m{}_{ik}\Gamma^{\ell}{}_{mj}-\Gamma^m{}_{ij}\Gamma^{\ell}{}_{mk}
+$$
 
-High ℛᴿ_int indicates tension or misalignment across systems.  
-Low ℛᴿ_int indicates widespread harmony.
+Here $g_{\mathrm{int}}^{ij}$ denotes inverse metric components. Contraction yields the Ricci tensor and the scalar curvature $\mathcal{R}^R_{\mathrm{int}}$; the scalar curvature is distinct from the full Riemann tensor.
+
+This curvature may be used to study:
+
+- system-wide Renewal bending
+- global coherence gradients, when linked to a defined coherence field
+- large-scale Renewal distortions and corrections
+- harmonically induced macro-curvature, if supported by a specified coupling model
+
+Interpreting high curvature as misalignment and low curvature as harmony remains a **model hypothesis** rather than a general mathematical consequence.
 
 ---
 
 ## IV. Integration Lengthscale
 
-The Renewal Integration Lengthscale is defined as:
+Where scalar curvature is nonzero and has units of inverse length squared, define a local curvature lengthscale:
 
 $$
-Lᴿ_{int}=\frac{1}{\sqrt{|ℛᴿ_{int}|}}
+L^R_{\mathrm{int}}=\frac{1}{\sqrt{|\mathcal{R}^R_{\mathrm{int}}|}}
 $$
 
-This lengthscale represents the **reach of global Renewal coherence**:
+This is a curvature-derived scale, **not automatically a coherence propagation length**. Its physical interpretation depends on the proposed Renewal model. Where scalar curvature vanishes, this expression diverges or is undefined as a finite scale; vanishing scalar curvature also does not imply that the full Riemann curvature tensor vanishes.
 
-- large Lᴿ_int → Renewal coherence spreads far  
-- small Lᴿ_int → Renewal coherence is localized  
+A possible model-dependent interpretation is:
+
+- large $L^R_{\mathrm{int}}$ → weaker scalar curvature over the chosen length units
+- small $L^R_{\mathrm{int}}$ → stronger scalar curvature over those units
+
+A separate propagation law would be needed to establish how far Renewal coherence spreads.
 
 ---
 
 ## V. Global Renewal Pathways
 
-Paths that minimize gᴿ_int represent:
+For a path $x^i(\lambda)$ in a region where the integration metric is positive definite, the arc-length functional is:
 
 $$
-δ \int gᴿ_{int} \, ds = 0
+\mathcal{L}[x]=\int_{\lambda_0}^{\lambda_1}\sqrt{g^R_{\mathrm{int},ij}(x)\frac{dx^i}{d\lambda}\frac{dx^j}{d\lambda}}\,d\lambda
 $$
 
-These are the **Renewal Integration Geodesics**, the global “least-distortion” pathways.
+The geodesic variational condition for fixed endpoints is:
 
-They represent:
+$$
+\delta\mathcal{L}[x]=0
+$$
 
-- paths of highest alignment  
-- channels of strongest Renewal  
-- coherence-maximizing trajectories  
-- macro-renewal flow lines  
-- ethical/harmonic equilibrium routes  
+Geodesics are **stationary-length paths** and need not be globally shortest. For a pseudo-Riemannian signature, the appropriate length or proper-time functional must be selected according to the type of path.
+
+Within a further specified Renewal model, such pathways might be investigated as:
+
+- paths of high alignment
+- channels of sustained Renewal
+- coherence-supporting trajectories
+- macro-renewal flow lines
+- ethical or harmonic equilibrium analogies
+
+These interpretations do not follow from geodesic stationarity alone; they require additional definitions and evidence.
 
 ---
 
