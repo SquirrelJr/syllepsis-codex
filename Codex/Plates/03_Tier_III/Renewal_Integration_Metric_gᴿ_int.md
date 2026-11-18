@@ -30,24 +30,26 @@ The Renewal Integration Metric incorporates contributions from:
 - **harmonic global modes** Σᴿ  
 - **integration coefficients** α₁, α₂, α₃  
 
-It is defined as:
+In a common coordinate chart on the Renewal manifold, the proposed integration metric is defined componentwise as:
 
 $$
-gᴿ_{int}
+g^R_{\\mathrm{int},ij}
 =
-gᴿ
-+ α_{1} \, γᴿ_{AB}
-+ α_{2} \, Mᴿ_{sys}
-+ α_{3} \, Σᴿ_{global}
+g^R_{ij}
++\\alpha_1\\,\\Gamma^R_{ij}
++\\alpha_2\\,\\mathsf{M}^R_{ij}
++\\alpha_3\\,\\mathsf{\\Sigma}^R_{ij}.
 $$
 
-where:
+Here:
 
-- **gᴿ** = Renewal Metric from Tier I  
-- **γᴿ_AB** = Renewal coherence between systems A and B  
-- **Mᴿ_sys** = multisystem Renewal coupling integral  
-- **Σᴿ_global** = long-range/global Renewal harmonic spectrum  
-- **αᵢ** = Integration Weight Coefficients governing global influence
+- **$g^R_{ij}$** is the local Renewal Metric from Tier I.
+- **$\\Gamma^R_{ij}$** is a rank-two tensor representation constructed from intersystem coherence $\\gamma^R_{AB}$.
+- **$\\mathsf{M}^R_{ij}$** is a rank-two tensor representation of the multisystem coupling $M^R_{\\mathrm{sys}}$.
+- **$\\mathsf{\\Sigma}^R_{ij}$** is a rank-two tensor representation constructed from global harmonic modes $\\Sigma^R_{\\mathrm{global}}$.
+- **$\\alpha_1,\\alpha_2,\\alpha_3$** are integration weights chosen with appropriate units.
+
+**Tensor compatibility condition.** The three added contributions must be defined on the same manifold and transform as symmetric covariant rank-two tensors under changes of coordinates. A scalar coupling integral or a harmonic spectrum cannot be added directly to a metric without a specified tensor-valued construction. The resulting $g^R_{\\mathrm{int}}$ must remain nondegenerate and have the intended signature (positive definite for a Riemannian interpretation). The detailed maps from coherence, coupling, and harmonic data to these tensors remain subjects for subsequent derivation.
 
 This structure unifies all Renewal subsystems into a coherent global geometry.
 
@@ -55,18 +57,29 @@ This structure unifies all Renewal subsystems into a coherent global geometry.
 
 ## III. Renewal Integration Curvature
 
-From the Integration Metric comes the Integration Curvature Tensor:
+From the Integration Metric, define the Levi-Civita connection and its Riemann curvature tensor:
 
 $$
-ℛᴿ_{int} =
-ℛ(gᴿ_{int})
+\\Gamma^{k}_{ij}
 =
-gᴿ_{int}{}^{-1}
-\cdot
-(∇ gᴿ_{int})
-\cdot
-(∇ gᴿ_{int})
+\\frac12 g_{\\mathrm{int}}^{k\\ell}
+\\left(
+\\partial_i g^R_{\\mathrm{int},j\\ell}
++\\partial_j g^R_{\\mathrm{int},i\\ell}
+-\\partial_\\ell g^R_{\\mathrm{int},ij}
+\\right),
 $$
+
+$$
+\\mathcal R^{\\ell}{}_{ijk}
+=
+\\partial_j\\Gamma^{\\ell}_{ik}
+-\\partial_k\\Gamma^{\\ell}_{ij}
++\\Gamma^{m}_{ik}\\Gamma^{\\ell}_{mj}
+-\\Gamma^{m}_{ij}\\Gamma^{\\ell}_{mk}.
+$$
+
+Here $g_{\\mathrm{int}}^{ij}$ denotes the inverse metric components; the curvature convention is fixed by the displayed expression. Contracting the Riemann tensor yields the Ricci tensor and scalar curvature $\\mathcal R^R_{\\mathrm{int}}$. Unlike the full curvature tensor, this scalar can be used in the proposed lengthscale below.
 
 This curvature describes:
 
@@ -90,7 +103,7 @@ Lᴿ_{int}
 \frac{1}{\sqrt{|ℛᴿ_{int}|}}
 $$
 
-This lengthscale represents the **reach of global Renewal coherence**:
+When scalar curvature has units of inverse length squared and is nonzero, this expression defines a local curvature lengthscale. It may serve as a model-dependent proxy for the reach of global Renewal coherence, but is not automatically a measured coherence length:
 
 - large Lᴿ_int → Renewal coherence spreads far  
 - small Lᴿ_int → Renewal coherence is localized  
