@@ -33,17 +33,8 @@ This is the culmination of Tier IV — the final transformation before Tier V.
 The Embodied Alignment Principle is defined as:
 
 $$
-\text{EAP}^{R}(\psi^{R})
-=
-\Pi^{R}(\psi^{R})
-+
-\mathcal{R}^{E}_{R}(\psi^{R})
-+
-\mathcal{B}^{R}(a)
-\;\longrightarrow\;
-\chi^{R}_{embodied}
+\text{EAP}^{R}(\psi^{R}) = \Pi^{R}(\psi^{R}) + \mathcal{R}^{E}_{R}(\psi^{R}) + \mathcal{B}^{R}(a) \;\longrightarrow\; \chi^{R}_{embodied}
 $$
-
 where:
 
 - **Πᴿ(ψᴿ)** → aligned state  
@@ -61,15 +52,8 @@ Interpretation:
 Identity evolves according to:
 
 $$
-\partial_{t} \chi^{R}
-=
-\Pi^{R}(\psi^{R})
-+
-\mathcal{R}^{E}_{R}(\psi^{R})
-+
-\mathcal{B}^{R}(a)
+\partial_{t} \chi^{R} = \Pi^{R}(\psi^{R}) + \mathcal{R}^{E}_{R}(\psi^{R}) + \mathcal{B}^{R}(a)
 $$
-
 This equation expresses:
 
 - alignment of intention,  
@@ -117,14 +101,8 @@ Only when all six conditions hold does embodiment stabilize.
 The embodied state must satisfy:
 
 $$
-\langle
-\chi^{R},
-\Pi^{R}(\chi^{R})
-\rangle
-\ge
-0
+\langle \chi^{R}, \Pi^{R}(\chi^{R}) \rangle \ge 0
 $$
-
 That is:
 
 - identity must be compatible with Renewal projection,  
