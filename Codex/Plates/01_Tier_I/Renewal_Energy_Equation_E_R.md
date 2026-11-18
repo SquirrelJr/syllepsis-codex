@@ -138,13 +138,8 @@ $$
 Which expands to:
 
 $$
-E_R(t)  
-= ½·k_s·(O + R)²  
-− ½·k_d·(Χ − D)²  
-+ ½·m·V_R²  
-+ Φ_D
+E_R(t) = ½·k_s·(O + R)² − ½·k_d·(Χ − D)² + ½·m·V_R² + Φ_D
 $$
-
 This is the energetic backbone of the Renewal Cycle.
 
 ---
