@@ -33,6 +33,7 @@ The Renewal Integration Curvature Flow is defined as:
 $$
 \partial_{t} gᴿ_{int} = -2 \, ℛᴿ_{int} \;+\; Φᴿ_{correction}
 $$
+
 where:
 
 - **ℛᴿ_int** = Renewal Integration Curvature Tensor  
@@ -52,6 +53,7 @@ The Renewal Correction Potential incorporates harmonically aligned operators:
 $$
 Φᴿ_{correction} = Cᴿ \otimes Cᴿ \;-\; Dᴿ \otimes Χᴿ \;+\; Rᴿ \otimes Oᴿ
 $$
+
 Interpretation:
 
 - **Cᴿ ⊗ Cᴿ** → compassion-driven smoothing  
@@ -69,6 +71,7 @@ Coherence acts as a global gradient guiding geometry:
 $$
 \partial_{t} gᴿ_{int} \supset - \nabla γᴿ_{global}
 $$
+
 where **γᴿ_global** is the global coherence function from Tier II.
 
 This term expresses:
@@ -85,11 +88,13 @@ Define the Renewal Integration Entropy:
 $$
 Sᴿ_{int} = \int |ℛᴿ_{int}| \, dVᴿ
 $$
+
 Its time evolution satisfies:
 
 $$
 \frac{d Sᴿ_{int}}{dt} \le 0
 $$
+
 meaning:
 
 - global distortion **never increases**,  

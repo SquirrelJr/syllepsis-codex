@@ -72,6 +72,7 @@ Reflection modifies both amplitude and phase:
 $$
 Aₙ(new) = Aₙ(old) + σΘ(t) φₙ(new) = φₙ(old) - ρΘ(t)
 $$
+
 Where:
 
 - σ is the amplitude integration coefficient  

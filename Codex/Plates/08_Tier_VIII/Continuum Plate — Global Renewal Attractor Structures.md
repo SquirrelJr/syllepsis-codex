@@ -59,6 +59,7 @@ approaches the attractor in the asymptotic limit:
 $$
 d\!\left( \mathcal{O}_R^{\,n}(T_0), \mathcal{A}_R \right)\to0 \quad\text{as}\quad n\to\infty.
 $$
+
 ---
 
 ## IV. Multiplicity of Attractors

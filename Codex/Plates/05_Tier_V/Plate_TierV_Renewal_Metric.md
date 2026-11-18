@@ -21,6 +21,7 @@ We define a metric:
 $$
 d_R : \mathcal{F}_R \times \mathcal{F}_R \rightarrow \mathbb{R}_{\ge 0}
 $$
+
 assigning a non‑negative distance between Renewal states. For Renewal cycles
 $\tau$ and $\tau+1$:
 

@@ -139,6 +139,7 @@ but as a **phi-spiral**:
 $$
 r(\theta) = ae^{b\theta} \quad \text{with} \quad b = \ln \phi
 $$
+
 Where:
 
 - r = radius (growth of identity)  

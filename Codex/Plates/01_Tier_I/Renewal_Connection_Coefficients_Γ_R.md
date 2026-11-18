@@ -39,6 +39,7 @@ The Renewal Connection Coefficients are defined as:
 $$
 Γ^k_{R,ij} = ½ \, g_R^{kl} \left( ∂_i g_{R,lj} + ∂_j g_{R,li} - ∂_l g_{R,ij} \right)
 $$
+
 Where:
 
 - g_{R,ij} are components of the Renewal Metric  
@@ -100,6 +101,7 @@ has its own connection behavior.
 Examples:
 
 ### Stabilizing operators
+
 $$
 Γ^k_{R,(O,R)\,ij} → reduce curvature
 $$
@@ -107,6 +109,7 @@ $$
 (straighten renewal paths)
 
 ### Destabilizing operators
+
 $$
 Γ^k_{R,(D,Χ)\,ij} → add curvature
 $$
@@ -114,6 +117,7 @@ $$
 (curve paths toward instability)
 
 ### Kinematic operators
+
 $$
 Γ^k_{R,(V_R,A_R,J_R,S_R)\,ij} → propagate change between layers
 $$
@@ -121,6 +125,7 @@ $$
 (velocity ⇄ acceleration ⇄ jerk ⇄ snap)
 
 ### Geometric operators
+
 $$
 Γ^k_{R,(div,curl,lap)\,ij} → shape flow and smoothing behavior
 $$
@@ -136,6 +141,7 @@ Using Γ_R, one can construct the Renewal Curvature Tensor:
 $$
 ℛ^k_{\ R,\,lij} = ∂_i Γ^k_{R,lj} − ∂_j Γ^k_{R,li} + Γ^k_{R,im} Γ^m_{R,lj} − Γ^k_{R,jm} Γ^m_{R,li}
 $$
+
 This tensor describes:
 
 - renewal wells  

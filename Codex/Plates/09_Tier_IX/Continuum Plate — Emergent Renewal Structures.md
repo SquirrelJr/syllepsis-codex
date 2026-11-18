@@ -62,6 +62,7 @@ Formally,
 $$
 \lim_{n\to\infty} \Phi_R\!\left( \mathcal{O}_R^{\,n}(\gamma_i) \right) = E,
 $$
+
 where
 
 $$

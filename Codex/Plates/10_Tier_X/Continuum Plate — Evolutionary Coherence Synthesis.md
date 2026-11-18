@@ -40,6 +40,7 @@ Formally,
 $$
 \mathfrak{E}_R = ( \mathcal{A}_D, \mathcal{L}_S, \mathcal{A}_E, \mathcal{G}_S, \mathcal{O}_C, \mathcal{E}_G ).
 $$
+
 ---
 
 ## III. Evolutionary Synthesis Condition
@@ -49,6 +50,7 @@ A recursively adaptive system exhibits Evolutionary Coherence Synthesis if recur
 $$
 \lim_{n\to\infty} \Upsilon_R^{\,n} \to \mathfrak{E}_R,
 $$
+
 where
 
 $$

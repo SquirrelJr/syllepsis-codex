@@ -47,6 +47,7 @@ Within the Harmonic Field Equation:
 $$
 F(t) = Σ Aₙ sin(ωₙ t + φₙ)
 $$
+
 OC(t) refines amplitude toward morally aligned harmonics:
 
 $$

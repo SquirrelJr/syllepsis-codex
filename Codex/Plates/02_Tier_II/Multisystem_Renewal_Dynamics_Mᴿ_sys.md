@@ -140,6 +140,7 @@ Define the compensation residual:
 $$
 \Deltaᴿ_{comp} = \left[\kappaᴿ_{D(A)} Dᴿ_A + \kappaᴿ_{D(B)} Dᴿ_B\right] - \left[\kappaᴿ_{Χ(A)} Χᴿ_A + \kappaᴿ_{Χ(B)} Χᴿ_B\right]
 $$
+
 The ideal balance condition is:
 
 $$

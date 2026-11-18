@@ -33,6 +33,7 @@ The theorem states:
 $$
 \text{CST}^{R}:\qquad \Psi^{R}_{total} \text{ is stable } \iff \left\langle \Psi^{R}_{total}, \Pi^{R}\!\left(\Psi^{R}_{total}\right) \right\rangle \ge 0 \quad\text{and}\quad \operatorname{div}_{R}(J^{R}) \le \varepsilon
 $$
+
 Where:
 
 - **Πᴿ** — Renewal projection operator  
@@ -55,6 +56,7 @@ Define the **Renewal Stability Functional**:
 $$
 S^{R} = \left\langle \Psi^{R}_{total}, \Pi^{R}\!\left(\Psi^{R}_{total}\right) \right\rangle
 $$
+
 Stability condition:
 
 $$
@@ -75,6 +77,7 @@ CSTᴿ describes three fundamental stability requirements:
 $$
 \Pi^{R}(\Psi^{R}_{total}) = \Psi^{R}_{total} \quad\text{(to first order)}
 $$
+
 Meaning:
 
 - the global Renewal state must be compatible with Renewal projection,  

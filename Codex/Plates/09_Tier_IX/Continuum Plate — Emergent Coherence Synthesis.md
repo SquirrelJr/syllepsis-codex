@@ -40,6 +40,7 @@ Formally,
 $$
 \mathfrak{S}_R = ( \mathcal{E}_R, \mathcal{S}_R, \mathcal{C}_R, \mathcal{N}_R, \mathcal{I}_R, \mathcal{L}_R ).
 $$
+
 ---
 
 ## III. Synthesis Condition
@@ -51,6 +52,7 @@ Formally,
 $$
 \lim_{n\to\infty} \Psi_R^{\,n} \to \mathfrak{S}_R,
 $$
+
 where
 
 $$

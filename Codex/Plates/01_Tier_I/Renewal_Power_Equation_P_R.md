@@ -34,6 +34,7 @@ Since:
 $$
 E_R(t) = ½·k_s·(O + R)² − ½·k_d·(Χ − D)² + ½·m·V_R² + Φ_D
 $$
+
 Then P_R(t) is the time derivative of this full expression.
 
 Interpretation:
@@ -76,6 +77,7 @@ $$
 → measures the change in renewal momentum.
 
 ### 4. Dissipative Contribution  
+
 $$
 dΦ_D/dt
 $$

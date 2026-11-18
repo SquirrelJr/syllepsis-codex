@@ -79,6 +79,7 @@ such that
 $$
 \gamma(0)\in U_1, \qquad \gamma(1)\in U_2.
 $$
+
 Disconnected domains correspond to dynamically inaccessible recursive phases.
 
 ---

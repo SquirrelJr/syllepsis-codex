@@ -86,6 +86,7 @@ Lower c_R → sluggish recovery, slow recognition, protracted stagnation.
 The Renewal Wave Equation supports:
 
 ### 1. **Traveling Renewal Waves**
+
 $$
 ρ_R(x,t) = A · sin(kx − ωt + φ)
 $$
@@ -93,6 +94,7 @@ $$
 Insight or coherence moves outward as a renewing pulse.
 
 ### 2. **Standing Renewal Waves**
+
 $$
 ρ_R(x,t) = A · sin(kx) · sin(ωt)
 $$

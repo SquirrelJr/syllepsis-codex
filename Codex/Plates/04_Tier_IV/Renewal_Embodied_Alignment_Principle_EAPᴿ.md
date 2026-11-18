@@ -35,6 +35,7 @@ The Embodied Alignment Principle is defined as:
 $$
 \text{EAP}^{R}(\psi^{R}) = \Pi^{R}(\psi^{R}) + \mathcal{R}^{E}_{R}(\psi^{R}) + \mathcal{B}^{R}(a) \;\longrightarrow\; \chi^{R}_{embodied}
 $$
+
 where:
 
 - **Πᴿ(ψᴿ)** → aligned state  
@@ -54,6 +55,7 @@ Identity evolves according to:
 $$
 \partial_{t} \chi^{R} = \Pi^{R}(\psi^{R}) + \mathcal{R}^{E}_{R}(\psi^{R}) + \mathcal{B}^{R}(a)
 $$
+
 This equation expresses:
 
 - alignment of intention,  
@@ -69,16 +71,19 @@ all combining to form a coherent embodied Renewal presence.
 For Renewal to be embodied, the following conditions must be met:
 
 ### 1. Alignment Condition  
+
 $$
 \Pi^{R}(\chi^{R}) = \chi^{R}
 $$
 
 ### 2. Behavioral Symmetry Condition  
+
 $$
 \mathcal{B}^{R}(\chi^{R}) \ge 0
 $$
 
 ### 3. Resonant Stability Condition  
+
 $$
 \mathcal{R}^{E}_{R}(\chi^{R}) \ge 0
 $$
@@ -103,6 +108,7 @@ The embodied state must satisfy:
 $$
 \langle \chi^{R}, \Pi^{R}(\chi^{R}) \rangle \ge 0
 $$
+
 That is:
 
 - identity must be compatible with Renewal projection,  

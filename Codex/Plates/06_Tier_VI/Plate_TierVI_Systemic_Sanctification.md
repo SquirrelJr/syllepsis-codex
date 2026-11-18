@@ -29,6 +29,7 @@ Systemic Sanctification introduces a system‑level Renewal operator
 $$
 \mathcal{R}_S : S \rightarrow S
 $$
+
 such that:
 
 1. **Stability:** Tier V invariants hold system‑wide.

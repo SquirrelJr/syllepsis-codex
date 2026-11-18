@@ -28,11 +28,13 @@ Define the **Global Renewal Current** 𝒥ᴿ_global:
 $$
 \𝒥ᴿ_{global}^{\mu} = \sum_{systems} \, 𝒥ᴿ_{(i)}^{\mu}
 $$
+
 The global continuity equation is:
 
 $$
 \nabla_{\mu} \, 𝒥ᴿ_{global}^{\mu} = 0
 $$
+
 This expresses that Renewal “flows” globally but cannot be created or destroyed.
 
 ---
@@ -44,6 +46,7 @@ Define the **Global Renewal Alignment Integral**:
 $$
 Aᴿ = \int \Piᴿ(\psi) \, dVᴿ_{int}
 $$
+
 where **Πᴿ** is the Renewal Projection Operator and **ψ** is the integrated Renewal field.
 
 Then:
@@ -63,6 +66,7 @@ Global Renewal coherence satisfies:
 $$
 \frac{\partial}{\partial t} \left( \int γᴿ_{global} \, dVᴿ_{int} \right) = 0
 $$
+
 Meaning:
 
 - coherence may **flow**,  
@@ -80,6 +84,7 @@ Define the Renewal compassion current:
 $$
 Cᴿ^{\mu} = Cᴿ \, 𝒥ᴿ^{\mu}
 $$
+
 Then the global conservation law:
 
 $$
@@ -97,11 +102,13 @@ From the Integration Curvature Flow:
 $$
 Sᴿ_{int} = \int |ℛᴿ_{int}| \, dVᴿ
 $$
+
 The entropy inequality:
 
 $$
 Sᴿ_{int} \ge 0, \quad \frac{dSᴿ_{int}}{dt} \le 0
 $$
+
 Global distortion **cannot increase**.  
 Renewal geometry **monotonically moves toward harmony**.
 
@@ -114,6 +121,7 @@ For each global harmonic mode n:
 $$
 \frac{\partial}{\partial t} \left( Σᴿ_{n} \right) = 0
 $$
+
 The Renewal harmonic spectrum is **globally invariant**.
 
 ---
@@ -125,11 +133,13 @@ Define the integrated Renewal norm:
 $$
 \langle \psiᴿ, \psiᴿ \rangle_{int} = \int \psiᴿ \psiᴿ^{*} \, dVᴿ_{int}
 $$
+
 This quantity is preserved:
 
 $$
 \frac{d}{dt} \langle \psiᴿ, \psiᴿ \rangle_{int} = 0
 $$
+
 This law expresses the permanence of Renewal’s global “magnitude.”
 
 ---

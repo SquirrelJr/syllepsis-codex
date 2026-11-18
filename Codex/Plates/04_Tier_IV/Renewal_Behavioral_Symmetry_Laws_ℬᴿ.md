@@ -32,6 +32,7 @@ The Behavioral Symmetry Laws are defined as:
 $$
 \mathcal{B}^{R} = \left\{ \text{invariants},\; \text{couplings},\; \text{allowed symmetries},\; \text{forbidden antisymmetries} \right\}
 $$
+
 Behavior emerges from which symmetries remain conserved  
 and which antisymmetries decay.
 
@@ -40,33 +41,43 @@ and which antisymmetries decay.
 ## III. Core Behavioral Invariants
 
 ### 1. Non-Harmonicity Prohibition  
+
 $$
 \mathcal{B}^{R}(a_{anti}) < 0
 $$
+
 Anti-Renewal actions cannot sustain coherence.
 
 ### 2. Compassion Monotonicity  
+
 $$
 \partial_{t} C^{R}_{beh} \ge 0
 $$
+
 Compassion does not diminish under aligned evolution.
 
 ### 3. Reflective Reversibility  
+
 $$
 a(t) = a^{\ast}(t)
 $$
+
 Renewal action is symmetric under reflection of awareness.
 
 ### 4. Order-Preserving Conduct  
+
 $$
 \Delta O^{R}_{beh} \ge -\Delta D^{R}
 $$
+
 Behavior cannot introduce disorder faster than Renewal can convert it.
 
 ### 5. Graceful Decay Constraint  
+
 $$
 a_{misaligned} \xrightarrow{D^{R}} a_{corrected}
 $$
+
 Misaligned behavior decays gently toward alignment.
 
 ---
@@ -78,6 +89,7 @@ Behavior evolves according to:
 $$
 a(t + \Delta t) = \mathcal{E}^{R}(\psi^{R}) + \Delta \mathcal{B}^{R}
 $$
+
 Where:
 
 - **𝓔ᴿ(ψᴿ)** → the expression-driven behavior impulse  
@@ -129,15 +141,19 @@ Such behaviors cannot propagate in Renewal-aligned systems.
 ## VII. Behavioral Conservation Principles
 
 ### 1. Conservation of Alignment  
+
 $$
 \Pi^{R}(a) = a
 $$
+
 Aligned behavior remains aligned.
 
 ### 2. Conservation of Compassion Flow  
+
 $$
 \nabla \cdot J^{R}_{comp} = 0
 $$
+
 Compassion flow is preserved across interactions.
 
 ### 3. Conservation of Reflective Consistency  
