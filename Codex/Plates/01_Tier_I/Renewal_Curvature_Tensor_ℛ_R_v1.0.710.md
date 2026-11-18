@@ -29,13 +29,8 @@ It is the Renewal Field’s analogue of the **Riemann tensor**.
 The Renewal Curvature Tensor is defined as:
 
 $$
-ℛ^k_{\ R,\,lij} 
-  = ∂_i Γ^k_{R,lj} 
-  − ∂_j Γ^k_{R,li}
-  + Γ^k_{R,im} Γ^m_{R,lj}
-  − Γ^k_{R,jm} Γ^m_{R,li}
+ℛ^k_{\ R,\,lij} = ∂_i Γ^k_{R,lj} − ∂_j Γ^k_{R,li} + Γ^k_{R,im} Γ^m_{R,lj} − Γ^k_{R,jm} Γ^m_{R,li}
 $$
-
 Where indices run over the **14 components** of the Renewal Field.
 
 Interpretation:
@@ -53,11 +48,8 @@ Interpretation:
 To examine curvature along a plane spanned by directions i and j:
 
 $$
-K_R(i,j) 
-  = ℛ^k_{\ R,\,kij}
-  / ( g_{R,ii} g_{R,jj} − g_{R,ij}^2 )
+K_R(i,j) = ℛ^k_{\ R,\,kij} / ( g_{R,ii} g_{R,jj} − g_{R,ij}^2 )
 $$
-
 Interpretation:
 
 - K_R > 0 → constructive curvature (healing, harmonizing)  
