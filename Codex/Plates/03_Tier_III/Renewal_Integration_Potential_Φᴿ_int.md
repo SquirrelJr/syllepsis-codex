@@ -28,29 +28,13 @@ The potential is inspired by energy functionals, Lyapunov methods, coherence lan
 Let q denote the collective modeled state, including the metric and relevant coherence, projection, compassion, decay, and boundary variables. Let Ω be the modeled domain, with boundary ∂Ω. Distinguish the **local scalar potential density** φᴿ_int(q,x) from its **global functional** Φᴿ_int[q]:
 
 $$
-\Phi^R_{\mathrm{int}}[q]
-=
-\int_{\Omega}\phi^R_{\mathrm{int}}(q,x)\,dV_g
-+
-\eta\int_{\partial\Omega}b^R_{\mathrm{boundary}}(q,x)\,dS_g
+\Phi^R_{\mathrm{int}}[q]=\int_{\Omega}\phi^R_{\mathrm{int}}(q,x)\,dV_g+\eta\int_{\partial\Omega}b^R_{\mathrm{boundary}}(q,x)\,dS_g
 $$
 
 A prototype local density is:
 
 $$
-\phi^R_{\mathrm{int}}
-=
-\alpha\lVert\mathcal R^R_{\mathrm{int}}\rVert^2
-+
-\beta(1-\gamma^R_{\mathrm{global}})
-+
-\delta\lVert\Pi^R(\psi)-\psi\rVert^2
--
-\varepsilon F(C^R)
-+
-\zeta H(D^R,\mathrm X^R)
--
-\lambda I^R_{\mathrm{rel}}
+\phi^R_{\mathrm{int}}=\alpha\lVert\mathcal R^R_{\mathrm{int}}\rVert^2+\beta(1-\gamma^R_{\mathrm{global}})+\delta\lVert\Pi^R(\psi)-\psi\rVert^2-\varepsilon F(C^R)+\zeta H(D^R,\mathrm X^R)-\lambda I^R_{\mathrm{rel}}
 $$
 
 Here α, β, δ, ε, ζ, λ, and η are nonnegative model weights, with units chosen so that all contributions are comparable. Norms require specified metric contractions; coherence γᴿ_global is assumed normalized to [0,1]. F is a bounded restorative-benefit function, not an unbounded reward for increasing a compassion norm. H is a defined residual-harm penalty after decay–chaos interaction, rather than an assumption that every decay–chaos product is beneficial. Iᴿ_rel is a bounded or otherwise controlled relational-integration benefit; its sign and effects must be specified in an implementation.
@@ -74,10 +58,7 @@ These are modeling choices. In particular, no universal claim is made that curva
 A scalar's spatial gradient cannot directly equal the time derivative of a rank-two metric. For a chosen metric component of the state, a *formal constrained gradient flow* may instead be written:
 
 $$
-\frac{\partial g^R_{\mu\nu}}{\partial t}
-=
--\mathcal M_{\mu\nu}{}^{\rho\sigma}
-\frac{\delta\Phi^R_{\mathrm{int}}}{\delta g^R_{\rho\sigma}}
+\frac{\partial g^R_{\mu\nu}}{\partial t}=-\mathcal M_{\mu\nu}{}^{\rho\sigma}\frac{\delta\Phi^R_{\mathrm{int}}}{\delta g^R_{\rho\sigma}}
 $$
 
 The mobility operator 𝓜 must be chosen to respect tensor type, admissible constraints, and the geometry of the state space. Other state variables require their own compatible evolution laws. This expression is a proposed specialization of the Integration Curvature Flow, not a derivation of that earlier plate.
@@ -91,13 +72,7 @@ $$
 When 𝓜 is positive semidefinite, the functional is differentiable, and boundary work and external forcing vanish under the chosen conditions, this idealized flow satisfies:
 
 $$
-\frac{d\Phi^R_{\mathrm{int}}}{dt}
-=
--\left\langle
-\frac{\delta\Phi^R_{\mathrm{int}}}{\delta q},
-\mathcal M\frac{\delta\Phi^R_{\mathrm{int}}}{\delta q}
-\right\rangle
-\leq 0
+\frac{d\Phi^R_{\mathrm{int}}}{dt}=-\left\langle\frac{\delta\Phi^R_{\mathrm{int}}}{\delta q},\mathcal M\frac{\delta\Phi^R_{\mathrm{int}}}{\delta q}\right\rangle\leq 0
 $$
 
 This establishes nonincrease of the modeled functional **under those assumptions**, not automatic moral improvement or global convergence.
@@ -109,7 +84,7 @@ This establishes nonincrease of the modeled functional **under those assumptions
 The model seeks admissible, preferably restorative configurations, rather than indiscriminately minimizing each local difficulty:
 
 $$
-q_* \in \operatorname*{arg\,min}_{q\in\mathcal A}\Phi^R_{\mathrm{int}}[q]
+q_* \in \underset{q \in \mathcal{A}}{\mathrm{arg\,min}} \Phi^R_{\mathrm{int}}[q]
 $$
 
 Here 𝒜 is the set of states satisfying the specified conservation, boundary, and ethical modeling constraints. A minimizer need not exist or be unique; local minima need not be globally preferred.
@@ -131,8 +106,7 @@ The intended interpretation balances:
 An interior stationary state under admissible variations satisfies:
 
 $$
-\delta\Phi^R_{\mathrm{int}}[q_*;\,h]=0
-\quad\text{for every admissible variation }h
+\delta\Phi^R_{\mathrm{int}}[q_*;\,h]=0\quad\text{for every admissible variation }h
 $$
 
 Equivalently, the constrained functional derivative vanishes in the relevant directions. Stationarity alone does not establish stability, uniqueness, or ethical goodness.
@@ -164,13 +138,7 @@ The boundary contribution should be scalar. The earlier prototype combined a ten
 One possible *nonnegative mismatch penalty* is:
 
 $$
-b^R_{\mathrm{boundary}}
-=
-a_b\lVert[\![q]\!]\rVert^2
-+
-b_b\lVert[\![J^R\cdot n]\!]\rVert^2
-+
-c_b(1-\gamma^R_{\mathrm{boundary}})
+b^R_{\mathrm{boundary}}=a_b\lVert[\![q]\!]\rVert^2+b_b\lVert[\![J^R\cdot n]\!]\rVert^2+c_b(1-\gamma^R_{\mathrm{boundary}})
 $$
 
 Here [![·]!] denotes a specified jump across an interface; Jᴿ·n is the normal flux of an appropriately defined Renewal current; and a_b, b_b, c_b are nonnegative weights. The norms and comparison maps must be defined for the fields on each side. At external boundaries, suitable prescribed-data mismatches may replace jumps.
@@ -204,11 +172,7 @@ Spiritually, Φᴿ_int is an analogy for a pull toward truth, clarity, compassio
 A relational analogy for the combined outcome is:
 
 $$
-\mathcal G^R_{\mathrm{total}}
-=
-\sum_i\mathcal G^R_i
-+
-\sum_{i \lt j}\mathcal I^R_{ij}
+\mathcal G^R_{\mathrm{total}}=\sum_i\mathcal G^R_i+\sum_{i{\lt}j}\mathcal I^R_{ij}
 $$
 
 The interaction terms represent effects of relationships that are absent from isolated assessments. This is an illustrative decomposition, **not** a physical superposition theorem, a measurement of goodness, or a proof of divine providence.
