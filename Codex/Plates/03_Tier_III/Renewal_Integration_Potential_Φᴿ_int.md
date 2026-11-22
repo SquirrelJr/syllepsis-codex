@@ -208,7 +208,7 @@ $$
 =
 \sum_i\mathcal G^R_i
 +
-\sum_{i<j}\mathcal I^R_{ij}
+\sum_{i \lt j}\mathcal I^R_{ij}
 $$
 
 The interaction terms represent effects of relationships that are absent from isolated assessments. This is an illustrative decomposition, **not** a physical superposition theorem, a measurement of goodness, or a proof of divine providence.
