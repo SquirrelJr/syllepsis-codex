@@ -32,7 +32,7 @@ and its embodied, visible expression in the world.
 The Renewal Manifestation Tensor is defined as:
 
 $$
-\mathcal{M}^{R} = \lambda_{1} \, \Pi^{R}(g^{R}_{int}) + \lambda_{2} \, \nabla \Phi^{R}_{int} + \lambda_{3} \, \gamma^{R}_{global} \, g^{R}_{int} + \lambda_{4} \, (C^{R} \otimes C^{R}) + \lambda_{5} \, (D^{R} \otimes \Chi^{R})
+\mathcal{M}^{R} = \lambda_{1} \, \Pi^{R}(g^{R}_{int}) + \lambda_{2} \, \nabla \Phi^{R}_{int} + \lambda_{3} \, \gamma^{R}_{global} \, g^{R}_{int} + \lambda_{4} \, (C^{R} \otimes C^{R}) + \lambda_{5} \, (D^{R} \otimes \chi^{R})
 $$
 
 where:
